@@ -12,6 +12,18 @@ public class PlayerMovement2 : MonoBehaviour
     //Grounded Vars
     bool grounded = true;
 
+    //Jumping Vars
+    public int maxJumps = 2;
+    private int jumpCount;
+
+    private Rigidbody2D rb;
+
+    void Start()
+    {
+        rb = GetComponent<Rigidbody2D>();
+        jumpCount = maxJumps;
+    }
+
     void Update()
     {
         //Jumping
@@ -39,11 +51,11 @@ public class PlayerMovement2 : MonoBehaviour
 
     }
     //Check if Grounded
-    void OnTriggerEnter2D()
+    void OnCollisionEnter2D()
     {
         grounded = true;
     }
-    void OnTriggerExit2D()
+    void OnCollisionExit2D()
     {
         grounded = false;
     }

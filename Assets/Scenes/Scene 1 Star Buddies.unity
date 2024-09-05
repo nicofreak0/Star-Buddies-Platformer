@@ -1976,6 +1976,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Herbert
       objectReference: {fileID: 0}
+    - target: {fileID: 6826499129739987225, guid: de487a27d51227e42809450bf7b0c647, type: 3}
+      propertyPath: maxJumps
+      value: 2
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
