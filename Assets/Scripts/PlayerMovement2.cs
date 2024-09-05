@@ -29,9 +29,10 @@ public class PlayerMovement2 : MonoBehaviour
         //Jumping
         if (Input.GetKeyDown(KeyCode.Space) || Input.GetKeyDown(KeyCode.UpArrow) || Input.GetKeyDown(KeyCode.Z) || Input.GetKeyDown(KeyCode.W))
         {
-            if (grounded)
+            if (grounded || jumpCount > 0)
             {
                 GetComponent<Rigidbody2D>().velocity = new Vector2(GetComponent<Rigidbody2D>().velocity.x, jump);
+                jumpCount--;
             }
         }
 
@@ -54,6 +55,7 @@ public class PlayerMovement2 : MonoBehaviour
     void OnCollisionEnter2D()
     {
         grounded = true;
+        jumpCount = maxJumps;
     }
     void OnCollisionExit2D()
     {
