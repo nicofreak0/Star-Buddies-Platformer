@@ -17,7 +17,11 @@ public class RandomAppearance : MonoBehaviour
             Debug.LogError("Renderer component not found on this GameObject.");
             return;
         }
-        // Start the coroutine to handle the random appearance logic
+      Invoke(nameof(StartAstriodInvisiblity), 1.2f);
+    }
+
+    private void StartAstriodInvisiblity()
+    {
         StartCoroutine(RandomAppearanceCoroutine());
     }
 
