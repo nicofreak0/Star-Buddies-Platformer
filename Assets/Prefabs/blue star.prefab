@@ -15,6 +15,7 @@ GameObject:
   - component: {fileID: 5013508722545764196}
   - component: {fileID: 5246270282184415443}
   - component: {fileID: 5511520406813984503}
+  - component: {fileID: 800038882431701959}
   m_Layer: 0
   m_Name: blue star
   m_TagString: Untagged
@@ -254,3 +255,16 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 1
+--- !u!114 &800038882431701959
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2695014505955323757}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82ee37d8a6623644d93f6506da24763a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  herbertTag: Herbert
