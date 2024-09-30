@@ -535,6 +535,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 904039080422851088, guid: 5ad86cc25a9312e4f95992bb5bd86755, type: 3}
+      propertyPath: m_SortingOrder
+      value: 4
+      objectReference: {fileID: 0}
     - target: {fileID: 4233358580391877016, guid: 5ad86cc25a9312e4f95992bb5bd86755, type: 3}
       propertyPath: m_Name
       value: Rocket Ship
