@@ -15,6 +15,7 @@ GameObject:
   - component: {fileID: 1871916625088057178}
   - component: {fileID: 5676581747759509642}
   - component: {fileID: 6848136778041644025}
+  - component: {fileID: 3351939303199282517}
   m_Layer: 0
   m_Name: pink star
   m_TagString: Untagged
@@ -262,3 +263,16 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 1
+--- !u!114 &3351939303199282517
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8806896591407861763}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82ee37d8a6623644d93f6506da24763a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  herbertTag: Herbert
