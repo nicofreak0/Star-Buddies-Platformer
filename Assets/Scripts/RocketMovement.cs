@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class PlayerMovement : MonoBehaviour
+public class RocketMovement : MonoBehaviour
 {
     public float moveSpeed = 5f; // Speed of the player
     private Rigidbody2D rb; // Reference to the Rigidbody2D component
