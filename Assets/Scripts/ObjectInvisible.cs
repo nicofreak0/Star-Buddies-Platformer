@@ -4,7 +4,7 @@ using UnityEngine;
 public class RandomAppearance : MonoBehaviour
 {
     public float minInterval = 1.0f; // Minimum time before the object reappears
-    public float maxInterval = 5.0f; // Maximum time before the object reappears
+    public float maxInterval = 3.0f; // Maximum time before the object reappears
 
     private Renderer objectRenderer;
     private bool isVisible = true;
