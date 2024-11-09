@@ -1477,6 +1477,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2172594594345232338, guid: 4bac7637a2aec1442b1690c7874c3cf1, type: 3}
+      propertyPath: m_SortingOrder
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8468940536886260457, guid: 4bac7637a2aec1442b1690c7874c3cf1, type: 3}
       propertyPath: m_Name
       value: Duck With Bowtie

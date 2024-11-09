@@ -111,7 +111,7 @@ Rigidbody2D:
     m_Bits: 0
   m_Interpolate: 0
   m_SleepingMode: 1
-  m_CollisionDetection: 0
+  m_CollisionDetection: 1
   m_Constraints: 0
 --- !u!60 &3679578468265528973
 PolygonCollider2D:
@@ -122,7 +122,7 @@ PolygonCollider2D:
   m_GameObject: {fileID: 5996549380193157854}
   m_Enabled: 1
   m_Density: 1
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 6200000, guid: bf1b11250fceffa4398a22b19325f676, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
