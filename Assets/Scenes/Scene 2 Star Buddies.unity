@@ -134,6 +134,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: green star
       objectReference: {fileID: 0}
+    - target: {fileID: 194318147590907020, guid: 12c0d221fd596a248beb2f93f4b98d16, type: 3}
+      propertyPath: m_TagString
+      value: Collectables
+      objectReference: {fileID: 0}
     - target: {fileID: 986841885912973188, guid: 12c0d221fd596a248beb2f93f4b98d16, type: 3}
       propertyPath: m_IsTrigger
       value: 1
@@ -231,6 +235,10 @@ PrefabInstance:
     - target: {fileID: 194318147590907020, guid: 12c0d221fd596a248beb2f93f4b98d16, type: 3}
       propertyPath: m_Name
       value: green star (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 194318147590907020, guid: 12c0d221fd596a248beb2f93f4b98d16, type: 3}
+      propertyPath: m_TagString
+      value: Collectables
       objectReference: {fileID: 0}
     - target: {fileID: 986841885912973188, guid: 12c0d221fd596a248beb2f93f4b98d16, type: 3}
       propertyPath: m_IsTrigger
@@ -361,6 +369,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pink star (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 8806896591407861763, guid: 24d546580f1357e4e9fd3fac132a1b01, type: 3}
+      propertyPath: m_TagString
+      value: Collectables
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -434,6 +446,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pink star (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 8806896591407861763, guid: 24d546580f1357e4e9fd3fac132a1b01, type: 3}
+      propertyPath: m_TagString
+      value: Collectables
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -506,6 +522,10 @@ PrefabInstance:
     - target: {fileID: 8806896591407861763, guid: 24d546580f1357e4e9fd3fac132a1b01, type: 3}
       propertyPath: m_Name
       value: pink star (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8806896591407861763, guid: 24d546580f1357e4e9fd3fac132a1b01, type: 3}
+      propertyPath: m_TagString
+      value: Collectables
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -594,6 +614,10 @@ PrefabInstance:
     - target: {fileID: 8527159004337431239, guid: 98889a9f03d0ddd48aa90f3966c42ddd, type: 3}
       propertyPath: m_Name
       value: orange star (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8527159004337431239, guid: 98889a9f03d0ddd48aa90f3966c42ddd, type: 3}
+      propertyPath: m_TagString
+      value: Collectables
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -688,6 +712,10 @@ PrefabInstance:
     - target: {fileID: 2695014505955323757, guid: 527211c42600448479e1837474747ac8, type: 3}
       propertyPath: m_Name
       value: blue star (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2695014505955323757, guid: 527211c42600448479e1837474747ac8, type: 3}
+      propertyPath: m_TagString
+      value: Collectables
       objectReference: {fileID: 0}
     - target: {fileID: 3305235135733437666, guid: 527211c42600448479e1837474747ac8, type: 3}
       propertyPath: m_LocalScale.x
@@ -895,6 +923,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pink star (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 8806896591407861763, guid: 24d546580f1357e4e9fd3fac132a1b01, type: 3}
+      propertyPath: m_TagString
+      value: Collectables
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -968,6 +1000,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: yellow star (12)
       objectReference: {fileID: 0}
+    - target: {fileID: 7722371695991490269, guid: 06d534eb8c7df88479dd87a451f1dc7b, type: 3}
+      propertyPath: m_TagString
+      value: Collectables
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1040,6 +1076,10 @@ PrefabInstance:
     - target: {fileID: 8527159004337431239, guid: 98889a9f03d0ddd48aa90f3966c42ddd, type: 3}
       propertyPath: m_Name
       value: orange star (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8527159004337431239, guid: 98889a9f03d0ddd48aa90f3966c42ddd, type: 3}
+      propertyPath: m_TagString
+      value: Collectables
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1119,6 +1159,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: yellow star (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 7722371695991490269, guid: 06d534eb8c7df88479dd87a451f1dc7b, type: 3}
+      propertyPath: m_TagString
+      value: Collectables
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1144,6 +1188,10 @@ PrefabInstance:
     - target: {fileID: 6149530519145174453, guid: be318bc28e6fd5647915934dc4e79311, type: 3}
       propertyPath: m_Name
       value: purple star (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6149530519145174453, guid: be318bc28e6fd5647915934dc4e79311, type: 3}
+      propertyPath: m_TagString
+      value: Collectables
       objectReference: {fileID: 0}
     - target: {fileID: 8044328648588349293, guid: be318bc28e6fd5647915934dc4e79311, type: 3}
       propertyPath: m_LocalScale.x
@@ -1227,6 +1275,10 @@ PrefabInstance:
     - target: {fileID: 6149530519145174453, guid: be318bc28e6fd5647915934dc4e79311, type: 3}
       propertyPath: m_Name
       value: purple star (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6149530519145174453, guid: be318bc28e6fd5647915934dc4e79311, type: 3}
+      propertyPath: m_TagString
+      value: Collectables
       objectReference: {fileID: 0}
     - target: {fileID: 8044328648588349293, guid: be318bc28e6fd5647915934dc4e79311, type: 3}
       propertyPath: m_LocalScale.x
@@ -1630,6 +1682,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: blue star (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 2695014505955323757, guid: 527211c42600448479e1837474747ac8, type: 3}
+      propertyPath: m_TagString
+      value: Collectables
+      objectReference: {fileID: 0}
     - target: {fileID: 3305235135733437666, guid: 527211c42600448479e1837474747ac8, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.06
@@ -1703,6 +1759,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: green star (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 194318147590907020, guid: 12c0d221fd596a248beb2f93f4b98d16, type: 3}
+      propertyPath: m_TagString
+      value: Collectables
+      objectReference: {fileID: 0}
     - target: {fileID: 986841885912973188, guid: 12c0d221fd596a248beb2f93f4b98d16, type: 3}
       propertyPath: m_IsTrigger
       value: 1
@@ -1775,6 +1835,10 @@ PrefabInstance:
     - target: {fileID: 2695014505955323757, guid: 527211c42600448479e1837474747ac8, type: 3}
       propertyPath: m_Name
       value: blue star
+      objectReference: {fileID: 0}
+    - target: {fileID: 2695014505955323757, guid: 527211c42600448479e1837474747ac8, type: 3}
+      propertyPath: m_TagString
+      value: Collectables
       objectReference: {fileID: 0}
     - target: {fileID: 3305235135733437666, guid: 527211c42600448479e1837474747ac8, type: 3}
       propertyPath: m_LocalScale.x
@@ -1977,6 +2041,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: green star (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 194318147590907020, guid: 12c0d221fd596a248beb2f93f4b98d16, type: 3}
+      propertyPath: m_TagString
+      value: Collectables
+      objectReference: {fileID: 0}
     - target: {fileID: 986841885912973188, guid: 12c0d221fd596a248beb2f93f4b98d16, type: 3}
       propertyPath: m_IsTrigger
       value: 1
@@ -2053,6 +2121,10 @@ PrefabInstance:
     - target: {fileID: 6149530519145174453, guid: be318bc28e6fd5647915934dc4e79311, type: 3}
       propertyPath: m_Name
       value: purple star (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6149530519145174453, guid: be318bc28e6fd5647915934dc4e79311, type: 3}
+      propertyPath: m_TagString
+      value: Collectables
       objectReference: {fileID: 0}
     - target: {fileID: 8044328648588349293, guid: be318bc28e6fd5647915934dc4e79311, type: 3}
       propertyPath: m_LocalScale.x
@@ -2256,6 +2328,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pink star (12)
       objectReference: {fileID: 0}
+    - target: {fileID: 8806896591407861763, guid: 24d546580f1357e4e9fd3fac132a1b01, type: 3}
+      propertyPath: m_TagString
+      value: Collectables
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2334,6 +2410,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pink star (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 8806896591407861763, guid: 24d546580f1357e4e9fd3fac132a1b01, type: 3}
+      propertyPath: m_TagString
+      value: Collectables
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2350,6 +2430,10 @@ PrefabInstance:
     - target: {fileID: 194318147590907020, guid: 12c0d221fd596a248beb2f93f4b98d16, type: 3}
       propertyPath: m_Name
       value: green star (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 194318147590907020, guid: 12c0d221fd596a248beb2f93f4b98d16, type: 3}
+      propertyPath: m_TagString
+      value: Collectables
       objectReference: {fileID: 0}
     - target: {fileID: 986841885912973188, guid: 12c0d221fd596a248beb2f93f4b98d16, type: 3}
       propertyPath: m_IsTrigger
@@ -2423,6 +2507,10 @@ PrefabInstance:
     - target: {fileID: 2695014505955323757, guid: 527211c42600448479e1837474747ac8, type: 3}
       propertyPath: m_Name
       value: blue star (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2695014505955323757, guid: 527211c42600448479e1837474747ac8, type: 3}
+      propertyPath: m_TagString
+      value: Collectables
       objectReference: {fileID: 0}
     - target: {fileID: 3305235135733437666, guid: 527211c42600448479e1837474747ac8, type: 3}
       propertyPath: m_LocalScale.x
@@ -2558,6 +2646,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: orange star (12)
       objectReference: {fileID: 0}
+    - target: {fileID: 8527159004337431239, guid: 98889a9f03d0ddd48aa90f3966c42ddd, type: 3}
+      propertyPath: m_TagString
+      value: Collectables
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2589,6 +2681,10 @@ PrefabInstance:
     - target: {fileID: 194318147590907020, guid: 12c0d221fd596a248beb2f93f4b98d16, type: 3}
       propertyPath: m_Name
       value: green star (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 194318147590907020, guid: 12c0d221fd596a248beb2f93f4b98d16, type: 3}
+      propertyPath: m_TagString
+      value: Collectables
       objectReference: {fileID: 0}
     - target: {fileID: 986841885912973188, guid: 12c0d221fd596a248beb2f93f4b98d16, type: 3}
       propertyPath: m_IsTrigger
@@ -2734,6 +2830,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pink star
       objectReference: {fileID: 0}
+    - target: {fileID: 8806896591407861763, guid: 24d546580f1357e4e9fd3fac132a1b01, type: 3}
+      propertyPath: m_TagString
+      value: Collectables
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2754,6 +2854,10 @@ PrefabInstance:
     - target: {fileID: 6149530519145174453, guid: be318bc28e6fd5647915934dc4e79311, type: 3}
       propertyPath: m_Name
       value: purple star (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6149530519145174453, guid: be318bc28e6fd5647915934dc4e79311, type: 3}
+      propertyPath: m_TagString
+      value: Collectables
       objectReference: {fileID: 0}
     - target: {fileID: 8044328648588349293, guid: be318bc28e6fd5647915934dc4e79311, type: 3}
       propertyPath: m_LocalScale.x
@@ -2828,6 +2932,10 @@ PrefabInstance:
     - target: {fileID: 2695014505955323757, guid: 527211c42600448479e1837474747ac8, type: 3}
       propertyPath: m_Name
       value: blue star (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2695014505955323757, guid: 527211c42600448479e1837474747ac8, type: 3}
+      propertyPath: m_TagString
+      value: Collectables
       objectReference: {fileID: 0}
     - target: {fileID: 3305235135733437666, guid: 527211c42600448479e1837474747ac8, type: 3}
       propertyPath: m_LocalScale.x
@@ -2963,6 +3071,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: orange star (14)
       objectReference: {fileID: 0}
+    - target: {fileID: 8527159004337431239, guid: 98889a9f03d0ddd48aa90f3966c42ddd, type: 3}
+      propertyPath: m_TagString
+      value: Collectables
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3035,6 +3147,10 @@ PrefabInstance:
     - target: {fileID: 7722371695991490269, guid: 06d534eb8c7df88479dd87a451f1dc7b, type: 3}
       propertyPath: m_Name
       value: yellow star (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7722371695991490269, guid: 06d534eb8c7df88479dd87a451f1dc7b, type: 3}
+      propertyPath: m_TagString
+      value: Collectables
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3186,6 +3302,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pink star (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 8806896591407861763, guid: 24d546580f1357e4e9fd3fac132a1b01, type: 3}
+      propertyPath: m_TagString
+      value: Collectables
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3202,6 +3322,10 @@ PrefabInstance:
     - target: {fileID: 194318147590907020, guid: 12c0d221fd596a248beb2f93f4b98d16, type: 3}
       propertyPath: m_Name
       value: green star (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 194318147590907020, guid: 12c0d221fd596a248beb2f93f4b98d16, type: 3}
+      propertyPath: m_TagString
+      value: Collectables
       objectReference: {fileID: 0}
     - target: {fileID: 986841885912973188, guid: 12c0d221fd596a248beb2f93f4b98d16, type: 3}
       propertyPath: m_IsTrigger
@@ -3387,6 +3511,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: purple star (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 6149530519145174453, guid: be318bc28e6fd5647915934dc4e79311, type: 3}
+      propertyPath: m_TagString
+      value: Collectables
+      objectReference: {fileID: 0}
     - target: {fileID: 8044328648588349293, guid: be318bc28e6fd5647915934dc4e79311, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.06
@@ -3476,6 +3604,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: green star (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 194318147590907020, guid: 12c0d221fd596a248beb2f93f4b98d16, type: 3}
+      propertyPath: m_TagString
+      value: Collectables
+      objectReference: {fileID: 0}
     - target: {fileID: 986841885912973188, guid: 12c0d221fd596a248beb2f93f4b98d16, type: 3}
       propertyPath: m_IsTrigger
       value: 1
@@ -3563,6 +3695,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: purple star (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 6149530519145174453, guid: be318bc28e6fd5647915934dc4e79311, type: 3}
+      propertyPath: m_TagString
+      value: Collectables
+      objectReference: {fileID: 0}
     - target: {fileID: 8044328648588349293, guid: be318bc28e6fd5647915934dc4e79311, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.06
@@ -3635,6 +3771,10 @@ PrefabInstance:
     - target: {fileID: 6149530519145174453, guid: be318bc28e6fd5647915934dc4e79311, type: 3}
       propertyPath: m_Name
       value: purple star (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6149530519145174453, guid: be318bc28e6fd5647915934dc4e79311, type: 3}
+      propertyPath: m_TagString
+      value: Collectables
       objectReference: {fileID: 0}
     - target: {fileID: 8044328648588349293, guid: be318bc28e6fd5647915934dc4e79311, type: 3}
       propertyPath: m_LocalScale.x
@@ -3709,6 +3849,10 @@ PrefabInstance:
     - target: {fileID: 2695014505955323757, guid: 527211c42600448479e1837474747ac8, type: 3}
       propertyPath: m_Name
       value: blue star (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2695014505955323757, guid: 527211c42600448479e1837474747ac8, type: 3}
+      propertyPath: m_TagString
+      value: Collectables
       objectReference: {fileID: 0}
     - target: {fileID: 3305235135733437666, guid: 527211c42600448479e1837474747ac8, type: 3}
       propertyPath: m_LocalScale.x
@@ -3787,6 +3931,10 @@ PrefabInstance:
     - target: {fileID: 194318147590907020, guid: 12c0d221fd596a248beb2f93f4b98d16, type: 3}
       propertyPath: m_Name
       value: green star (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 194318147590907020, guid: 12c0d221fd596a248beb2f93f4b98d16, type: 3}
+      propertyPath: m_TagString
+      value: Collectables
       objectReference: {fileID: 0}
     - target: {fileID: 986841885912973188, guid: 12c0d221fd596a248beb2f93f4b98d16, type: 3}
       propertyPath: m_IsTrigger
@@ -3916,6 +4064,10 @@ PrefabInstance:
     - target: {fileID: 8527159004337431239, guid: 98889a9f03d0ddd48aa90f3966c42ddd, type: 3}
       propertyPath: m_Name
       value: orange star (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8527159004337431239, guid: 98889a9f03d0ddd48aa90f3966c42ddd, type: 3}
+      propertyPath: m_TagString
+      value: Collectables
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -4164,6 +4316,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: purple star (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 6149530519145174453, guid: be318bc28e6fd5647915934dc4e79311, type: 3}
+      propertyPath: m_TagString
+      value: Collectables
+      objectReference: {fileID: 0}
     - target: {fileID: 8044328648588349293, guid: be318bc28e6fd5647915934dc4e79311, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.06
@@ -4366,6 +4522,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: orange star (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 8527159004337431239, guid: 98889a9f03d0ddd48aa90f3966c42ddd, type: 3}
+      propertyPath: m_TagString
+      value: Collectables
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4397,6 +4557,10 @@ PrefabInstance:
     - target: {fileID: 2695014505955323757, guid: 527211c42600448479e1837474747ac8, type: 3}
       propertyPath: m_Name
       value: blue star (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2695014505955323757, guid: 527211c42600448479e1837474747ac8, type: 3}
+      propertyPath: m_TagString
+      value: Collectables
       objectReference: {fileID: 0}
     - target: {fileID: 3305235135733437666, guid: 527211c42600448479e1837474747ac8, type: 3}
       propertyPath: m_LocalScale.x
@@ -4604,6 +4768,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: orange star (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 8527159004337431239, guid: 98889a9f03d0ddd48aa90f3966c42ddd, type: 3}
+      propertyPath: m_TagString
+      value: Collectables
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4625,6 +4793,10 @@ PrefabInstance:
     - target: {fileID: 2695014505955323757, guid: 527211c42600448479e1837474747ac8, type: 3}
       propertyPath: m_Name
       value: blue star (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2695014505955323757, guid: 527211c42600448479e1837474747ac8, type: 3}
+      propertyPath: m_TagString
+      value: Collectables
       objectReference: {fileID: 0}
     - target: {fileID: 3305235135733437666, guid: 527211c42600448479e1837474747ac8, type: 3}
       propertyPath: m_LocalScale.x
@@ -4755,6 +4927,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: orange star (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 8527159004337431239, guid: 98889a9f03d0ddd48aa90f3966c42ddd, type: 3}
+      propertyPath: m_TagString
+      value: Collectables
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4781,6 +4957,10 @@ PrefabInstance:
     - target: {fileID: 2695014505955323757, guid: 527211c42600448479e1837474747ac8, type: 3}
       propertyPath: m_Name
       value: blue star (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2695014505955323757, guid: 527211c42600448479e1837474747ac8, type: 3}
+      propertyPath: m_TagString
+      value: Collectables
       objectReference: {fileID: 0}
     - target: {fileID: 3305235135733437666, guid: 527211c42600448479e1837474747ac8, type: 3}
       propertyPath: m_LocalScale.x
@@ -4854,6 +5034,10 @@ PrefabInstance:
     - target: {fileID: 194318147590907020, guid: 12c0d221fd596a248beb2f93f4b98d16, type: 3}
       propertyPath: m_Name
       value: green star (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 194318147590907020, guid: 12c0d221fd596a248beb2f93f4b98d16, type: 3}
+      propertyPath: m_TagString
+      value: Collectables
       objectReference: {fileID: 0}
     - target: {fileID: 986841885912973188, guid: 12c0d221fd596a248beb2f93f4b98d16, type: 3}
       propertyPath: m_IsTrigger
@@ -4984,6 +5168,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: yellow star (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 7722371695991490269, guid: 06d534eb8c7df88479dd87a451f1dc7b, type: 3}
+      propertyPath: m_TagString
+      value: Collectables
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5093,6 +5281,10 @@ PrefabInstance:
     - target: {fileID: 6149530519145174453, guid: be318bc28e6fd5647915934dc4e79311, type: 3}
       propertyPath: m_Name
       value: purple star (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6149530519145174453, guid: be318bc28e6fd5647915934dc4e79311, type: 3}
+      propertyPath: m_TagString
+      value: Collectables
       objectReference: {fileID: 0}
     - target: {fileID: 8044328648588349293, guid: be318bc28e6fd5647915934dc4e79311, type: 3}
       propertyPath: m_LocalScale.x
@@ -5229,6 +5421,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: orange star (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 8527159004337431239, guid: 98889a9f03d0ddd48aa90f3966c42ddd, type: 3}
+      propertyPath: m_TagString
+      value: Collectables
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5312,6 +5508,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pink star (14)
       objectReference: {fileID: 0}
+    - target: {fileID: 8806896591407861763, guid: 24d546580f1357e4e9fd3fac132a1b01, type: 3}
+      propertyPath: m_TagString
+      value: Collectables
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5385,6 +5585,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: orange star (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 8527159004337431239, guid: 98889a9f03d0ddd48aa90f3966c42ddd, type: 3}
+      propertyPath: m_TagString
+      value: Collectables
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5401,6 +5605,10 @@ PrefabInstance:
     - target: {fileID: 2695014505955323757, guid: 527211c42600448479e1837474747ac8, type: 3}
       propertyPath: m_Name
       value: blue star (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2695014505955323757, guid: 527211c42600448479e1837474747ac8, type: 3}
+      propertyPath: m_TagString
+      value: Collectables
       objectReference: {fileID: 0}
     - target: {fileID: 3305235135733437666, guid: 527211c42600448479e1837474747ac8, type: 3}
       propertyPath: m_LocalScale.x
@@ -5618,6 +5826,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: yellow star (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 7722371695991490269, guid: 06d534eb8c7df88479dd87a451f1dc7b, type: 3}
+      propertyPath: m_TagString
+      value: Collectables
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5634,6 +5846,10 @@ PrefabInstance:
     - target: {fileID: 2695014505955323757, guid: 527211c42600448479e1837474747ac8, type: 3}
       propertyPath: m_Name
       value: blue star (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2695014505955323757, guid: 527211c42600448479e1837474747ac8, type: 3}
+      propertyPath: m_TagString
+      value: Collectables
       objectReference: {fileID: 0}
     - target: {fileID: 3305235135733437666, guid: 527211c42600448479e1837474747ac8, type: 3}
       propertyPath: m_LocalScale.x
@@ -5717,6 +5933,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: purple star (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 6149530519145174453, guid: be318bc28e6fd5647915934dc4e79311, type: 3}
+      propertyPath: m_TagString
+      value: Collectables
+      objectReference: {fileID: 0}
     - target: {fileID: 8044328648588349293, guid: be318bc28e6fd5647915934dc4e79311, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.06
@@ -5785,6 +6005,10 @@ PrefabInstance:
     - target: {fileID: 194318147590907020, guid: 12c0d221fd596a248beb2f93f4b98d16, type: 3}
       propertyPath: m_Name
       value: green star (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 194318147590907020, guid: 12c0d221fd596a248beb2f93f4b98d16, type: 3}
+      propertyPath: m_TagString
+      value: Collectables
       objectReference: {fileID: 0}
     - target: {fileID: 986841885912973188, guid: 12c0d221fd596a248beb2f93f4b98d16, type: 3}
       propertyPath: m_IsTrigger
@@ -5936,6 +6160,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: green star (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 194318147590907020, guid: 12c0d221fd596a248beb2f93f4b98d16, type: 3}
+      propertyPath: m_TagString
+      value: Collectables
+      objectReference: {fileID: 0}
     - target: {fileID: 986841885912973188, guid: 12c0d221fd596a248beb2f93f4b98d16, type: 3}
       propertyPath: m_IsTrigger
       value: 1
@@ -6013,6 +6241,10 @@ PrefabInstance:
     - target: {fileID: 194318147590907020, guid: 12c0d221fd596a248beb2f93f4b98d16, type: 3}
       propertyPath: m_Name
       value: green star (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 194318147590907020, guid: 12c0d221fd596a248beb2f93f4b98d16, type: 3}
+      propertyPath: m_TagString
+      value: Collectables
       objectReference: {fileID: 0}
     - target: {fileID: 986841885912973188, guid: 12c0d221fd596a248beb2f93f4b98d16, type: 3}
       propertyPath: m_IsTrigger
@@ -6310,6 +6542,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: purple star
       objectReference: {fileID: 0}
+    - target: {fileID: 6149530519145174453, guid: be318bc28e6fd5647915934dc4e79311, type: 3}
+      propertyPath: m_TagString
+      value: Collectables
+      objectReference: {fileID: 0}
     - target: {fileID: 8044328648588349293, guid: be318bc28e6fd5647915934dc4e79311, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.06
@@ -6450,6 +6686,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: yellow star (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 7722371695991490269, guid: 06d534eb8c7df88479dd87a451f1dc7b, type: 3}
+      propertyPath: m_TagString
+      value: Collectables
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -6523,6 +6763,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: orange star (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 8527159004337431239, guid: 98889a9f03d0ddd48aa90f3966c42ddd, type: 3}
+      propertyPath: m_TagString
+      value: Collectables
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -6595,6 +6839,10 @@ PrefabInstance:
     - target: {fileID: 8527159004337431239, guid: 98889a9f03d0ddd48aa90f3966c42ddd, type: 3}
       propertyPath: m_Name
       value: orange star (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8527159004337431239, guid: 98889a9f03d0ddd48aa90f3966c42ddd, type: 3}
+      propertyPath: m_TagString
+      value: Collectables
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -6751,6 +6999,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: orange star
       objectReference: {fileID: 0}
+    - target: {fileID: 8527159004337431239, guid: 98889a9f03d0ddd48aa90f3966c42ddd, type: 3}
+      propertyPath: m_TagString
+      value: Collectables
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -6823,6 +7075,10 @@ PrefabInstance:
     - target: {fileID: 7722371695991490269, guid: 06d534eb8c7df88479dd87a451f1dc7b, type: 3}
       propertyPath: m_Name
       value: yellow star (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7722371695991490269, guid: 06d534eb8c7df88479dd87a451f1dc7b, type: 3}
+      propertyPath: m_TagString
+      value: Collectables
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -7210,6 +7466,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: yellow star
       objectReference: {fileID: 0}
+    - target: {fileID: 7722371695991490269, guid: 06d534eb8c7df88479dd87a451f1dc7b, type: 3}
+      propertyPath: m_TagString
+      value: Collectables
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -7542,6 +7802,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pink star (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 8806896591407861763, guid: 24d546580f1357e4e9fd3fac132a1b01, type: 3}
+      propertyPath: m_TagString
+      value: Collectables
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -7697,6 +7961,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: yellow star (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 7722371695991490269, guid: 06d534eb8c7df88479dd87a451f1dc7b, type: 3}
+      propertyPath: m_TagString
+      value: Collectables
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -7717,6 +7985,10 @@ PrefabInstance:
     - target: {fileID: 6149530519145174453, guid: be318bc28e6fd5647915934dc4e79311, type: 3}
       propertyPath: m_Name
       value: purple star (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6149530519145174453, guid: be318bc28e6fd5647915934dc4e79311, type: 3}
+      propertyPath: m_TagString
+      value: Collectables
       objectReference: {fileID: 0}
     - target: {fileID: 8044328648588349293, guid: be318bc28e6fd5647915934dc4e79311, type: 3}
       propertyPath: m_LocalScale.x
@@ -7791,6 +8063,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: purple star (12)
       objectReference: {fileID: 0}
+    - target: {fileID: 6149530519145174453, guid: be318bc28e6fd5647915934dc4e79311, type: 3}
+      propertyPath: m_TagString
+      value: Collectables
+      objectReference: {fileID: 0}
     - target: {fileID: 8044328648588349293, guid: be318bc28e6fd5647915934dc4e79311, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.06
@@ -7859,6 +8135,10 @@ PrefabInstance:
     - target: {fileID: 2695014505955323757, guid: 527211c42600448479e1837474747ac8, type: 3}
       propertyPath: m_Name
       value: blue star (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2695014505955323757, guid: 527211c42600448479e1837474747ac8, type: 3}
+      propertyPath: m_TagString
+      value: Collectables
       objectReference: {fileID: 0}
     - target: {fileID: 3305235135733437666, guid: 527211c42600448479e1837474747ac8, type: 3}
       propertyPath: m_LocalScale.x
@@ -8158,6 +8438,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: yellow star (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 7722371695991490269, guid: 06d534eb8c7df88479dd87a451f1dc7b, type: 3}
+      propertyPath: m_TagString
+      value: Collectables
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -8230,6 +8514,10 @@ PrefabInstance:
     - target: {fileID: 7722371695991490269, guid: 06d534eb8c7df88479dd87a451f1dc7b, type: 3}
       propertyPath: m_Name
       value: yellow star (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7722371695991490269, guid: 06d534eb8c7df88479dd87a451f1dc7b, type: 3}
+      propertyPath: m_TagString
+      value: Collectables
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -8304,6 +8592,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: orange star (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 8527159004337431239, guid: 98889a9f03d0ddd48aa90f3966c42ddd, type: 3}
+      propertyPath: m_TagString
+      value: Collectables
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -8320,6 +8612,10 @@ PrefabInstance:
     - target: {fileID: 194318147590907020, guid: 12c0d221fd596a248beb2f93f4b98d16, type: 3}
       propertyPath: m_Name
       value: green star (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 194318147590907020, guid: 12c0d221fd596a248beb2f93f4b98d16, type: 3}
+      propertyPath: m_TagString
+      value: Collectables
       objectReference: {fileID: 0}
     - target: {fileID: 986841885912973188, guid: 12c0d221fd596a248beb2f93f4b98d16, type: 3}
       propertyPath: m_IsTrigger
@@ -8619,6 +8915,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: yellow star (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 7722371695991490269, guid: 06d534eb8c7df88479dd87a451f1dc7b, type: 3}
+      propertyPath: m_TagString
+      value: Collectables
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -8713,6 +9013,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: green star (15)
       objectReference: {fileID: 0}
+    - target: {fileID: 194318147590907020, guid: 12c0d221fd596a248beb2f93f4b98d16, type: 3}
+      propertyPath: m_TagString
+      value: Collectables
+      objectReference: {fileID: 0}
     - target: {fileID: 986841885912973188, guid: 12c0d221fd596a248beb2f93f4b98d16, type: 3}
       propertyPath: m_IsTrigger
       value: 1
@@ -8789,6 +9093,10 @@ PrefabInstance:
     - target: {fileID: 6149530519145174453, guid: be318bc28e6fd5647915934dc4e79311, type: 3}
       propertyPath: m_Name
       value: purple star (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6149530519145174453, guid: be318bc28e6fd5647915934dc4e79311, type: 3}
+      propertyPath: m_TagString
+      value: Collectables
       objectReference: {fileID: 0}
     - target: {fileID: 8044328648588349293, guid: be318bc28e6fd5647915934dc4e79311, type: 3}
       propertyPath: m_LocalScale.x
@@ -8915,6 +9223,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pink star (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 8806896591407861763, guid: 24d546580f1357e4e9fd3fac132a1b01, type: 3}
+      propertyPath: m_TagString
+      value: Collectables
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -8935,6 +9247,10 @@ PrefabInstance:
     - target: {fileID: 6149530519145174453, guid: be318bc28e6fd5647915934dc4e79311, type: 3}
       propertyPath: m_Name
       value: purple star (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6149530519145174453, guid: be318bc28e6fd5647915934dc4e79311, type: 3}
+      propertyPath: m_TagString
+      value: Collectables
       objectReference: {fileID: 0}
     - target: {fileID: 8044328648588349293, guid: be318bc28e6fd5647915934dc4e79311, type: 3}
       propertyPath: m_LocalScale.x
@@ -9061,6 +9377,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: orange star (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 8527159004337431239, guid: 98889a9f03d0ddd48aa90f3966c42ddd, type: 3}
+      propertyPath: m_TagString
+      value: Collectables
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -9082,6 +9402,10 @@ PrefabInstance:
     - target: {fileID: 2695014505955323757, guid: 527211c42600448479e1837474747ac8, type: 3}
       propertyPath: m_Name
       value: blue star (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2695014505955323757, guid: 527211c42600448479e1837474747ac8, type: 3}
+      propertyPath: m_TagString
+      value: Collectables
       objectReference: {fileID: 0}
     - target: {fileID: 3305235135733437666, guid: 527211c42600448479e1837474747ac8, type: 3}
       propertyPath: m_LocalScale.x
@@ -9155,6 +9479,10 @@ PrefabInstance:
     - target: {fileID: 2695014505955323757, guid: 527211c42600448479e1837474747ac8, type: 3}
       propertyPath: m_Name
       value: blue star (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2695014505955323757, guid: 527211c42600448479e1837474747ac8, type: 3}
+      propertyPath: m_TagString
+      value: Collectables
       objectReference: {fileID: 0}
     - target: {fileID: 3305235135733437666, guid: 527211c42600448479e1837474747ac8, type: 3}
       propertyPath: m_LocalScale.x
@@ -9238,6 +9566,10 @@ PrefabInstance:
     - target: {fileID: 194318147590907020, guid: 12c0d221fd596a248beb2f93f4b98d16, type: 3}
       propertyPath: m_Name
       value: green star (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 194318147590907020, guid: 12c0d221fd596a248beb2f93f4b98d16, type: 3}
+      propertyPath: m_TagString
+      value: Collectables
       objectReference: {fileID: 0}
     - target: {fileID: 986841885912973188, guid: 12c0d221fd596a248beb2f93f4b98d16, type: 3}
       propertyPath: m_IsTrigger
@@ -9368,6 +9700,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: yellow star (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 7722371695991490269, guid: 06d534eb8c7df88479dd87a451f1dc7b, type: 3}
+      propertyPath: m_TagString
+      value: Collectables
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -9466,6 +9802,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: yellow star (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 7722371695991490269, guid: 06d534eb8c7df88479dd87a451f1dc7b, type: 3}
+      propertyPath: m_TagString
+      value: Collectables
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -9543,6 +9883,10 @@ PrefabInstance:
     - target: {fileID: 8806896591407861763, guid: 24d546580f1357e4e9fd3fac132a1b01, type: 3}
       propertyPath: m_Name
       value: pink star (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8806896591407861763, guid: 24d546580f1357e4e9fd3fac132a1b01, type: 3}
+      propertyPath: m_TagString
+      value: Collectables
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -9848,6 +10192,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pink star (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 8806896591407861763, guid: 24d546580f1357e4e9fd3fac132a1b01, type: 3}
+      propertyPath: m_TagString
+      value: Collectables
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -10080,6 +10428,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pink star (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 8806896591407861763, guid: 24d546580f1357e4e9fd3fac132a1b01, type: 3}
+      propertyPath: m_TagString
+      value: Collectables
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -10153,6 +10505,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pink star (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 8806896591407861763, guid: 24d546580f1357e4e9fd3fac132a1b01, type: 3}
+      propertyPath: m_TagString
+      value: Collectables
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -10169,6 +10525,10 @@ PrefabInstance:
     - target: {fileID: 2695014505955323757, guid: 527211c42600448479e1837474747ac8, type: 3}
       propertyPath: m_Name
       value: blue star (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2695014505955323757, guid: 527211c42600448479e1837474747ac8, type: 3}
+      propertyPath: m_TagString
+      value: Collectables
       objectReference: {fileID: 0}
     - target: {fileID: 3305235135733437666, guid: 527211c42600448479e1837474747ac8, type: 3}
       propertyPath: m_LocalScale.x
@@ -10319,6 +10679,10 @@ PrefabInstance:
     - target: {fileID: 2695014505955323757, guid: 527211c42600448479e1837474747ac8, type: 3}
       propertyPath: m_Name
       value: blue star (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2695014505955323757, guid: 527211c42600448479e1837474747ac8, type: 3}
+      propertyPath: m_TagString
+      value: Collectables
       objectReference: {fileID: 0}
     - target: {fileID: 3305235135733437666, guid: 527211c42600448479e1837474747ac8, type: 3}
       propertyPath: m_LocalScale.x
@@ -10617,6 +10981,10 @@ PrefabInstance:
     - target: {fileID: 7722371695991490269, guid: 06d534eb8c7df88479dd87a451f1dc7b, type: 3}
       propertyPath: m_Name
       value: yellow star (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7722371695991490269, guid: 06d534eb8c7df88479dd87a451f1dc7b, type: 3}
+      propertyPath: m_TagString
+      value: Collectables
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
