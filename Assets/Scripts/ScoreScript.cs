@@ -18,6 +18,12 @@ public class ScoreScript : MonoBehaviour
         UpdateScoreText();
     }
 
+    public void DeductPoints(int points)
+    {
+        score -= points;
+        UpdateScoreText();
+    }
+
     void UpdateScoreText()
     {
         scoreText.text = "Score: " + score.ToString();

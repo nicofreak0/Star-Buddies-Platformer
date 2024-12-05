@@ -13,9 +13,7 @@ GameObject:
   - component: {fileID: 6098307550889325761}
   - component: {fileID: 476839306281090479}
   - component: {fileID: 2675218044382452272}
-  - component: {fileID: 5070796325275542917}
-  - component: {fileID: 7468543210498387620}
-  - component: {fileID: 7294617102114972980}
+  - component: {fileID: 6029558457294188764}
   m_Layer: 0
   m_Name: Raindrop
   m_TagString: Untagged
@@ -164,7 +162,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7a31f4dce1d7c7f48a30f0bfef027bda, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!114 &5070796325275542917
+--- !u!114 &6029558457294188764
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -173,32 +171,8 @@ MonoBehaviour:
   m_GameObject: {fileID: 3239844376638913718}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 82ee37d8a6623644d93f6506da24763a, type: 3}
+  m_Script: {fileID: 11500000, guid: 1f76c37eec8e4254986503e8f94e3bc7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  herbertTag: Herbert
---- !u!114 &7468543210498387620
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3239844376638913718}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7edacaac7db1e0d469f60e3bf331795b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  speed: 1
---- !u!114 &7294617102114972980
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3239844376638913718}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c9941d5137f34744d8f8efd696c679fe, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  penaltyPoints: 2
+  scoreScript: {fileID: 0}

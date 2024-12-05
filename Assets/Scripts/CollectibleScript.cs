@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class CollectibleScript : MonoBehaviour
 {
-    public int points = 10;
+    public int points = 1;
     public ScoreScript scoreScript;
 
     void OnTriggerEnter2D(Collider2D other)
