@@ -226,7 +226,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &8528992
 Transform:
@@ -1042,7 +1042,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &217918359
 Transform:
@@ -1179,7 +1179,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &242161100
 Transform:
@@ -1432,7 +1432,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &315444786
 Transform:
@@ -2209,6 +2209,10 @@ PrefabInstance:
     - target: {fileID: 6271509297512731582, guid: ceef6955d253f7247bb5a93949c4d978, type: 3}
       propertyPath: m_Name
       value: Pond
+      objectReference: {fileID: 0}
+    - target: {fileID: 6271509297512731582, guid: ceef6955d253f7247bb5a93949c4d978, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 9010004991053858929, guid: ceef6955d253f7247bb5a93949c4d978, type: 3}
       propertyPath: m_SortingOrder
@@ -5791,7 +5795,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1188121560
 Transform:
@@ -7025,6 +7029,10 @@ PrefabInstance:
     - target: {fileID: 9133498417149511671, guid: 4e54010f9ad239c4489ae390c1b9e7c6, type: 3}
       propertyPath: m_Name
       value: Square
+      objectReference: {fileID: 0}
+    - target: {fileID: 9133498417149511671, guid: 4e54010f9ad239c4489ae390c1b9e7c6, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -8965,6 +8973,10 @@ PrefabInstance:
     - target: {fileID: 9133498417149511671, guid: 4e54010f9ad239c4489ae390c1b9e7c6, type: 3}
       propertyPath: m_Name
       value: Square (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 9133498417149511671, guid: 4e54010f9ad239c4489ae390c1b9e7c6, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -11771,7 +11783,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5ae73b571863bab4783cd0fc1cb6c35e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  level: 7
+  level: 8
 --- !u!1001 &2366539508372507316
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -11828,6 +11840,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Falling Background
       objectReference: {fileID: 0}
+    - target: {fileID: 7135095616042409287, guid: 7aba7da064c2d5d4cbe5e1e9b0fda276, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -11844,6 +11860,10 @@ PrefabInstance:
     - target: {fileID: 1153130641429455293, guid: 2157da87aa6363447a9fb7623f71f5ae, type: 3}
       propertyPath: m_Name
       value: Top Stars
+      objectReference: {fileID: 0}
+    - target: {fileID: 1153130641429455293, guid: 2157da87aa6363447a9fb7623f71f5ae, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4467521947098682302, guid: 2157da87aa6363447a9fb7623f71f5ae, type: 3}
       propertyPath: m_LocalPosition.x
@@ -11954,6 +11974,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pond
       objectReference: {fileID: 0}
+    - target: {fileID: 6271509297512731582, guid: ceef6955d253f7247bb5a93949c4d978, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -11970,6 +11994,10 @@ PrefabInstance:
     - target: {fileID: 4326754864905916944, guid: 5f87425900b69b44cb04ce3efa134845, type: 3}
       propertyPath: m_Name
       value: Moon
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326754864905916944, guid: 5f87425900b69b44cb04ce3efa134845, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6396340204073906905, guid: 5f87425900b69b44cb04ce3efa134845, type: 3}
       propertyPath: m_LocalScale.x
@@ -12079,6 +12107,10 @@ PrefabInstance:
     - target: {fileID: 4760670545590355627, guid: 9d91fc481ff96174d8740f78b70785cf, type: 3}
       propertyPath: m_Name
       value: Bottom Stars
+      objectReference: {fileID: 0}
+    - target: {fileID: 4760670545590355627, guid: 9d91fc481ff96174d8740f78b70785cf, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

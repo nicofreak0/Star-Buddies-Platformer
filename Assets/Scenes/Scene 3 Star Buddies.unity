@@ -466,6 +466,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Square (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 9133498417149511671, guid: 4e54010f9ad239c4489ae390c1b9e7c6, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1365,7 +1369,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1078989296
 Transform:
@@ -1593,7 +1597,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5ae73b571863bab4783cd0fc1cb6c35e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  level: 5
+  level: 6
 --- !u!1001 &1319254804
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1838,7 +1842,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1627251431
 Transform:
@@ -1908,6 +1912,10 @@ PrefabInstance:
     - target: {fileID: 9133498417149511671, guid: 4e54010f9ad239c4489ae390c1b9e7c6, type: 3}
       propertyPath: m_Name
       value: Square
+      objectReference: {fileID: 0}
+    - target: {fileID: 9133498417149511671, guid: 4e54010f9ad239c4489ae390c1b9e7c6, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2159,6 +2167,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Duck With Bowtie
       objectReference: {fileID: 0}
+    - target: {fileID: 8468940536886260457, guid: 4bac7637a2aec1442b1690c7874c3cf1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2181,6 +2193,10 @@ PrefabInstance:
     - target: {fileID: 3923334754176401751, guid: a99600e590b88eb458571862f055cc62, type: 3}
       propertyPath: m_Name
       value: Moon Background
+      objectReference: {fileID: 0}
+    - target: {fileID: 3923334754176401751, guid: a99600e590b88eb458571862f055cc62, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 8918223017482128871, guid: a99600e590b88eb458571862f055cc62, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2278,6 +2294,10 @@ PrefabInstance:
     - target: {fileID: 6000200988700752242, guid: 85028e011b9812247ba3fd9ece67281f, type: 3}
       propertyPath: m_Name
       value: Duck Platform
+      objectReference: {fileID: 0}
+    - target: {fileID: 6000200988700752242, guid: 85028e011b9812247ba3fd9ece67281f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
