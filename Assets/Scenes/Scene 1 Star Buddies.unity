@@ -1580,6 +1580,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1476515453}
     m_Modifications:
+    - target: {fileID: 473886117852937269, guid: be318bc28e6fd5647915934dc4e79311, type: 3}
+      propertyPath: points
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 473886117852937269, guid: be318bc28e6fd5647915934dc4e79311, type: 3}
+      propertyPath: scoreScript
+      value: 
+      objectReference: {fileID: 1208905453}
     - target: {fileID: 4182396010561616805, guid: be318bc28e6fd5647915934dc4e79311, type: 3}
       propertyPath: m_IsTrigger
       value: 1
@@ -1775,6 +1783,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4829728033700578697, guid: 527211c42600448479e1837474747ac8, type: 3}
+      propertyPath: points
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4829728033700578697, guid: 527211c42600448479e1837474747ac8, type: 3}
+      propertyPath: scoreScript
+      value: 
+      objectReference: {fileID: 1208905453}
     - target: {fileID: 6015050361782452011, guid: 527211c42600448479e1837474747ac8, type: 3}
       propertyPath: m_IsTrigger
       value: 1
@@ -1968,6 +1984,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1476515453}
     m_Modifications:
+    - target: {fileID: 1620697672929595344, guid: 98889a9f03d0ddd48aa90f3966c42ddd, type: 3}
+      propertyPath: points
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1620697672929595344, guid: 98889a9f03d0ddd48aa90f3966c42ddd, type: 3}
+      propertyPath: scoreScript
+      value: 
+      objectReference: {fileID: 1208905453}
     - target: {fileID: 5096921789190841372, guid: 98889a9f03d0ddd48aa90f3966c42ddd, type: 3}
       propertyPath: m_IsTrigger
       value: 1
@@ -2090,6 +2114,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8270876316619749477, guid: 12c0d221fd596a248beb2f93f4b98d16, type: 3}
+      propertyPath: points
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8270876316619749477, guid: 12c0d221fd596a248beb2f93f4b98d16, type: 3}
+      propertyPath: scoreScript
+      value: 
+      objectReference: {fileID: 1208905453}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2192,6 +2224,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Score text canvas
       objectReference: {fileID: 0}
+    - target: {fileID: 8569010036083701536, guid: 99f4c7a89826a384abb01120c9a232d0, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 271.5847
+      objectReference: {fileID: 0}
+    - target: {fileID: 8569010036083701536, guid: 99f4c7a89826a384abb01120c9a232d0, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -725.62756
+      objectReference: {fileID: 0}
+    - target: {fileID: 8952578447920231866, guid: 99f4c7a89826a384abb01120c9a232d0, type: 3}
+      propertyPath: m_margin.z
+      value: -1.1931915
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2254,6 +2298,14 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 6856714858294561055, guid: 24d546580f1357e4e9fd3fac132a1b01, type: 3}
+      propertyPath: points
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6856714858294561055, guid: 24d546580f1357e4e9fd3fac132a1b01, type: 3}
+      propertyPath: scoreScript
+      value: 
+      objectReference: {fileID: 1208905453}
     - target: {fileID: 8806896591407861763, guid: 24d546580f1357e4e9fd3fac132a1b01, type: 3}
       propertyPath: m_Name
       value: pink star
@@ -2306,7 +2358,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0f22ee3adaf3d1a4ca79051bb2a45dec, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreText: {fileID: 0}
+  scoreText: {fileID: 1362281018}
 --- !u!4 &1208905454
 Transform:
   m_ObjectHideFlags: 0
@@ -2322,6 +2374,17 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1362281018 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 8952578447920231866, guid: 99f4c7a89826a384abb01120c9a232d0, type: 3}
+  m_PrefabInstance: {fileID: 919935751}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!4 &1365978861 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 7658804772882568538, guid: 224a897c4079edd458b449ebef976dea, type: 3}
@@ -3704,6 +3767,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1476515453}
     m_Modifications:
+    - target: {fileID: -7933861824866341316, guid: 06d534eb8c7df88479dd87a451f1dc7b, type: 3}
+      propertyPath: points
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -7933861824866341316, guid: 06d534eb8c7df88479dd87a451f1dc7b, type: 3}
+      propertyPath: scoreScript
+      value: 
+      objectReference: {fileID: 1208905453}
     - target: {fileID: 6531146434354036624, guid: 06d534eb8c7df88479dd87a451f1dc7b, type: 3}
       propertyPath: m_LocalPosition.x
       value: 7.29

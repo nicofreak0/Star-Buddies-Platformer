@@ -194,6 +194,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8270876316619749477, guid: 12c0d221fd596a248beb2f93f4b98d16, type: 3}
+      propertyPath: scoreScript
+      value: 
+      objectReference: {fileID: 158556270}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -296,6 +300,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8270876316619749477, guid: 12c0d221fd596a248beb2f93f4b98d16, type: 3}
+      propertyPath: scoreScript
+      value: 
+      objectReference: {fileID: 158556270}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -365,6 +373,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 6856714858294561055, guid: 24d546580f1357e4e9fd3fac132a1b01, type: 3}
+      propertyPath: scoreScript
+      value: 
+      objectReference: {fileID: 158556270}
     - target: {fileID: 8806896591407861763, guid: 24d546580f1357e4e9fd3fac132a1b01, type: 3}
       propertyPath: m_Name
       value: pink star (5)
@@ -442,6 +454,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 6856714858294561055, guid: 24d546580f1357e4e9fd3fac132a1b01, type: 3}
+      propertyPath: scoreScript
+      value: 
+      objectReference: {fileID: 158556270}
     - target: {fileID: 8806896591407861763, guid: 24d546580f1357e4e9fd3fac132a1b01, type: 3}
       propertyPath: m_Name
       value: pink star (9)
@@ -519,6 +535,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 6856714858294561055, guid: 24d546580f1357e4e9fd3fac132a1b01, type: 3}
+      propertyPath: scoreScript
+      value: 
+      objectReference: {fileID: 158556270}
     - target: {fileID: 8806896591407861763, guid: 24d546580f1357e4e9fd3fac132a1b01, type: 3}
       propertyPath: m_Name
       value: pink star (8)
@@ -571,7 +591,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0f22ee3adaf3d1a4ca79051bb2a45dec, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreText: {fileID: 0}
+  scoreText: {fileID: 1493709484}
 --- !u!4 &158556271
 Transform:
   m_ObjectHideFlags: 0
@@ -600,6 +620,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 406253939}
     m_Modifications:
+    - target: {fileID: 1620697672929595344, guid: 98889a9f03d0ddd48aa90f3966c42ddd, type: 3}
+      propertyPath: scoreScript
+      value: 
+      objectReference: {fileID: 158556270}
     - target: {fileID: 5096921789190841372, guid: 98889a9f03d0ddd48aa90f3966c42ddd, type: 3}
       propertyPath: m_IsTrigger
       value: 1
@@ -814,6 +838,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4829728033700578697, guid: 527211c42600448479e1837474747ac8, type: 3}
+      propertyPath: scoreScript
+      value: 
+      objectReference: {fileID: 158556270}
     - target: {fileID: 6015050361782452011, guid: 527211c42600448479e1837474747ac8, type: 3}
       propertyPath: m_IsTrigger
       value: 1
@@ -964,6 +992,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 6856714858294561055, guid: 24d546580f1357e4e9fd3fac132a1b01, type: 3}
+      propertyPath: scoreScript
+      value: 
+      objectReference: {fileID: 158556270}
     - target: {fileID: 8806896591407861763, guid: 24d546580f1357e4e9fd3fac132a1b01, type: 3}
       propertyPath: m_Name
       value: pink star (7)
@@ -985,6 +1017,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 406253939}
     m_Modifications:
+    - target: {fileID: -7933861824866341316, guid: 06d534eb8c7df88479dd87a451f1dc7b, type: 3}
+      propertyPath: scoreScript
+      value: 
+      objectReference: {fileID: 158556270}
     - target: {fileID: 6531146434354036624, guid: 06d534eb8c7df88479dd87a451f1dc7b, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.06
@@ -1062,6 +1098,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 406253939}
     m_Modifications:
+    - target: {fileID: 1620697672929595344, guid: 98889a9f03d0ddd48aa90f3966c42ddd, type: 3}
+      propertyPath: scoreScript
+      value: 
+      objectReference: {fileID: 158556270}
     - target: {fileID: 5096921789190841372, guid: 98889a9f03d0ddd48aa90f3966c42ddd, type: 3}
       propertyPath: m_IsTrigger
       value: 1
@@ -1144,6 +1184,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 406253939}
     m_Modifications:
+    - target: {fileID: -7933861824866341316, guid: 06d534eb8c7df88479dd87a451f1dc7b, type: 3}
+      propertyPath: scoreScript
+      value: 
+      objectReference: {fileID: 158556270}
     - target: {fileID: 6531146434354036624, guid: 06d534eb8c7df88479dd87a451f1dc7b, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.06
@@ -1226,6 +1270,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 406253939}
     m_Modifications:
+    - target: {fileID: 473886117852937269, guid: be318bc28e6fd5647915934dc4e79311, type: 3}
+      propertyPath: scoreScript
+      value: 
+      objectReference: {fileID: 158556270}
     - target: {fileID: 4182396010561616805, guid: be318bc28e6fd5647915934dc4e79311, type: 3}
       propertyPath: m_IsTrigger
       value: 1
@@ -1313,6 +1361,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 406253939}
     m_Modifications:
+    - target: {fileID: 473886117852937269, guid: be318bc28e6fd5647915934dc4e79311, type: 3}
+      propertyPath: scoreScript
+      value: 
+      objectReference: {fileID: 158556270}
     - target: {fileID: 4182396010561616805, guid: be318bc28e6fd5647915934dc4e79311, type: 3}
       propertyPath: m_IsTrigger
       value: 1
@@ -1783,6 +1835,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4829728033700578697, guid: 527211c42600448479e1837474747ac8, type: 3}
+      propertyPath: scoreScript
+      value: 
+      objectReference: {fileID: 158556270}
     - target: {fileID: 6015050361782452011, guid: 527211c42600448479e1837474747ac8, type: 3}
       propertyPath: m_IsTrigger
       value: 1
@@ -1864,6 +1920,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8270876316619749477, guid: 12c0d221fd596a248beb2f93f4b98d16, type: 3}
+      propertyPath: scoreScript
+      value: 
+      objectReference: {fileID: 158556270}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1937,6 +1997,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4829728033700578697, guid: 527211c42600448479e1837474747ac8, type: 3}
+      propertyPath: scoreScript
+      value: 
+      objectReference: {fileID: 158556270}
     - target: {fileID: 6015050361782452011, guid: 527211c42600448479e1837474747ac8, type: 3}
       propertyPath: m_IsTrigger
       value: 1
@@ -2146,6 +2210,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8270876316619749477, guid: 12c0d221fd596a248beb2f93f4b98d16, type: 3}
+      propertyPath: scoreScript
+      value: 
+      objectReference: {fileID: 158556270}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2159,6 +2227,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 406253939}
     m_Modifications:
+    - target: {fileID: 473886117852937269, guid: be318bc28e6fd5647915934dc4e79311, type: 3}
+      propertyPath: scoreScript
+      value: 
+      objectReference: {fileID: 158556270}
     - target: {fileID: 4182396010561616805, guid: be318bc28e6fd5647915934dc4e79311, type: 3}
       propertyPath: m_IsTrigger
       value: 1
@@ -2369,6 +2441,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 6856714858294561055, guid: 24d546580f1357e4e9fd3fac132a1b01, type: 3}
+      propertyPath: scoreScript
+      value: 
+      objectReference: {fileID: 158556270}
     - target: {fileID: 8806896591407861763, guid: 24d546580f1357e4e9fd3fac132a1b01, type: 3}
       propertyPath: m_Name
       value: pink star (12)
@@ -2451,6 +2527,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 6856714858294561055, guid: 24d546580f1357e4e9fd3fac132a1b01, type: 3}
+      propertyPath: scoreScript
+      value: 
+      objectReference: {fileID: 158556270}
     - target: {fileID: 8806896591407861763, guid: 24d546580f1357e4e9fd3fac132a1b01, type: 3}
       propertyPath: m_Name
       value: pink star (6)
@@ -2536,6 +2616,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8270876316619749477, guid: 12c0d221fd596a248beb2f93f4b98d16, type: 3}
+      propertyPath: scoreScript
+      value: 
+      objectReference: {fileID: 158556270}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2609,6 +2693,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4829728033700578697, guid: 527211c42600448479e1837474747ac8, type: 3}
+      propertyPath: scoreScript
+      value: 
+      objectReference: {fileID: 158556270}
     - target: {fileID: 6015050361782452011, guid: 527211c42600448479e1837474747ac8, type: 3}
       propertyPath: m_IsTrigger
       value: 1
@@ -2631,6 +2719,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 406253939}
     m_Modifications:
+    - target: {fileID: 1620697672929595344, guid: 98889a9f03d0ddd48aa90f3966c42ddd, type: 3}
+      propertyPath: scoreScript
+      value: 
+      objectReference: {fileID: 158556270}
     - target: {fileID: 5096921789190841372, guid: 98889a9f03d0ddd48aa90f3966c42ddd, type: 3}
       propertyPath: m_IsTrigger
       value: 1
@@ -2787,6 +2879,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8270876316619749477, guid: 12c0d221fd596a248beb2f93f4b98d16, type: 3}
+      propertyPath: scoreScript
+      value: 
+      objectReference: {fileID: 158556270}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2871,6 +2967,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 6856714858294561055, guid: 24d546580f1357e4e9fd3fac132a1b01, type: 3}
+      propertyPath: scoreScript
+      value: 
+      objectReference: {fileID: 158556270}
     - target: {fileID: 8806896591407861763, guid: 24d546580f1357e4e9fd3fac132a1b01, type: 3}
       propertyPath: m_Name
       value: pink star
@@ -2892,6 +2992,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 406253939}
     m_Modifications:
+    - target: {fileID: 473886117852937269, guid: be318bc28e6fd5647915934dc4e79311, type: 3}
+      propertyPath: scoreScript
+      value: 
+      objectReference: {fileID: 158556270}
     - target: {fileID: 4182396010561616805, guid: be318bc28e6fd5647915934dc4e79311, type: 3}
       propertyPath: m_IsTrigger
       value: 1
@@ -3034,6 +3138,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4829728033700578697, guid: 527211c42600448479e1837474747ac8, type: 3}
+      propertyPath: scoreScript
+      value: 
+      objectReference: {fileID: 158556270}
     - target: {fileID: 6015050361782452011, guid: 527211c42600448479e1837474747ac8, type: 3}
       propertyPath: m_IsTrigger
       value: 1
@@ -3056,6 +3164,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 406253939}
     m_Modifications:
+    - target: {fileID: 1620697672929595344, guid: 98889a9f03d0ddd48aa90f3966c42ddd, type: 3}
+      propertyPath: scoreScript
+      value: 
+      objectReference: {fileID: 158556270}
     - target: {fileID: 5096921789190841372, guid: 98889a9f03d0ddd48aa90f3966c42ddd, type: 3}
       propertyPath: m_IsTrigger
       value: 1
@@ -3133,6 +3245,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 406253939}
     m_Modifications:
+    - target: {fileID: -7933861824866341316, guid: 06d534eb8c7df88479dd87a451f1dc7b, type: 3}
+      propertyPath: scoreScript
+      value: 
+      objectReference: {fileID: 158556270}
     - target: {fileID: 6531146434354036624, guid: 06d534eb8c7df88479dd87a451f1dc7b, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.06
@@ -3343,6 +3459,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 6856714858294561055, guid: 24d546580f1357e4e9fd3fac132a1b01, type: 3}
+      propertyPath: scoreScript
+      value: 
+      objectReference: {fileID: 158556270}
     - target: {fileID: 8806896591407861763, guid: 24d546580f1357e4e9fd3fac132a1b01, type: 3}
       propertyPath: m_Name
       value: pink star (11)
@@ -3428,6 +3548,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8270876316619749477, guid: 12c0d221fd596a248beb2f93f4b98d16, type: 3}
+      propertyPath: scoreScript
+      value: 
+      objectReference: {fileID: 158556270}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3548,6 +3672,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 406253939}
     m_Modifications:
+    - target: {fileID: 473886117852937269, guid: be318bc28e6fd5647915934dc4e79311, type: 3}
+      propertyPath: scoreScript
+      value: 
+      objectReference: {fileID: 158556270}
     - target: {fileID: 4182396010561616805, guid: be318bc28e6fd5647915934dc4e79311, type: 3}
       propertyPath: m_IsTrigger
       value: 1
@@ -3709,6 +3837,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8270876316619749477, guid: 12c0d221fd596a248beb2f93f4b98d16, type: 3}
+      propertyPath: scoreScript
+      value: 
+      objectReference: {fileID: 158556270}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3732,6 +3864,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 406253939}
     m_Modifications:
+    - target: {fileID: 473886117852937269, guid: be318bc28e6fd5647915934dc4e79311, type: 3}
+      propertyPath: scoreScript
+      value: 
+      objectReference: {fileID: 158556270}
     - target: {fileID: 4182396010561616805, guid: be318bc28e6fd5647915934dc4e79311, type: 3}
       propertyPath: m_IsTrigger
       value: 1
@@ -3809,6 +3945,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 406253939}
     m_Modifications:
+    - target: {fileID: 473886117852937269, guid: be318bc28e6fd5647915934dc4e79311, type: 3}
+      propertyPath: scoreScript
+      value: 
+      objectReference: {fileID: 158556270}
     - target: {fileID: 4182396010561616805, guid: be318bc28e6fd5647915934dc4e79311, type: 3}
       propertyPath: m_IsTrigger
       value: 1
@@ -3951,6 +4091,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4829728033700578697, guid: 527211c42600448479e1837474747ac8, type: 3}
+      propertyPath: scoreScript
+      value: 
+      objectReference: {fileID: 158556270}
     - target: {fileID: 6015050361782452011, guid: 527211c42600448479e1837474747ac8, type: 3}
       propertyPath: m_IsTrigger
       value: 1
@@ -4037,6 +4181,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8270876316619749477, guid: 12c0d221fd596a248beb2f93f4b98d16, type: 3}
+      propertyPath: scoreScript
+      value: 
+      objectReference: {fileID: 158556270}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4050,6 +4198,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 406253939}
     m_Modifications:
+    - target: {fileID: 1620697672929595344, guid: 98889a9f03d0ddd48aa90f3966c42ddd, type: 3}
+      propertyPath: scoreScript
+      value: 
+      objectReference: {fileID: 158556270}
     - target: {fileID: 5096921789190841372, guid: 98889a9f03d0ddd48aa90f3966c42ddd, type: 3}
       propertyPath: m_IsTrigger
       value: 1
@@ -4353,6 +4505,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 406253939}
     m_Modifications:
+    - target: {fileID: 473886117852937269, guid: be318bc28e6fd5647915934dc4e79311, type: 3}
+      propertyPath: scoreScript
+      value: 
+      objectReference: {fileID: 158556270}
     - target: {fileID: 4182396010561616805, guid: be318bc28e6fd5647915934dc4e79311, type: 3}
       propertyPath: m_IsTrigger
       value: 1
@@ -4507,6 +4663,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 406253939}
     m_Modifications:
+    - target: {fileID: 1620697672929595344, guid: 98889a9f03d0ddd48aa90f3966c42ddd, type: 3}
+      propertyPath: scoreScript
+      value: 
+      objectReference: {fileID: 158556270}
     - target: {fileID: 5096921789190841372, guid: 98889a9f03d0ddd48aa90f3966c42ddd, type: 3}
       propertyPath: m_IsTrigger
       value: 1
@@ -4659,6 +4819,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4829728033700578697, guid: 527211c42600448479e1837474747ac8, type: 3}
+      propertyPath: scoreScript
+      value: 
+      objectReference: {fileID: 158556270}
     - target: {fileID: 6015050361782452011, guid: 527211c42600448479e1837474747ac8, type: 3}
       propertyPath: m_IsTrigger
       value: 1
@@ -4753,6 +4917,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 406253939}
     m_Modifications:
+    - target: {fileID: 1620697672929595344, guid: 98889a9f03d0ddd48aa90f3966c42ddd, type: 3}
+      propertyPath: scoreScript
+      value: 
+      objectReference: {fileID: 158556270}
     - target: {fileID: 5096921789190841372, guid: 98889a9f03d0ddd48aa90f3966c42ddd, type: 3}
       propertyPath: m_IsTrigger
       value: 1
@@ -4895,6 +5063,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4829728033700578697, guid: 527211c42600448479e1837474747ac8, type: 3}
+      propertyPath: scoreScript
+      value: 
+      objectReference: {fileID: 158556270}
     - target: {fileID: 6015050361782452011, guid: 527211c42600448479e1837474747ac8, type: 3}
       propertyPath: m_IsTrigger
       value: 1
@@ -4912,6 +5084,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 406253939}
     m_Modifications:
+    - target: {fileID: 1620697672929595344, guid: 98889a9f03d0ddd48aa90f3966c42ddd, type: 3}
+      propertyPath: scoreScript
+      value: 
+      objectReference: {fileID: 158556270}
     - target: {fileID: 5096921789190841372, guid: 98889a9f03d0ddd48aa90f3966c42ddd, type: 3}
       propertyPath: m_IsTrigger
       value: 1
@@ -5059,6 +5235,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4829728033700578697, guid: 527211c42600448479e1837474747ac8, type: 3}
+      propertyPath: scoreScript
+      value: 
+      objectReference: {fileID: 158556270}
     - target: {fileID: 6015050361782452011, guid: 527211c42600448479e1837474747ac8, type: 3}
       propertyPath: m_IsTrigger
       value: 1
@@ -5140,6 +5320,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8270876316619749477, guid: 12c0d221fd596a248beb2f93f4b98d16, type: 3}
+      propertyPath: scoreScript
+      value: 
+      objectReference: {fileID: 158556270}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5153,6 +5337,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 406253939}
     m_Modifications:
+    - target: {fileID: -7933861824866341316, guid: 06d534eb8c7df88479dd87a451f1dc7b, type: 3}
+      propertyPath: scoreScript
+      value: 
+      objectReference: {fileID: 158556270}
     - target: {fileID: 6531146434354036624, guid: 06d534eb8c7df88479dd87a451f1dc7b, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.06
@@ -5319,6 +5507,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 406253939}
     m_Modifications:
+    - target: {fileID: 473886117852937269, guid: be318bc28e6fd5647915934dc4e79311, type: 3}
+      propertyPath: scoreScript
+      value: 
+      objectReference: {fileID: 158556270}
     - target: {fileID: 4182396010561616805, guid: be318bc28e6fd5647915934dc4e79311, type: 3}
       propertyPath: m_IsTrigger
       value: 1
@@ -5406,6 +5598,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 406253939}
     m_Modifications:
+    - target: {fileID: 1620697672929595344, guid: 98889a9f03d0ddd48aa90f3966c42ddd, type: 3}
+      propertyPath: scoreScript
+      value: 
+      objectReference: {fileID: 158556270}
     - target: {fileID: 5096921789190841372, guid: 98889a9f03d0ddd48aa90f3966c42ddd, type: 3}
       propertyPath: m_IsTrigger
       value: 1
@@ -5549,6 +5745,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 6856714858294561055, guid: 24d546580f1357e4e9fd3fac132a1b01, type: 3}
+      propertyPath: scoreScript
+      value: 
+      objectReference: {fileID: 158556270}
     - target: {fileID: 8806896591407861763, guid: 24d546580f1357e4e9fd3fac132a1b01, type: 3}
       propertyPath: m_Name
       value: pink star (14)
@@ -5570,6 +5770,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 406253939}
     m_Modifications:
+    - target: {fileID: 1620697672929595344, guid: 98889a9f03d0ddd48aa90f3966c42ddd, type: 3}
+      propertyPath: scoreScript
+      value: 
+      objectReference: {fileID: 158556270}
     - target: {fileID: 5096921789190841372, guid: 98889a9f03d0ddd48aa90f3966c42ddd, type: 3}
       propertyPath: m_IsTrigger
       value: 1
@@ -5707,6 +5911,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4829728033700578697, guid: 527211c42600448479e1837474747ac8, type: 3}
+      propertyPath: scoreScript
+      value: 
+      objectReference: {fileID: 158556270}
     - target: {fileID: 6015050361782452011, guid: 527211c42600448479e1837474747ac8, type: 3}
       propertyPath: m_IsTrigger
       value: 1
@@ -5811,6 +6019,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 406253939}
     m_Modifications:
+    - target: {fileID: -7933861824866341316, guid: 06d534eb8c7df88479dd87a451f1dc7b, type: 3}
+      propertyPath: scoreScript
+      value: 
+      objectReference: {fileID: 158556270}
     - target: {fileID: 6531146434354036624, guid: 06d534eb8c7df88479dd87a451f1dc7b, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.06
@@ -5948,6 +6160,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4829728033700578697, guid: 527211c42600448479e1837474747ac8, type: 3}
+      propertyPath: scoreScript
+      value: 
+      objectReference: {fileID: 158556270}
     - target: {fileID: 6015050361782452011, guid: 527211c42600448479e1837474747ac8, type: 3}
       propertyPath: m_IsTrigger
       value: 1
@@ -5970,6 +6186,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 406253939}
     m_Modifications:
+    - target: {fileID: 473886117852937269, guid: be318bc28e6fd5647915934dc4e79311, type: 3}
+      propertyPath: scoreScript
+      value: 
+      objectReference: {fileID: 158556270}
     - target: {fileID: 4182396010561616805, guid: be318bc28e6fd5647915934dc4e79311, type: 3}
       propertyPath: m_IsTrigger
       value: 1
@@ -6111,6 +6331,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8270876316619749477, guid: 12c0d221fd596a248beb2f93f4b98d16, type: 3}
+      propertyPath: scoreScript
+      value: 
+      objectReference: {fileID: 158556270}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -6265,6 +6489,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8270876316619749477, guid: 12c0d221fd596a248beb2f93f4b98d16, type: 3}
+      propertyPath: scoreScript
+      value: 
+      objectReference: {fileID: 158556270}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -6347,6 +6575,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8270876316619749477, guid: 12c0d221fd596a248beb2f93f4b98d16, type: 3}
+      propertyPath: scoreScript
+      value: 
+      objectReference: {fileID: 158556270}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -6579,6 +6811,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 406253939}
     m_Modifications:
+    - target: {fileID: 473886117852937269, guid: be318bc28e6fd5647915934dc4e79311, type: 3}
+      propertyPath: scoreScript
+      value: 
+      objectReference: {fileID: 158556270}
     - target: {fileID: 4182396010561616805, guid: be318bc28e6fd5647915934dc4e79311, type: 3}
       propertyPath: m_IsTrigger
       value: 1
@@ -6671,6 +6907,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 406253939}
     m_Modifications:
+    - target: {fileID: -7933861824866341316, guid: 06d534eb8c7df88479dd87a451f1dc7b, type: 3}
+      propertyPath: scoreScript
+      value: 
+      objectReference: {fileID: 158556270}
     - target: {fileID: 6531146434354036624, guid: 06d534eb8c7df88479dd87a451f1dc7b, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.06
@@ -6740,6 +6980,126 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 06d534eb8c7df88479dd87a451f1dc7b, type: 3}
+--- !u!1001 &1493709483
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 3359077877297555339, guid: 99f4c7a89826a384abb01120c9a232d0, type: 3}
+      propertyPath: m_Pivot.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3359077877297555339, guid: 99f4c7a89826a384abb01120c9a232d0, type: 3}
+      propertyPath: m_Pivot.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3359077877297555339, guid: 99f4c7a89826a384abb01120c9a232d0, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3359077877297555339, guid: 99f4c7a89826a384abb01120c9a232d0, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3359077877297555339, guid: 99f4c7a89826a384abb01120c9a232d0, type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3359077877297555339, guid: 99f4c7a89826a384abb01120c9a232d0, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3359077877297555339, guid: 99f4c7a89826a384abb01120c9a232d0, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3359077877297555339, guid: 99f4c7a89826a384abb01120c9a232d0, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3359077877297555339, guid: 99f4c7a89826a384abb01120c9a232d0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3359077877297555339, guid: 99f4c7a89826a384abb01120c9a232d0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3359077877297555339, guid: 99f4c7a89826a384abb01120c9a232d0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3359077877297555339, guid: 99f4c7a89826a384abb01120c9a232d0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3359077877297555339, guid: 99f4c7a89826a384abb01120c9a232d0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3359077877297555339, guid: 99f4c7a89826a384abb01120c9a232d0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3359077877297555339, guid: 99f4c7a89826a384abb01120c9a232d0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3359077877297555339, guid: 99f4c7a89826a384abb01120c9a232d0, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3359077877297555339, guid: 99f4c7a89826a384abb01120c9a232d0, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3359077877297555339, guid: 99f4c7a89826a384abb01120c9a232d0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3359077877297555339, guid: 99f4c7a89826a384abb01120c9a232d0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3359077877297555339, guid: 99f4c7a89826a384abb01120c9a232d0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8525192847807640707, guid: 99f4c7a89826a384abb01120c9a232d0, type: 3}
+      propertyPath: m_Name
+      value: Score text canvas
+      objectReference: {fileID: 0}
+    - target: {fileID: 8569010036083701536, guid: 99f4c7a89826a384abb01120c9a232d0, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 271.5847
+      objectReference: {fileID: 0}
+    - target: {fileID: 8569010036083701536, guid: 99f4c7a89826a384abb01120c9a232d0, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -725.62756
+      objectReference: {fileID: 0}
+    - target: {fileID: 8952578447920231866, guid: 99f4c7a89826a384abb01120c9a232d0, type: 3}
+      propertyPath: m_margin.z
+      value: -1.1931915
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 99f4c7a89826a384abb01120c9a232d0, type: 3}
+--- !u!114 &1493709484 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 8952578447920231866, guid: 99f4c7a89826a384abb01120c9a232d0, type: 3}
+  m_PrefabInstance: {fileID: 1493709483}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &1497487604
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6748,6 +7108,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 406253939}
     m_Modifications:
+    - target: {fileID: 1620697672929595344, guid: 98889a9f03d0ddd48aa90f3966c42ddd, type: 3}
+      propertyPath: scoreScript
+      value: 
+      objectReference: {fileID: 158556270}
     - target: {fileID: 5096921789190841372, guid: 98889a9f03d0ddd48aa90f3966c42ddd, type: 3}
       propertyPath: m_IsTrigger
       value: 1
@@ -6825,6 +7189,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 406253939}
     m_Modifications:
+    - target: {fileID: 1620697672929595344, guid: 98889a9f03d0ddd48aa90f3966c42ddd, type: 3}
+      propertyPath: scoreScript
+      value: 
+      objectReference: {fileID: 158556270}
     - target: {fileID: 5096921789190841372, guid: 98889a9f03d0ddd48aa90f3966c42ddd, type: 3}
       propertyPath: m_IsTrigger
       value: 1
@@ -6984,6 +7352,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 406253939}
     m_Modifications:
+    - target: {fileID: 1620697672929595344, guid: 98889a9f03d0ddd48aa90f3966c42ddd, type: 3}
+      propertyPath: scoreScript
+      value: 
+      objectReference: {fileID: 158556270}
     - target: {fileID: 5096921789190841372, guid: 98889a9f03d0ddd48aa90f3966c42ddd, type: 3}
       propertyPath: m_IsTrigger
       value: 1
@@ -7061,6 +7433,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 406253939}
     m_Modifications:
+    - target: {fileID: -7933861824866341316, guid: 06d534eb8c7df88479dd87a451f1dc7b, type: 3}
+      propertyPath: scoreScript
+      value: 
+      objectReference: {fileID: 158556270}
     - target: {fileID: 6531146434354036624, guid: 06d534eb8c7df88479dd87a451f1dc7b, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.06
@@ -7443,103 +7819,6 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
---- !u!1001 &1630248120
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 3359077877297555339, guid: 99f4c7a89826a384abb01120c9a232d0, type: 3}
-      propertyPath: m_Pivot.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3359077877297555339, guid: 99f4c7a89826a384abb01120c9a232d0, type: 3}
-      propertyPath: m_Pivot.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3359077877297555339, guid: 99f4c7a89826a384abb01120c9a232d0, type: 3}
-      propertyPath: m_AnchorMax.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3359077877297555339, guid: 99f4c7a89826a384abb01120c9a232d0, type: 3}
-      propertyPath: m_AnchorMax.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3359077877297555339, guid: 99f4c7a89826a384abb01120c9a232d0, type: 3}
-      propertyPath: m_AnchorMin.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3359077877297555339, guid: 99f4c7a89826a384abb01120c9a232d0, type: 3}
-      propertyPath: m_AnchorMin.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3359077877297555339, guid: 99f4c7a89826a384abb01120c9a232d0, type: 3}
-      propertyPath: m_SizeDelta.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3359077877297555339, guid: 99f4c7a89826a384abb01120c9a232d0, type: 3}
-      propertyPath: m_SizeDelta.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3359077877297555339, guid: 99f4c7a89826a384abb01120c9a232d0, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3359077877297555339, guid: 99f4c7a89826a384abb01120c9a232d0, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3359077877297555339, guid: 99f4c7a89826a384abb01120c9a232d0, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3359077877297555339, guid: 99f4c7a89826a384abb01120c9a232d0, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 3359077877297555339, guid: 99f4c7a89826a384abb01120c9a232d0, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3359077877297555339, guid: 99f4c7a89826a384abb01120c9a232d0, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3359077877297555339, guid: 99f4c7a89826a384abb01120c9a232d0, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3359077877297555339, guid: 99f4c7a89826a384abb01120c9a232d0, type: 3}
-      propertyPath: m_AnchoredPosition.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3359077877297555339, guid: 99f4c7a89826a384abb01120c9a232d0, type: 3}
-      propertyPath: m_AnchoredPosition.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3359077877297555339, guid: 99f4c7a89826a384abb01120c9a232d0, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3359077877297555339, guid: 99f4c7a89826a384abb01120c9a232d0, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3359077877297555339, guid: 99f4c7a89826a384abb01120c9a232d0, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8525192847807640707, guid: 99f4c7a89826a384abb01120c9a232d0, type: 3}
-      propertyPath: m_Name
-      value: Score text canvas
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 99f4c7a89826a384abb01120c9a232d0, type: 3}
 --- !u!1001 &1635970712
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -7548,6 +7827,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 406253939}
     m_Modifications:
+    - target: {fileID: -7933861824866341316, guid: 06d534eb8c7df88479dd87a451f1dc7b, type: 3}
+      propertyPath: scoreScript
+      value: 
+      objectReference: {fileID: 158556270}
     - target: {fileID: 6531146434354036624, guid: 06d534eb8c7df88479dd87a451f1dc7b, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.06
@@ -7940,6 +8223,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 6856714858294561055, guid: 24d546580f1357e4e9fd3fac132a1b01, type: 3}
+      propertyPath: scoreScript
+      value: 
+      objectReference: {fileID: 158556270}
     - target: {fileID: 8806896591407861763, guid: 24d546580f1357e4e9fd3fac132a1b01, type: 3}
       propertyPath: m_Name
       value: pink star (13)
@@ -8043,6 +8330,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 406253939}
     m_Modifications:
+    - target: {fileID: -7933861824866341316, guid: 06d534eb8c7df88479dd87a451f1dc7b, type: 3}
+      propertyPath: scoreScript
+      value: 
+      objectReference: {fileID: 158556270}
     - target: {fileID: 6531146434354036624, guid: 06d534eb8c7df88479dd87a451f1dc7b, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.06
@@ -8120,6 +8411,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 406253939}
     m_Modifications:
+    - target: {fileID: 473886117852937269, guid: be318bc28e6fd5647915934dc4e79311, type: 3}
+      propertyPath: scoreScript
+      value: 
+      objectReference: {fileID: 158556270}
     - target: {fileID: 4182396010561616805, guid: be318bc28e6fd5647915934dc4e79311, type: 3}
       propertyPath: m_IsTrigger
       value: 1
@@ -8197,6 +8492,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 406253939}
     m_Modifications:
+    - target: {fileID: 473886117852937269, guid: be318bc28e6fd5647915934dc4e79311, type: 3}
+      propertyPath: scoreScript
+      value: 
+      objectReference: {fileID: 158556270}
     - target: {fileID: 4182396010561616805, guid: be318bc28e6fd5647915934dc4e79311, type: 3}
       propertyPath: m_IsTrigger
       value: 1
@@ -8334,6 +8633,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4829728033700578697, guid: 527211c42600448479e1837474747ac8, type: 3}
+      propertyPath: scoreScript
+      value: 
+      objectReference: {fileID: 158556270}
     - target: {fileID: 6015050361782452011, guid: 527211c42600448479e1837474747ac8, type: 3}
       propertyPath: m_IsTrigger
       value: 1
@@ -8520,6 +8823,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 406253939}
     m_Modifications:
+    - target: {fileID: -7933861824866341316, guid: 06d534eb8c7df88479dd87a451f1dc7b, type: 3}
+      propertyPath: scoreScript
+      value: 
+      objectReference: {fileID: 158556270}
     - target: {fileID: 6531146434354036624, guid: 06d534eb8c7df88479dd87a451f1dc7b, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.06
@@ -8597,6 +8904,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 406253939}
     m_Modifications:
+    - target: {fileID: -7933861824866341316, guid: 06d534eb8c7df88479dd87a451f1dc7b, type: 3}
+      propertyPath: scoreScript
+      value: 
+      objectReference: {fileID: 158556270}
     - target: {fileID: 6531146434354036624, guid: 06d534eb8c7df88479dd87a451f1dc7b, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.06
@@ -8674,6 +8985,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 406253939}
     m_Modifications:
+    - target: {fileID: 1620697672929595344, guid: 98889a9f03d0ddd48aa90f3966c42ddd, type: 3}
+      propertyPath: scoreScript
+      value: 
+      objectReference: {fileID: 158556270}
     - target: {fileID: 5096921789190841372, guid: 98889a9f03d0ddd48aa90f3966c42ddd, type: 3}
       propertyPath: m_IsTrigger
       value: 1
@@ -8815,6 +9130,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8270876316619749477, guid: 12c0d221fd596a248beb2f93f4b98d16, type: 3}
+      propertyPath: scoreScript
+      value: 
+      objectReference: {fileID: 158556270}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -8997,6 +9316,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 406253939}
     m_Modifications:
+    - target: {fileID: -7933861824866341316, guid: 06d534eb8c7df88479dd87a451f1dc7b, type: 3}
+      propertyPath: scoreScript
+      value: 
+      objectReference: {fileID: 158556270}
     - target: {fileID: 6531146434354036624, guid: 06d534eb8c7df88479dd87a451f1dc7b, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.06
@@ -9215,6 +9538,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8270876316619749477, guid: 12c0d221fd596a248beb2f93f4b98d16, type: 3}
+      propertyPath: scoreScript
+      value: 
+      objectReference: {fileID: 158556270}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -9228,6 +9555,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 406253939}
     m_Modifications:
+    - target: {fileID: 473886117852937269, guid: be318bc28e6fd5647915934dc4e79311, type: 3}
+      propertyPath: scoreScript
+      value: 
+      objectReference: {fileID: 158556270}
     - target: {fileID: 4182396010561616805, guid: be318bc28e6fd5647915934dc4e79311, type: 3}
       propertyPath: m_IsTrigger
       value: 1
@@ -9361,6 +9692,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 6856714858294561055, guid: 24d546580f1357e4e9fd3fac132a1b01, type: 3}
+      propertyPath: scoreScript
+      value: 
+      objectReference: {fileID: 158556270}
     - target: {fileID: 8806896591407861763, guid: 24d546580f1357e4e9fd3fac132a1b01, type: 3}
       propertyPath: m_Name
       value: pink star (10)
@@ -9382,6 +9717,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 406253939}
     m_Modifications:
+    - target: {fileID: 473886117852937269, guid: be318bc28e6fd5647915934dc4e79311, type: 3}
+      propertyPath: scoreScript
+      value: 
+      objectReference: {fileID: 158556270}
     - target: {fileID: 4182396010561616805, guid: be318bc28e6fd5647915934dc4e79311, type: 3}
       propertyPath: m_IsTrigger
       value: 1
@@ -9459,6 +9798,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 406253939}
     m_Modifications:
+    - target: {fileID: 1620697672929595344, guid: 98889a9f03d0ddd48aa90f3966c42ddd, type: 3}
+      propertyPath: scoreScript
+      value: 
+      objectReference: {fileID: 158556270}
     - target: {fileID: 5096921789190841372, guid: 98889a9f03d0ddd48aa90f3966c42ddd, type: 3}
       propertyPath: m_IsTrigger
       value: 1
@@ -9601,6 +9944,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4829728033700578697, guid: 527211c42600448479e1837474747ac8, type: 3}
+      propertyPath: scoreScript
+      value: 
+      objectReference: {fileID: 158556270}
     - target: {fileID: 6015050361782452011, guid: 527211c42600448479e1837474747ac8, type: 3}
       propertyPath: m_IsTrigger
       value: 1
@@ -9678,6 +10025,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4829728033700578697, guid: 527211c42600448479e1837474747ac8, type: 3}
+      propertyPath: scoreScript
+      value: 
+      objectReference: {fileID: 158556270}
     - target: {fileID: 6015050361782452011, guid: 527211c42600448479e1837474747ac8, type: 3}
       propertyPath: m_IsTrigger
       value: 1
@@ -9769,6 +10120,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8270876316619749477, guid: 12c0d221fd596a248beb2f93f4b98d16, type: 3}
+      propertyPath: scoreScript
+      value: 
+      objectReference: {fileID: 158556270}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -9782,6 +10137,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 406253939}
     m_Modifications:
+    - target: {fileID: -7933861824866341316, guid: 06d534eb8c7df88479dd87a451f1dc7b, type: 3}
+      propertyPath: scoreScript
+      value: 
+      objectReference: {fileID: 158556270}
     - target: {fileID: 6531146434354036624, guid: 06d534eb8c7df88479dd87a451f1dc7b, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.06
@@ -9884,6 +10243,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 406253939}
     m_Modifications:
+    - target: {fileID: -7933861824866341316, guid: 06d534eb8c7df88479dd87a451f1dc7b, type: 3}
+      propertyPath: scoreScript
+      value: 
+      objectReference: {fileID: 158556270}
     - target: {fileID: 6531146434354036624, guid: 06d534eb8c7df88479dd87a451f1dc7b, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.06
@@ -10022,6 +10385,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 6856714858294561055, guid: 24d546580f1357e4e9fd3fac132a1b01, type: 3}
+      propertyPath: scoreScript
+      value: 
+      objectReference: {fileID: 158556270}
     - target: {fileID: 8806896591407861763, guid: 24d546580f1357e4e9fd3fac132a1b01, type: 3}
       propertyPath: m_Name
       value: pink star (3)
@@ -10330,6 +10697,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 6856714858294561055, guid: 24d546580f1357e4e9fd3fac132a1b01, type: 3}
+      propertyPath: scoreScript
+      value: 
+      objectReference: {fileID: 158556270}
     - target: {fileID: 8806896591407861763, guid: 24d546580f1357e4e9fd3fac132a1b01, type: 3}
       propertyPath: m_Name
       value: pink star (2)
@@ -10566,6 +10937,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 6856714858294561055, guid: 24d546580f1357e4e9fd3fac132a1b01, type: 3}
+      propertyPath: scoreScript
+      value: 
+      objectReference: {fileID: 158556270}
     - target: {fileID: 8806896591407861763, guid: 24d546580f1357e4e9fd3fac132a1b01, type: 3}
       propertyPath: m_Name
       value: pink star (4)
@@ -10643,6 +11018,10 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 6856714858294561055, guid: 24d546580f1357e4e9fd3fac132a1b01, type: 3}
+      propertyPath: scoreScript
+      value: 
+      objectReference: {fileID: 158556270}
     - target: {fileID: 8806896591407861763, guid: 24d546580f1357e4e9fd3fac132a1b01, type: 3}
       propertyPath: m_Name
       value: pink star (1)
@@ -10724,6 +11103,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4829728033700578697, guid: 527211c42600448479e1837474747ac8, type: 3}
+      propertyPath: scoreScript
+      value: 
+      objectReference: {fileID: 158556270}
     - target: {fileID: 6015050361782452011, guid: 527211c42600448479e1837474747ac8, type: 3}
       propertyPath: m_IsTrigger
       value: 1
@@ -10878,6 +11261,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4829728033700578697, guid: 527211c42600448479e1837474747ac8, type: 3}
+      propertyPath: scoreScript
+      value: 
+      objectReference: {fileID: 158556270}
     - target: {fileID: 6015050361782452011, guid: 527211c42600448479e1837474747ac8, type: 3}
       propertyPath: m_IsTrigger
       value: 1
@@ -11064,6 +11451,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 406253939}
     m_Modifications:
+    - target: {fileID: -7933861824866341316, guid: 06d534eb8c7df88479dd87a451f1dc7b, type: 3}
+      propertyPath: scoreScript
+      value: 
+      objectReference: {fileID: 158556270}
     - target: {fileID: 6531146434354036624, guid: 06d534eb8c7df88479dd87a451f1dc7b, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.06
@@ -11318,4 +11709,4 @@ SceneRoots:
   - {fileID: 1673007054}
   - {fileID: 406253939}
   - {fileID: 158556271}
-  - {fileID: 1630248120}
+  - {fileID: 1493709483}

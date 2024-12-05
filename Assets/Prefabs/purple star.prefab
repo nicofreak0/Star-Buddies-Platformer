@@ -12,8 +12,7 @@ GameObject:
   - component: {fileID: 7642281564034992542}
   - component: {fileID: 9157458065609202495}
   - component: {fileID: 4182396010561616805}
-  - component: {fileID: 6655408145074392655}
-  - component: {fileID: 5056099417073285532}
+  - component: {fileID: 473886117852937269}
   m_Layer: 0
   m_Name: purple star
   m_TagString: Untagged
@@ -224,7 +223,7 @@ PolygonCollider2D:
       - {x: -2.7794874, y: -9.497437}
       - {x: -1.4051282, y: -8.923078}
   m_UseDelaunayMesh: 0
---- !u!114 &6655408145074392655
+--- !u!114 &473886117852937269
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -233,19 +232,8 @@ MonoBehaviour:
   m_GameObject: {fileID: 6149530519145174453}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c9941d5137f34744d8f8efd696c679fe, type: 3}
+  m_Script: {fileID: 11500000, guid: 27422c580e780d04f927a3be38163b7f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!114 &5056099417073285532
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6149530519145174453}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 82ee37d8a6623644d93f6506da24763a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  herbertTag: Herbert
+  points: 1
+  scoreScript: {fileID: 0}
