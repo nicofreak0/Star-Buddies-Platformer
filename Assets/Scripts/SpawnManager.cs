@@ -7,7 +7,7 @@ public class SpawnManagerX : MonoBehaviour
     public GameObject[] starPrefabs;
 
     private float spawnLimitXLeft = -8.64f;
-    private float spawnLimitXRight = 6.11f;
+    private float spawnLimitXRight = 8.64f;
     private float spawnPosY = 14.06f;
 
     private float startDelay = 1.0f;
