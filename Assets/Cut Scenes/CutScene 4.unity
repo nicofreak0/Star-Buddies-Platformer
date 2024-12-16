@@ -809,7 +809,7 @@ PlayableDirector:
   m_InitialState: 1
   m_WrapMode: 2
   m_DirectorUpdateMode: 1
-  m_InitialTime: 17.200000762939453
+  m_InitialTime: 0
   m_SceneBindings:
   - key: {fileID: 2157575145130664889, guid: 042eeef72107d2143ac8a08a798a19fe, type: 2}
     value: {fileID: 2130470827}
