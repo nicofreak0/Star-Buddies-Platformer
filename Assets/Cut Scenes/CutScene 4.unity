@@ -237,6 +237,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 308335421}
+  - component: {fileID: 308335422}
   m_Layer: 0
   m_Name: SceneManager
   m_TagString: Untagged
@@ -259,6 +260,20 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &308335422
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 308335420}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6056fa4ee1f110c46bacc5466dd2f6c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  changeTime: 17.2
+  sceneName: UI Scenes/Main Menu
 --- !u!1 &418847790
 GameObject:
   m_ObjectHideFlags: 0
@@ -794,7 +809,7 @@ PlayableDirector:
   m_InitialState: 1
   m_WrapMode: 2
   m_DirectorUpdateMode: 1
-  m_InitialTime: 0
+  m_InitialTime: 17.200000762939453
   m_SceneBindings:
   - key: {fileID: 2157575145130664889, guid: 042eeef72107d2143ac8a08a798a19fe, type: 2}
     value: {fileID: 2130470827}
