@@ -1,5 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class PlayerMovement2 : MonoBehaviour
@@ -51,12 +49,17 @@ public class PlayerMovement2 : MonoBehaviour
         GetComponent<Rigidbody2D>().velocity = new Vector2(moveVelocity, GetComponent<Rigidbody2D>().velocity.y);
 
     }
-    //Check if Grounded
-    void OnCollisionEnter2D()
+
+    //Check if Grounded with tag check
+    void OnCollisionEnter2D(Collision2D collision)
     {
-        grounded = true;
-        jumpCount = maxJumps;
+        if (collision.gameObject.CompareTag("Ground")) // Check if colliding object has "Ground" tag
+        {
+            grounded = true;
+            jumpCount = maxJumps;
+        }
     }
+
     void OnCollisionExit2D()
     {
         grounded = false;

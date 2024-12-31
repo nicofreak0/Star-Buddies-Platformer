@@ -602,6 +602,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: blue cloud improved 1
       objectReference: {fileID: 0}
+    - target: {fileID: 5996549380193157854, guid: 602883a584f8d764589257773cb73b5a, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -680,6 +684,10 @@ PrefabInstance:
     - target: {fileID: 3363975574886509170, guid: 60d3a01315218c244badef285f3fc6c4, type: 3}
       propertyPath: m_Name
       value: blue cloud improved 2-2.png
+      objectReference: {fileID: 0}
+    - target: {fileID: 3363975574886509170, guid: 60d3a01315218c244badef285f3fc6c4, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -898,6 +906,10 @@ PrefabInstance:
     - target: {fileID: 3060305834587693627, guid: 4c0b4b63cfe0b3a40a2451190f5c406f, type: 3}
       propertyPath: m_Name
       value: purple cloud improved 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 3060305834587693627, guid: 4c0b4b63cfe0b3a40a2451190f5c406f, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1683,6 +1695,10 @@ PrefabInstance:
     - target: {fileID: 3060305834587693627, guid: 4c0b4b63cfe0b3a40a2451190f5c406f, type: 3}
       propertyPath: m_Name
       value: purple cloud improved 3 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3060305834587693627, guid: 4c0b4b63cfe0b3a40a2451190f5c406f, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2762,6 +2778,10 @@ PrefabInstance:
     - target: {fileID: 3363975574886509170, guid: 60d3a01315218c244badef285f3fc6c4, type: 3}
       propertyPath: m_Name
       value: blue cloud improved 2-2.png (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3363975574886509170, guid: 60d3a01315218c244badef285f3fc6c4, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -4597,6 +4617,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: blue cloud improved 1
       objectReference: {fileID: 0}
+    - target: {fileID: 5996549380193157854, guid: 602883a584f8d764589257773cb73b5a, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5155,6 +5179,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: purple cloud improved 3
       objectReference: {fileID: 0}
+    - target: {fileID: 3060305834587693627, guid: 4c0b4b63cfe0b3a40a2451190f5c406f, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 1343745775826603751, guid: 4c0b4b63cfe0b3a40a2451190f5c406f, type: 3}
     m_RemovedGameObjects: []
@@ -5398,6 +5426,10 @@ PrefabInstance:
     - target: {fileID: 9193397067102632053, guid: 17722dd4202527943908af5d0a9b1b23, type: 3}
       propertyPath: m_Name
       value: blue cloud improved 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 9193397067102632053, guid: 17722dd4202527943908af5d0a9b1b23, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -5933,6 +5965,11 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2013259314}
   m_CullTransparentMesh: 1
+--- !u!4 &2073348546 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3760663034122064648, guid: 20b8a9d2d6fa5854685b66739f3abf0e, type: 3}
+  m_PrefabInstance: {fileID: 5743265375292695503}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &2117319713
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5996,6 +6033,10 @@ PrefabInstance:
     - target: {fileID: 3363975574886509170, guid: 60d3a01315218c244badef285f3fc6c4, type: 3}
       propertyPath: m_Name
       value: blue cloud improved 2-2.png (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3363975574886509170, guid: 60d3a01315218c244badef285f3fc6c4, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 9112439958877959527, guid: 60d3a01315218c244badef285f3fc6c4, type: 3}
       propertyPath: m_Points.m_Paths.Array.data[0].Array.size
@@ -6459,6 +6500,75 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 2146382999745298681, guid: 60d3a01315218c244badef285f3fc6c4, type: 3}
   m_PrefabInstance: {fileID: 2117319713}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &855729508482769004
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 431987114836305161, guid: f7d8a0632c657e6488b979846ae64cef, type: 3}
+      propertyPath: m_Name
+      value: Reset Teleporter
+      objectReference: {fileID: 0}
+    - target: {fileID: 2360981193697261958, guid: f7d8a0632c657e6488b979846ae64cef, type: 3}
+      propertyPath: teleportTarget
+      value: 
+      objectReference: {fileID: 2073348546}
+    - target: {fileID: 3787689949196180903, guid: f7d8a0632c657e6488b979846ae64cef, type: 3}
+      propertyPath: teleportTarget
+      value: 
+      objectReference: {fileID: 2073348546}
+    - target: {fileID: 4440643733348459776, guid: f7d8a0632c657e6488b979846ae64cef, type: 3}
+      propertyPath: teleportTarget
+      value: 
+      objectReference: {fileID: 2073348546}
+    - target: {fileID: 8501696721450691276, guid: f7d8a0632c657e6488b979846ae64cef, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 8501696721450691276, guid: f7d8a0632c657e6488b979846ae64cef, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -23.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8501696721450691276, guid: f7d8a0632c657e6488b979846ae64cef, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.03757823
+      objectReference: {fileID: 0}
+    - target: {fileID: 8501696721450691276, guid: f7d8a0632c657e6488b979846ae64cef, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8501696721450691276, guid: f7d8a0632c657e6488b979846ae64cef, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8501696721450691276, guid: f7d8a0632c657e6488b979846ae64cef, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8501696721450691276, guid: f7d8a0632c657e6488b979846ae64cef, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8501696721450691276, guid: f7d8a0632c657e6488b979846ae64cef, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8501696721450691276, guid: f7d8a0632c657e6488b979846ae64cef, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8501696721450691276, guid: f7d8a0632c657e6488b979846ae64cef, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: f7d8a0632c657e6488b979846ae64cef, type: 3}
 --- !u!1001 &1341094951383041703
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6983,6 +7093,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: purple cloud improved 2
       objectReference: {fileID: 0}
+    - target: {fileID: 7776815946885191985, guid: f80b0ddd5b43aab43bb499cfef986a76, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -7039,6 +7153,10 @@ PrefabInstance:
     - target: {fileID: 6782466934126029071, guid: 3f39ba7b440c3884ea58ab81a3fb0e46, type: 3}
       propertyPath: m_Name
       value: purple cloud improved 3-2.png (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6782466934126029071, guid: 3f39ba7b440c3884ea58ab81a3fb0e46, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 8457927979862944283, guid: 3f39ba7b440c3884ea58ab81a3fb0e46, type: 3}
       propertyPath: m_Points.m_Paths.Array.data[0].Array.size
@@ -7521,10 +7639,6 @@ PrefabInstance:
       propertyPath: m_TagString
       value: Herbert
       objectReference: {fileID: 0}
-    - target: {fileID: 6826499129739987225, guid: de487a27d51227e42809450bf7b0c647, type: 3}
-      propertyPath: maxJumps
-      value: 2
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -7871,6 +7985,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: blue cloud improved 2
       objectReference: {fileID: 0}
+    - target: {fileID: 9193397067102632053, guid: 17722dd4202527943908af5d0a9b1b23, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -7887,6 +8005,10 @@ PrefabInstance:
     - target: {fileID: 720721584648882513, guid: a2dd3cb20a6a80d489fcad852416c0d7, type: 3}
       propertyPath: m_Name
       value: purple cloud improved 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 720721584648882513, guid: a2dd3cb20a6a80d489fcad852416c0d7, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 2811158388326463858, guid: a2dd3cb20a6a80d489fcad852416c0d7, type: 3}
       propertyPath: m_LocalScale.x
@@ -8649,6 +8771,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: blue cloud improved 1
       objectReference: {fileID: 0}
+    - target: {fileID: 5996549380193157854, guid: 602883a584f8d764589257773cb73b5a, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects:
@@ -8657,6 +8783,63 @@ PrefabInstance:
       addedObject: {fileID: 451339292}
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 602883a584f8d764589257773cb73b5a, type: 3}
+--- !u!1001 &5743265375292695503
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 3575927439307638393, guid: 20b8a9d2d6fa5854685b66739f3abf0e, type: 3}
+      propertyPath: m_Name
+      value: Teleporter Transform
+      objectReference: {fileID: 0}
+    - target: {fileID: 3760663034122064648, guid: 20b8a9d2d6fa5854685b66739f3abf0e, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -7.24
+      objectReference: {fileID: 0}
+    - target: {fileID: 3760663034122064648, guid: 20b8a9d2d6fa5854685b66739f3abf0e, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.13
+      objectReference: {fileID: 0}
+    - target: {fileID: 3760663034122064648, guid: 20b8a9d2d6fa5854685b66739f3abf0e, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.0036923825
+      objectReference: {fileID: 0}
+    - target: {fileID: 3760663034122064648, guid: 20b8a9d2d6fa5854685b66739f3abf0e, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3760663034122064648, guid: 20b8a9d2d6fa5854685b66739f3abf0e, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3760663034122064648, guid: 20b8a9d2d6fa5854685b66739f3abf0e, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3760663034122064648, guid: 20b8a9d2d6fa5854685b66739f3abf0e, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3760663034122064648, guid: 20b8a9d2d6fa5854685b66739f3abf0e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3760663034122064648, guid: 20b8a9d2d6fa5854685b66739f3abf0e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3760663034122064648, guid: 20b8a9d2d6fa5854685b66739f3abf0e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 20b8a9d2d6fa5854685b66739f3abf0e, type: 3}
 --- !u!1001 &6350746627987910289
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -8720,6 +8903,10 @@ PrefabInstance:
     - target: {fileID: 3363975574886509170, guid: 60d3a01315218c244badef285f3fc6c4, type: 3}
       propertyPath: m_Name
       value: blue cloud improved 2-2.png
+      objectReference: {fileID: 0}
+    - target: {fileID: 3363975574886509170, guid: 60d3a01315218c244badef285f3fc6c4, type: 3}
+      propertyPath: m_TagString
+      value: Ground
       objectReference: {fileID: 0}
     - target: {fileID: 9112439958877959527, guid: 60d3a01315218c244badef285f3fc6c4, type: 3}
       propertyPath: m_Points.m_Paths.Array.data[0].Array.size
@@ -9578,6 +9765,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: purple cloud improved 3
       objectReference: {fileID: 0}
+    - target: {fileID: 3060305834587693627, guid: 4c0b4b63cfe0b3a40a2451190f5c406f, type: 3}
+      propertyPath: m_TagString
+      value: Ground
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -9658,3 +9849,5 @@ SceneRoots:
   - {fileID: 626474432}
   - {fileID: 380378007}
   - {fileID: 450439553}
+  - {fileID: 855729508482769004}
+  - {fileID: 5743265375292695503}
