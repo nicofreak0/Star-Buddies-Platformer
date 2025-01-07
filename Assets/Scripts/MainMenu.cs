@@ -5,7 +5,10 @@ using UnityEngine.SceneManagement;
 
 public class MainMenu : MonoBehaviour
 {
-   
+   public void CallPlayGame()
+    {
+        Invoke("PlayGame", .3f);
+    }
 
     public void PlayGame()
     {
