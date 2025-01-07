@@ -270,7 +270,7 @@ GameObject:
   - component: {fileID: 33521971}
   - component: {fileID: 33521970}
   m_Layer: 5
-  m_Name: Title
+  m_Name: Title Art Assets
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1032,7 +1032,7 @@ GameObject:
   - component: {fileID: 188214861}
   - component: {fileID: 188214860}
   m_Layer: 5
-  m_Name: Names (2)
+  m_Name: Names Assistant Programmers
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1750,7 +1750,7 @@ GameObject:
   - component: {fileID: 306822634}
   - component: {fileID: 306822633}
   m_Layer: 5
-  m_Name: Title (2)
+  m_Name: Title Assistant Programmer
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2806,7 +2806,7 @@ GameObject:
   - component: {fileID: 482936934}
   - component: {fileID: 482936933}
   m_Layer: 5
-  m_Name: Names (1)
+  m_Name: Names Lead Developer
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3634,7 +3634,7 @@ GameObject:
   - component: {fileID: 649614023}
   - component: {fileID: 649614022}
   m_Layer: 5
-  m_Name: Title (4)
+  m_Name: Title Sound Effects
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3804,7 +3804,7 @@ GameObject:
   - component: {fileID: 659849627}
   - component: {fileID: 659849626}
   m_Layer: 5
-  m_Name: Names (5)
+  m_Name: Names Music
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4413,7 +4413,7 @@ GameObject:
   - component: {fileID: 801587973}
   - component: {fileID: 801587972}
   m_Layer: 5
-  m_Name: Image
+  m_Name: Credits Title
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5148,7 +5148,7 @@ GameObject:
   - component: {fileID: 959247039}
   - component: {fileID: 959247038}
   m_Layer: 5
-  m_Name: Names (3)
+  m_Name: Names Beta Testers
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5198,7 +5198,9 @@ MonoBehaviour:
     Hunter Wixton, Moira Sawyer,
 
     Gabriella
-    Miller, Riley Hutton'
+    Miller, Riley Hutton
+
+    Quinn Jackson'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: dc36b3fdc14f47ebb36fd484a67e268a, type: 2}
   m_sharedMaterial: {fileID: 2140032, guid: dc36b3fdc14f47ebb36fd484a67e268a, type: 2}
@@ -5718,7 +5720,7 @@ GameObject:
   - component: {fileID: 1118740567}
   - component: {fileID: 1118740566}
   m_Layer: 5
-  m_Name: Title (3)
+  m_Name: Title Beta Testers
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6227,7 +6229,7 @@ GameObject:
   - component: {fileID: 1184310752}
   - component: {fileID: 1184310751}
   m_Layer: 5
-  m_Name: Title (1)
+  m_Name: Title Lead Developer
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -8597,7 +8599,7 @@ GameObject:
   - component: {fileID: 1743810656}
   - component: {fileID: 1743810655}
   m_Layer: 5
-  m_Name: Names (4)
+  m_Name: Names Sound Effects
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -8644,7 +8646,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: 'Lydia Jackson
 
-    mixkit.co'
+    Hunter Wixton, mixkit.co'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: dc36b3fdc14f47ebb36fd484a67e268a, type: 2}
   m_sharedMaterial: {fileID: 2140032, guid: dc36b3fdc14f47ebb36fd484a67e268a, type: 2}
@@ -10094,7 +10096,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &1913481925
 RectTransform:
   m_ObjectHideFlags: 0
@@ -10127,7 +10129,7 @@ GameObject:
   - component: {fileID: 1917557617}
   - component: {fileID: 1917557616}
   m_Layer: 5
-  m_Name: Title (5)
+  m_Name: Title Music
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -11116,7 +11118,7 @@ GameObject:
   - component: {fileID: 2068686007}
   - component: {fileID: 2068686006}
   m_Layer: 5
-  m_Name: Names
+  m_Name: Names Art assets
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
