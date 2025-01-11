@@ -4,8 +4,7 @@ using UnityEngine;
 
 public class AudioTrigger : MonoBehaviour
 {
-    [SerializeField]
-    public AudioSource audio;
+    public new AudioSource audio;
 
     public void OnTriggerEnter2D(Collider2D other)
     {
