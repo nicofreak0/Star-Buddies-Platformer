@@ -9,6 +9,8 @@ TagManager:
   - Collectables
   - ScoreManger
   - Ground
+  - Object1
+  - Object2
   layers:
   - Default
   - TransparentFX

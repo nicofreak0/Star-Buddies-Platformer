@@ -12,10 +12,12 @@ public class PenaltyObject : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D other)
     {
+
         if (other.gameObject.CompareTag("Herbert"))
         {
             scoreScript.DeductPoints(penaltyPoints);
             Destroy(gameObject);
+
         }
     }
 
