@@ -10,7 +10,7 @@ public class GravityTrigger : MonoBehaviour
             Rigidbody2D playerRigidbody = other.GetComponent<Rigidbody2D>();
             if (playerRigidbody != null)
             {
-                playerRigidbody.gravityScale *= 1.75f; // Double the gravity
+                playerRigidbody.gravityScale *= 1.50f; // almost doubles the gravity
             }
         }
     }
