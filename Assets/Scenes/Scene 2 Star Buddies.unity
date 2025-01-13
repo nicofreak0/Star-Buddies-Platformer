@@ -7086,7 +7086,7 @@ GameObject:
   - component: {fileID: 1210709941}
   - component: {fileID: 1210709940}
   m_Layer: 0
-  m_Name: moon-1.png
+  m_Name: Moon End Point
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
