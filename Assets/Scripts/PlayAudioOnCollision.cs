@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class PlayAudioOnCollision : MonoBehaviour
 {
-    public AudioSource audioSource;
+    public AudioClip herbertCollisionSound; // Audio clip for Herbert collision
 
     private bool hasPlayedAudio = false;
 
@@ -10,20 +10,13 @@ public class PlayAudioOnCollision : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("Herbert") && !hasPlayedAudio)
         {
-            if (audioSource != null && audioSource.clip != null)
-            {
-                audioSource.Play();
-                hasPlayedAudio = true;
-            }
-            else
-            {
-                Debug.LogError("AudioSource or AudioClip is missing on " + gameObject.name);
-            }
+            AudioManager.Instance.PlayOneShot(herbertCollisionSound);
+            hasPlayedAudio = true;
         }
 
         // Destroy the object after playing the audio (if applicable)
-        // You might not always want to destroy the object. 
+        // You might not always want to destroy the object.
         // Consider this based on your game logic:
-        // Destroy(gameObject); 
+        // Destroy(gameObject);
     }
 }

@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 6394484317156823550}
   - component: {fileID: 986841885912973188}
   - component: {fileID: 8270876316619749477}
+  - component: {fileID: -861163312099607950}
   m_Layer: 0
   m_Name: green star
   m_TagString: Untagged
@@ -229,3 +230,16 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   points: 1
   scoreScript: {fileID: 0}
+--- !u!114 &-861163312099607950
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 194318147590907020}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 22b576fcddd6888468e5d253e3b5e458, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  collectSound: {fileID: 8300000, guid: db62483cd9f0253449b4aa2178d95a3b, type: 3}

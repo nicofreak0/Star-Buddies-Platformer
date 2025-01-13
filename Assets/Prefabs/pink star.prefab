@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 1103611997074040722}
   - component: {fileID: 5640192078914352095}
   - component: {fileID: 6856714858294561055}
+  - component: {fileID: 9167398675551449238}
   m_Layer: 0
   m_Name: pink star
   m_TagString: Untagged
@@ -237,3 +238,16 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   points: 1
   scoreScript: {fileID: 0}
+--- !u!114 &9167398675551449238
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8806896591407861763}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 22b576fcddd6888468e5d253e3b5e458, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  collectSound: {fileID: 8300000, guid: db62483cd9f0253449b4aa2178d95a3b, type: 3}
