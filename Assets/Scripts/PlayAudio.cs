@@ -14,17 +14,17 @@ public class PlayAudio : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-       if(masterSlider.gameObject.activeInHierarchy)
+       if(masterSlider !=null)
         {
             masterSlider.value = PreferencesManager.GetMasterVolume();
         }
 
-        if (musicSlider.gameObject.activeInHierarchy)
+        if (musicSlider != null)
         {
             musicSlider.value = PreferencesManager.GetMusicVolume();
         }
 
-        if (sfxSlider.gameObject.activeInHierarchy)
+        if (sfxSlider != null)
         {
             sfxSlider.value = PreferencesManager.GetSFXVolume();
         }
