@@ -1540,7 +1540,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 20898414813095262, guid: 351da634b37d0ea43ba49ec1cce07abd, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -13.51
+      value: -13.09
       objectReference: {fileID: 0}
     - target: {fileID: 20898414813095262, guid: 351da634b37d0ea43ba49ec1cce07abd, type: 3}
       propertyPath: m_LocalPosition.z
@@ -1580,12 +1580,13 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 1474652297742132470, guid: 351da634b37d0ea43ba49ec1cce07abd, type: 3}
+    - {fileID: 1165281785065594959, guid: 351da634b37d0ea43ba49ec1cce07abd, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents:
     - targetCorrespondingSourceObject: {fileID: 784141679095988754, guid: 351da634b37d0ea43ba49ec1cce07abd, type: 3}
-      insertIndex: 2
-      addedObject: {fileID: 644261325}
+      insertIndex: -1
+      addedObject: {fileID: 644261321}
   m_SourcePrefab: {fileID: 100100000, guid: 351da634b37d0ea43ba49ec1cce07abd, type: 3}
 --- !u!1 &304811028
 GameObject:
@@ -2140,12 +2141,7 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 784141679095988754, guid: 351da634b37d0ea43ba49ec1cce07abd, type: 3}
   m_PrefabInstance: {fileID: 304336398}
   m_PrefabAsset: {fileID: 0}
---- !u!82 &644261321 stripped
-AudioSource:
-  m_CorrespondingSourceObject: {fileID: 1165281785065594959, guid: 351da634b37d0ea43ba49ec1cce07abd, type: 3}
-  m_PrefabInstance: {fileID: 304336398}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &644261325
+--- !u!114 &644261321
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -2154,10 +2150,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 644261320}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1afec5a30dd24aa41a37d5e784631b4c, type: 3}
+  m_Script: {fileID: 11500000, guid: 22b576fcddd6888468e5d253e3b5e458, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audio: {fileID: 644261321}
+  collectSound: {fileID: 8300000, guid: 8bb1e13123feace44bd336c76880b30a, type: 3}
 --- !u!1001 &680174358
 PrefabInstance:
   m_ObjectHideFlags: 0
