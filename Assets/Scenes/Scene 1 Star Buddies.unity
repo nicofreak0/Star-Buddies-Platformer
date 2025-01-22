@@ -4949,14 +4949,6 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 574137865}
     - target: {fileID: 3587966708275380657, guid: d851dfffd77f4b3468d58ce8a2cfc88d, type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
-      value: 4
-      objectReference: {fileID: 0}
-    - target: {fileID: 3587966708275380657, guid: d851dfffd77f4b3468d58ce8a2cfc88d, type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[3].m_Mode
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 3587966708275380657, guid: d851dfffd77f4b3468d58ce8a2cfc88d, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
       objectReference: {fileID: 574137865}
@@ -4964,22 +4956,6 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[3].m_Target
       value: 
       objectReference: {fileID: 1208905453}
-    - target: {fileID: 3587966708275380657, guid: d851dfffd77f4b3468d58ce8a2cfc88d, type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[3].m_CallState
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 3587966708275380657, guid: d851dfffd77f4b3468d58ce8a2cfc88d, type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[3].m_MethodName
-      value: SetHighScore
-      objectReference: {fileID: 0}
-    - target: {fileID: 3587966708275380657, guid: d851dfffd77f4b3468d58ce8a2cfc88d, type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[3].m_TargetAssemblyTypeName
-      value: ScoreScript, Assembly-CSharp
-      objectReference: {fileID: 0}
-    - target: {fileID: 3587966708275380657, guid: d851dfffd77f4b3468d58ce8a2cfc88d, type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[3].m_Arguments.m_ObjectArgumentAssemblyTypeName
-      value: UnityEngine.Object, UnityEngine
-      objectReference: {fileID: 0}
     - target: {fileID: 4540984847909275472, guid: d851dfffd77f4b3468d58ce8a2cfc88d, type: 3}
       propertyPath: m_Pivot.x
       value: 0
@@ -5064,10 +5040,6 @@ PrefabInstance:
       propertyPath: m_OnValueChanged.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
       objectReference: {fileID: 574137865}
-    - target: {fileID: 6555249316402568675, guid: d851dfffd77f4b3468d58ce8a2cfc88d, type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
-      value: 
-      objectReference: {fileID: 574137865}
     - target: {fileID: 6843355689271416545, guid: d851dfffd77f4b3468d58ce8a2cfc88d, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
@@ -5077,49 +5049,13 @@ PrefabInstance:
       value: Canvas UI
       objectReference: {fileID: 0}
     - target: {fileID: 8681210650956826374, guid: d851dfffd77f4b3468d58ce8a2cfc88d, type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
-      value: 4
-      objectReference: {fileID: 0}
-    - target: {fileID: 8681210650956826374, guid: d851dfffd77f4b3468d58ce8a2cfc88d, type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[3].m_Mode
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 8681210650956826374, guid: d851dfffd77f4b3468d58ce8a2cfc88d, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
       objectReference: {fileID: 574137865}
-    - target: {fileID: 8681210650956826374, guid: d851dfffd77f4b3468d58ce8a2cfc88d, type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[3].m_Target
-      value: 
-      objectReference: {fileID: 2653193050083032264}
-    - target: {fileID: 8681210650956826374, guid: d851dfffd77f4b3468d58ce8a2cfc88d, type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[3].m_CallState
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 8681210650956826374, guid: d851dfffd77f4b3468d58ce8a2cfc88d, type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[3].m_MethodName
-      value: Continue
-      objectReference: {fileID: 0}
-    - target: {fileID: 8681210650956826374, guid: d851dfffd77f4b3468d58ce8a2cfc88d, type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[3].m_TargetAssemblyTypeName
-      value: PauseMenu, Assembly-CSharp
-      objectReference: {fileID: 0}
-    - target: {fileID: 8681210650956826374, guid: d851dfffd77f4b3468d58ce8a2cfc88d, type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[3].m_Arguments.m_BoolArgument
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 8681210650956826374, guid: d851dfffd77f4b3468d58ce8a2cfc88d, type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[3].m_Arguments.m_ObjectArgumentAssemblyTypeName
-      value: UnityEngine.Object, UnityEngine
-      objectReference: {fileID: 0}
     - target: {fileID: 8704116091614591529, guid: d851dfffd77f4b3468d58ce8a2cfc88d, type: 3}
       propertyPath: m_OnValueChanged.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
       objectReference: {fileID: 574137865}
-    - target: {fileID: 8762185370085365824, guid: d851dfffd77f4b3468d58ce8a2cfc88d, type: 3}
-      propertyPath: m_IsActive
-      value: 0
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5156,17 +5092,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 67db9e8f0e2ae9c40bc1e2b64352a6b4, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &2653193050083032264 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 4145495672063318472, guid: d851dfffd77f4b3468d58ce8a2cfc88d, type: 3}
-  m_PrefabInstance: {fileID: 2653193050083032260}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: eb9a04572b324774faf4c5a26422b033, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1001 &2679854429686394843
