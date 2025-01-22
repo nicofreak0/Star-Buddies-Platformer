@@ -197,7 +197,7 @@ PrefabInstance:
     - target: {fileID: 8270876316619749477, guid: 12c0d221fd596a248beb2f93f4b98d16, type: 3}
       propertyPath: scoreScript
       value: 
-      objectReference: {fileID: 158556270}
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -383,7 +383,7 @@ PrefabInstance:
     - target: {fileID: 8270876316619749477, guid: 12c0d221fd596a248beb2f93f4b98d16, type: 3}
       propertyPath: scoreScript
       value: 
-      objectReference: {fileID: 158556270}
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -456,7 +456,7 @@ PrefabInstance:
     - target: {fileID: 6856714858294561055, guid: 24d546580f1357e4e9fd3fac132a1b01, type: 3}
       propertyPath: scoreScript
       value: 
-      objectReference: {fileID: 158556270}
+      objectReference: {fileID: 0}
     - target: {fileID: 8806896591407861763, guid: 24d546580f1357e4e9fd3fac132a1b01, type: 3}
       propertyPath: m_Name
       value: pink star (5)
@@ -537,7 +537,7 @@ PrefabInstance:
     - target: {fileID: 6856714858294561055, guid: 24d546580f1357e4e9fd3fac132a1b01, type: 3}
       propertyPath: scoreScript
       value: 
-      objectReference: {fileID: 158556270}
+      objectReference: {fileID: 0}
     - target: {fileID: 8806896591407861763, guid: 24d546580f1357e4e9fd3fac132a1b01, type: 3}
       propertyPath: m_Name
       value: pink star (9)
@@ -618,7 +618,7 @@ PrefabInstance:
     - target: {fileID: 6856714858294561055, guid: 24d546580f1357e4e9fd3fac132a1b01, type: 3}
       propertyPath: scoreScript
       value: 
-      objectReference: {fileID: 158556270}
+      objectReference: {fileID: 0}
     - target: {fileID: 8806896591407861763, guid: 24d546580f1357e4e9fd3fac132a1b01, type: 3}
       propertyPath: m_Name
       value: pink star (8)
@@ -632,6 +632,67 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 24d546580f1357e4e9fd3fac132a1b01, type: 3}
+--- !u!1001 &137793260
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 620663216301351371, guid: adcf56f04bd672f4abff18fe00ae6d14, type: 3}
+      propertyPath: m_Name
+      value: ScoreManager
+      objectReference: {fileID: 0}
+    - target: {fileID: 3876518838408614739, guid: adcf56f04bd672f4abff18fe00ae6d14, type: 3}
+      propertyPath: scoreText
+      value: 
+      objectReference: {fileID: 1493709484}
+    - target: {fileID: 7838459739204663382, guid: adcf56f04bd672f4abff18fe00ae6d14, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 18.985899
+      objectReference: {fileID: 0}
+    - target: {fileID: 7838459739204663382, guid: adcf56f04bd672f4abff18fe00ae6d14, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -267.22925
+      objectReference: {fileID: 0}
+    - target: {fileID: 7838459739204663382, guid: adcf56f04bd672f4abff18fe00ae6d14, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.24868694
+      objectReference: {fileID: 0}
+    - target: {fileID: 7838459739204663382, guid: adcf56f04bd672f4abff18fe00ae6d14, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7838459739204663382, guid: adcf56f04bd672f4abff18fe00ae6d14, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7838459739204663382, guid: adcf56f04bd672f4abff18fe00ae6d14, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7838459739204663382, guid: adcf56f04bd672f4abff18fe00ae6d14, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7838459739204663382, guid: adcf56f04bd672f4abff18fe00ae6d14, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7838459739204663382, guid: adcf56f04bd672f4abff18fe00ae6d14, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7838459739204663382, guid: adcf56f04bd672f4abff18fe00ae6d14, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: adcf56f04bd672f4abff18fe00ae6d14, type: 3}
 --- !u!4 &145402491 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 5976733604095989517, guid: 12c0d221fd596a248beb2f93f4b98d16, type: 3}
@@ -642,51 +703,6 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 8044328648588349293, guid: be318bc28e6fd5647915934dc4e79311, type: 3}
   m_PrefabInstance: {fileID: 1735301033}
   m_PrefabAsset: {fileID: 0}
---- !u!1 &158556269
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 158556271}
-  - component: {fileID: 158556270}
-  m_Layer: 0
-  m_Name: ScoreManager
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!114 &158556270
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 158556269}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0f22ee3adaf3d1a4ca79051bb2a45dec, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  scoreText: {fileID: 1493709484}
---- !u!4 &158556271
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 158556269}
-  serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 9.4929495, y: -133.61462, z: -0.12434347}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &160170425 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 6803388901153894278, guid: 98889a9f03d0ddd48aa90f3966c42ddd, type: 3}
@@ -703,7 +719,7 @@ PrefabInstance:
     - target: {fileID: 1620697672929595344, guid: 98889a9f03d0ddd48aa90f3966c42ddd, type: 3}
       propertyPath: scoreScript
       value: 
-      objectReference: {fileID: 158556270}
+      objectReference: {fileID: 0}
     - target: {fileID: 5096921789190841372, guid: 98889a9f03d0ddd48aa90f3966c42ddd, type: 3}
       propertyPath: m_IsTrigger
       value: 1
@@ -921,7 +937,7 @@ PrefabInstance:
     - target: {fileID: 4829728033700578697, guid: 527211c42600448479e1837474747ac8, type: 3}
       propertyPath: scoreScript
       value: 
-      objectReference: {fileID: 158556270}
+      objectReference: {fileID: 0}
     - target: {fileID: 6015050361782452011, guid: 527211c42600448479e1837474747ac8, type: 3}
       propertyPath: m_IsTrigger
       value: 1
@@ -1075,7 +1091,7 @@ PrefabInstance:
     - target: {fileID: 6856714858294561055, guid: 24d546580f1357e4e9fd3fac132a1b01, type: 3}
       propertyPath: scoreScript
       value: 
-      objectReference: {fileID: 158556270}
+      objectReference: {fileID: 0}
     - target: {fileID: 8806896591407861763, guid: 24d546580f1357e4e9fd3fac132a1b01, type: 3}
       propertyPath: m_Name
       value: pink star (7)
@@ -1100,7 +1116,7 @@ PrefabInstance:
     - target: {fileID: -7933861824866341316, guid: 06d534eb8c7df88479dd87a451f1dc7b, type: 3}
       propertyPath: scoreScript
       value: 
-      objectReference: {fileID: 158556270}
+      objectReference: {fileID: 0}
     - target: {fileID: 6531146434354036624, guid: 06d534eb8c7df88479dd87a451f1dc7b, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.06
@@ -1181,7 +1197,7 @@ PrefabInstance:
     - target: {fileID: 1620697672929595344, guid: 98889a9f03d0ddd48aa90f3966c42ddd, type: 3}
       propertyPath: scoreScript
       value: 
-      objectReference: {fileID: 158556270}
+      objectReference: {fileID: 0}
     - target: {fileID: 5096921789190841372, guid: 98889a9f03d0ddd48aa90f3966c42ddd, type: 3}
       propertyPath: m_IsTrigger
       value: 1
@@ -1267,7 +1283,7 @@ PrefabInstance:
     - target: {fileID: -7933861824866341316, guid: 06d534eb8c7df88479dd87a451f1dc7b, type: 3}
       propertyPath: scoreScript
       value: 
-      objectReference: {fileID: 158556270}
+      objectReference: {fileID: 0}
     - target: {fileID: 6531146434354036624, guid: 06d534eb8c7df88479dd87a451f1dc7b, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.06
@@ -1421,7 +1437,7 @@ PrefabInstance:
     - target: {fileID: 473886117852937269, guid: be318bc28e6fd5647915934dc4e79311, type: 3}
       propertyPath: scoreScript
       value: 
-      objectReference: {fileID: 158556270}
+      objectReference: {fileID: 0}
     - target: {fileID: 4182396010561616805, guid: be318bc28e6fd5647915934dc4e79311, type: 3}
       propertyPath: m_IsTrigger
       value: 1
@@ -1512,7 +1528,7 @@ PrefabInstance:
     - target: {fileID: 473886117852937269, guid: be318bc28e6fd5647915934dc4e79311, type: 3}
       propertyPath: scoreScript
       value: 
-      objectReference: {fileID: 158556270}
+      objectReference: {fileID: 0}
     - target: {fileID: 4182396010561616805, guid: be318bc28e6fd5647915934dc4e79311, type: 3}
       propertyPath: m_IsTrigger
       value: 1
@@ -1986,7 +2002,7 @@ PrefabInstance:
     - target: {fileID: 4829728033700578697, guid: 527211c42600448479e1837474747ac8, type: 3}
       propertyPath: scoreScript
       value: 
-      objectReference: {fileID: 158556270}
+      objectReference: {fileID: 0}
     - target: {fileID: 6015050361782452011, guid: 527211c42600448479e1837474747ac8, type: 3}
       propertyPath: m_IsTrigger
       value: 1
@@ -2071,7 +2087,7 @@ PrefabInstance:
     - target: {fileID: 8270876316619749477, guid: 12c0d221fd596a248beb2f93f4b98d16, type: 3}
       propertyPath: scoreScript
       value: 
-      objectReference: {fileID: 158556270}
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2148,7 +2164,7 @@ PrefabInstance:
     - target: {fileID: 4829728033700578697, guid: 527211c42600448479e1837474747ac8, type: 3}
       propertyPath: scoreScript
       value: 
-      objectReference: {fileID: 158556270}
+      objectReference: {fileID: 0}
     - target: {fileID: 6015050361782452011, guid: 527211c42600448479e1837474747ac8, type: 3}
       propertyPath: m_IsTrigger
       value: 1
@@ -2361,7 +2377,7 @@ PrefabInstance:
     - target: {fileID: 8270876316619749477, guid: 12c0d221fd596a248beb2f93f4b98d16, type: 3}
       propertyPath: scoreScript
       value: 
-      objectReference: {fileID: 158556270}
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2378,7 +2394,7 @@ PrefabInstance:
     - target: {fileID: 473886117852937269, guid: be318bc28e6fd5647915934dc4e79311, type: 3}
       propertyPath: scoreScript
       value: 
-      objectReference: {fileID: 158556270}
+      objectReference: {fileID: 0}
     - target: {fileID: 4182396010561616805, guid: be318bc28e6fd5647915934dc4e79311, type: 3}
       propertyPath: m_IsTrigger
       value: 1
@@ -2592,7 +2608,7 @@ PrefabInstance:
     - target: {fileID: 6856714858294561055, guid: 24d546580f1357e4e9fd3fac132a1b01, type: 3}
       propertyPath: scoreScript
       value: 
-      objectReference: {fileID: 158556270}
+      objectReference: {fileID: 0}
     - target: {fileID: 8806896591407861763, guid: 24d546580f1357e4e9fd3fac132a1b01, type: 3}
       propertyPath: m_Name
       value: pink star (12)
@@ -2678,7 +2694,7 @@ PrefabInstance:
     - target: {fileID: 6856714858294561055, guid: 24d546580f1357e4e9fd3fac132a1b01, type: 3}
       propertyPath: scoreScript
       value: 
-      objectReference: {fileID: 158556270}
+      objectReference: {fileID: 0}
     - target: {fileID: 8806896591407861763, guid: 24d546580f1357e4e9fd3fac132a1b01, type: 3}
       propertyPath: m_Name
       value: pink star (6)
@@ -2767,7 +2783,7 @@ PrefabInstance:
     - target: {fileID: 8270876316619749477, guid: 12c0d221fd596a248beb2f93f4b98d16, type: 3}
       propertyPath: scoreScript
       value: 
-      objectReference: {fileID: 158556270}
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2844,7 +2860,7 @@ PrefabInstance:
     - target: {fileID: 4829728033700578697, guid: 527211c42600448479e1837474747ac8, type: 3}
       propertyPath: scoreScript
       value: 
-      objectReference: {fileID: 158556270}
+      objectReference: {fileID: 0}
     - target: {fileID: 6015050361782452011, guid: 527211c42600448479e1837474747ac8, type: 3}
       propertyPath: m_IsTrigger
       value: 1
@@ -2870,7 +2886,7 @@ PrefabInstance:
     - target: {fileID: 1620697672929595344, guid: 98889a9f03d0ddd48aa90f3966c42ddd, type: 3}
       propertyPath: scoreScript
       value: 
-      objectReference: {fileID: 158556270}
+      objectReference: {fileID: 0}
     - target: {fileID: 5096921789190841372, guid: 98889a9f03d0ddd48aa90f3966c42ddd, type: 3}
       propertyPath: m_IsTrigger
       value: 1
@@ -3030,7 +3046,7 @@ PrefabInstance:
     - target: {fileID: 8270876316619749477, guid: 12c0d221fd596a248beb2f93f4b98d16, type: 3}
       propertyPath: scoreScript
       value: 
-      objectReference: {fileID: 158556270}
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3118,7 +3134,7 @@ PrefabInstance:
     - target: {fileID: 6856714858294561055, guid: 24d546580f1357e4e9fd3fac132a1b01, type: 3}
       propertyPath: scoreScript
       value: 
-      objectReference: {fileID: 158556270}
+      objectReference: {fileID: 0}
     - target: {fileID: 8806896591407861763, guid: 24d546580f1357e4e9fd3fac132a1b01, type: 3}
       propertyPath: m_Name
       value: pink star
@@ -3143,7 +3159,7 @@ PrefabInstance:
     - target: {fileID: 473886117852937269, guid: be318bc28e6fd5647915934dc4e79311, type: 3}
       propertyPath: scoreScript
       value: 
-      objectReference: {fileID: 158556270}
+      objectReference: {fileID: 0}
     - target: {fileID: 4182396010561616805, guid: be318bc28e6fd5647915934dc4e79311, type: 3}
       propertyPath: m_IsTrigger
       value: 1
@@ -3289,7 +3305,7 @@ PrefabInstance:
     - target: {fileID: 4829728033700578697, guid: 527211c42600448479e1837474747ac8, type: 3}
       propertyPath: scoreScript
       value: 
-      objectReference: {fileID: 158556270}
+      objectReference: {fileID: 0}
     - target: {fileID: 6015050361782452011, guid: 527211c42600448479e1837474747ac8, type: 3}
       propertyPath: m_IsTrigger
       value: 1
@@ -3315,7 +3331,7 @@ PrefabInstance:
     - target: {fileID: 1620697672929595344, guid: 98889a9f03d0ddd48aa90f3966c42ddd, type: 3}
       propertyPath: scoreScript
       value: 
-      objectReference: {fileID: 158556270}
+      objectReference: {fileID: 0}
     - target: {fileID: 5096921789190841372, guid: 98889a9f03d0ddd48aa90f3966c42ddd, type: 3}
       propertyPath: m_IsTrigger
       value: 1
@@ -3396,7 +3412,7 @@ PrefabInstance:
     - target: {fileID: -7933861824866341316, guid: 06d534eb8c7df88479dd87a451f1dc7b, type: 3}
       propertyPath: scoreScript
       value: 
-      objectReference: {fileID: 158556270}
+      objectReference: {fileID: 0}
     - target: {fileID: 6531146434354036624, guid: 06d534eb8c7df88479dd87a451f1dc7b, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.06
@@ -3610,7 +3626,7 @@ PrefabInstance:
     - target: {fileID: 6856714858294561055, guid: 24d546580f1357e4e9fd3fac132a1b01, type: 3}
       propertyPath: scoreScript
       value: 
-      objectReference: {fileID: 158556270}
+      objectReference: {fileID: 0}
     - target: {fileID: 8806896591407861763, guid: 24d546580f1357e4e9fd3fac132a1b01, type: 3}
       propertyPath: m_Name
       value: pink star (11)
@@ -3699,7 +3715,7 @@ PrefabInstance:
     - target: {fileID: 8270876316619749477, guid: 12c0d221fd596a248beb2f93f4b98d16, type: 3}
       propertyPath: scoreScript
       value: 
-      objectReference: {fileID: 158556270}
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3823,7 +3839,7 @@ PrefabInstance:
     - target: {fileID: 473886117852937269, guid: be318bc28e6fd5647915934dc4e79311, type: 3}
       propertyPath: scoreScript
       value: 
-      objectReference: {fileID: 158556270}
+      objectReference: {fileID: 0}
     - target: {fileID: 4182396010561616805, guid: be318bc28e6fd5647915934dc4e79311, type: 3}
       propertyPath: m_IsTrigger
       value: 1
@@ -4020,7 +4036,7 @@ PrefabInstance:
     - target: {fileID: 8270876316619749477, guid: 12c0d221fd596a248beb2f93f4b98d16, type: 3}
       propertyPath: scoreScript
       value: 
-      objectReference: {fileID: 158556270}
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4047,7 +4063,7 @@ PrefabInstance:
     - target: {fileID: 473886117852937269, guid: be318bc28e6fd5647915934dc4e79311, type: 3}
       propertyPath: scoreScript
       value: 
-      objectReference: {fileID: 158556270}
+      objectReference: {fileID: 0}
     - target: {fileID: 4182396010561616805, guid: be318bc28e6fd5647915934dc4e79311, type: 3}
       propertyPath: m_IsTrigger
       value: 1
@@ -4128,7 +4144,7 @@ PrefabInstance:
     - target: {fileID: 473886117852937269, guid: be318bc28e6fd5647915934dc4e79311, type: 3}
       propertyPath: scoreScript
       value: 
-      objectReference: {fileID: 158556270}
+      objectReference: {fileID: 0}
     - target: {fileID: 4182396010561616805, guid: be318bc28e6fd5647915934dc4e79311, type: 3}
       propertyPath: m_IsTrigger
       value: 1
@@ -4274,7 +4290,7 @@ PrefabInstance:
     - target: {fileID: 4829728033700578697, guid: 527211c42600448479e1837474747ac8, type: 3}
       propertyPath: scoreScript
       value: 
-      objectReference: {fileID: 158556270}
+      objectReference: {fileID: 0}
     - target: {fileID: 6015050361782452011, guid: 527211c42600448479e1837474747ac8, type: 3}
       propertyPath: m_IsTrigger
       value: 1
@@ -4364,7 +4380,7 @@ PrefabInstance:
     - target: {fileID: 8270876316619749477, guid: 12c0d221fd596a248beb2f93f4b98d16, type: 3}
       propertyPath: scoreScript
       value: 
-      objectReference: {fileID: 158556270}
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4381,7 +4397,7 @@ PrefabInstance:
     - target: {fileID: 1620697672929595344, guid: 98889a9f03d0ddd48aa90f3966c42ddd, type: 3}
       propertyPath: scoreScript
       value: 
-      objectReference: {fileID: 158556270}
+      objectReference: {fileID: 0}
     - target: {fileID: 5096921789190841372, guid: 98889a9f03d0ddd48aa90f3966c42ddd, type: 3}
       propertyPath: m_IsTrigger
       value: 1
@@ -4688,7 +4704,7 @@ PrefabInstance:
     - target: {fileID: 473886117852937269, guid: be318bc28e6fd5647915934dc4e79311, type: 3}
       propertyPath: scoreScript
       value: 
-      objectReference: {fileID: 158556270}
+      objectReference: {fileID: 0}
     - target: {fileID: 4182396010561616805, guid: be318bc28e6fd5647915934dc4e79311, type: 3}
       propertyPath: m_IsTrigger
       value: 1
@@ -4846,7 +4862,7 @@ PrefabInstance:
     - target: {fileID: 1620697672929595344, guid: 98889a9f03d0ddd48aa90f3966c42ddd, type: 3}
       propertyPath: scoreScript
       value: 
-      objectReference: {fileID: 158556270}
+      objectReference: {fileID: 0}
     - target: {fileID: 5096921789190841372, guid: 98889a9f03d0ddd48aa90f3966c42ddd, type: 3}
       propertyPath: m_IsTrigger
       value: 1
@@ -5002,7 +5018,7 @@ PrefabInstance:
     - target: {fileID: 4829728033700578697, guid: 527211c42600448479e1837474747ac8, type: 3}
       propertyPath: scoreScript
       value: 
-      objectReference: {fileID: 158556270}
+      objectReference: {fileID: 0}
     - target: {fileID: 6015050361782452011, guid: 527211c42600448479e1837474747ac8, type: 3}
       propertyPath: m_IsTrigger
       value: 1
@@ -5100,7 +5116,7 @@ PrefabInstance:
     - target: {fileID: 1620697672929595344, guid: 98889a9f03d0ddd48aa90f3966c42ddd, type: 3}
       propertyPath: scoreScript
       value: 
-      objectReference: {fileID: 158556270}
+      objectReference: {fileID: 0}
     - target: {fileID: 5096921789190841372, guid: 98889a9f03d0ddd48aa90f3966c42ddd, type: 3}
       propertyPath: m_IsTrigger
       value: 1
@@ -5246,7 +5262,7 @@ PrefabInstance:
     - target: {fileID: 4829728033700578697, guid: 527211c42600448479e1837474747ac8, type: 3}
       propertyPath: scoreScript
       value: 
-      objectReference: {fileID: 158556270}
+      objectReference: {fileID: 0}
     - target: {fileID: 6015050361782452011, guid: 527211c42600448479e1837474747ac8, type: 3}
       propertyPath: m_IsTrigger
       value: 1
@@ -5267,7 +5283,7 @@ PrefabInstance:
     - target: {fileID: 1620697672929595344, guid: 98889a9f03d0ddd48aa90f3966c42ddd, type: 3}
       propertyPath: scoreScript
       value: 
-      objectReference: {fileID: 158556270}
+      objectReference: {fileID: 0}
     - target: {fileID: 5096921789190841372, guid: 98889a9f03d0ddd48aa90f3966c42ddd, type: 3}
       propertyPath: m_IsTrigger
       value: 1
@@ -5418,7 +5434,7 @@ PrefabInstance:
     - target: {fileID: 4829728033700578697, guid: 527211c42600448479e1837474747ac8, type: 3}
       propertyPath: scoreScript
       value: 
-      objectReference: {fileID: 158556270}
+      objectReference: {fileID: 0}
     - target: {fileID: 6015050361782452011, guid: 527211c42600448479e1837474747ac8, type: 3}
       propertyPath: m_IsTrigger
       value: 1
@@ -5503,7 +5519,7 @@ PrefabInstance:
     - target: {fileID: 8270876316619749477, guid: 12c0d221fd596a248beb2f93f4b98d16, type: 3}
       propertyPath: scoreScript
       value: 
-      objectReference: {fileID: 158556270}
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5520,7 +5536,7 @@ PrefabInstance:
     - target: {fileID: -7933861824866341316, guid: 06d534eb8c7df88479dd87a451f1dc7b, type: 3}
       propertyPath: scoreScript
       value: 
-      objectReference: {fileID: 158556270}
+      objectReference: {fileID: 0}
     - target: {fileID: 6531146434354036624, guid: 06d534eb8c7df88479dd87a451f1dc7b, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.06
@@ -5690,7 +5706,7 @@ PrefabInstance:
     - target: {fileID: 473886117852937269, guid: be318bc28e6fd5647915934dc4e79311, type: 3}
       propertyPath: scoreScript
       value: 
-      objectReference: {fileID: 158556270}
+      objectReference: {fileID: 0}
     - target: {fileID: 4182396010561616805, guid: be318bc28e6fd5647915934dc4e79311, type: 3}
       propertyPath: m_IsTrigger
       value: 1
@@ -5781,7 +5797,7 @@ PrefabInstance:
     - target: {fileID: 1620697672929595344, guid: 98889a9f03d0ddd48aa90f3966c42ddd, type: 3}
       propertyPath: scoreScript
       value: 
-      objectReference: {fileID: 158556270}
+      objectReference: {fileID: 0}
     - target: {fileID: 5096921789190841372, guid: 98889a9f03d0ddd48aa90f3966c42ddd, type: 3}
       propertyPath: m_IsTrigger
       value: 1
@@ -5928,7 +5944,7 @@ PrefabInstance:
     - target: {fileID: 6856714858294561055, guid: 24d546580f1357e4e9fd3fac132a1b01, type: 3}
       propertyPath: scoreScript
       value: 
-      objectReference: {fileID: 158556270}
+      objectReference: {fileID: 0}
     - target: {fileID: 8806896591407861763, guid: 24d546580f1357e4e9fd3fac132a1b01, type: 3}
       propertyPath: m_Name
       value: pink star (14)
@@ -5953,7 +5969,7 @@ PrefabInstance:
     - target: {fileID: 1620697672929595344, guid: 98889a9f03d0ddd48aa90f3966c42ddd, type: 3}
       propertyPath: scoreScript
       value: 
-      objectReference: {fileID: 158556270}
+      objectReference: {fileID: 0}
     - target: {fileID: 5096921789190841372, guid: 98889a9f03d0ddd48aa90f3966c42ddd, type: 3}
       propertyPath: m_IsTrigger
       value: 1
@@ -6094,7 +6110,7 @@ PrefabInstance:
     - target: {fileID: 4829728033700578697, guid: 527211c42600448479e1837474747ac8, type: 3}
       propertyPath: scoreScript
       value: 
-      objectReference: {fileID: 158556270}
+      objectReference: {fileID: 0}
     - target: {fileID: 6015050361782452011, guid: 527211c42600448479e1837474747ac8, type: 3}
       propertyPath: m_IsTrigger
       value: 1
@@ -6202,7 +6218,7 @@ PrefabInstance:
     - target: {fileID: -7933861824866341316, guid: 06d534eb8c7df88479dd87a451f1dc7b, type: 3}
       propertyPath: scoreScript
       value: 
-      objectReference: {fileID: 158556270}
+      objectReference: {fileID: 0}
     - target: {fileID: 6531146434354036624, guid: 06d534eb8c7df88479dd87a451f1dc7b, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.06
@@ -6343,7 +6359,7 @@ PrefabInstance:
     - target: {fileID: 4829728033700578697, guid: 527211c42600448479e1837474747ac8, type: 3}
       propertyPath: scoreScript
       value: 
-      objectReference: {fileID: 158556270}
+      objectReference: {fileID: 0}
     - target: {fileID: 6015050361782452011, guid: 527211c42600448479e1837474747ac8, type: 3}
       propertyPath: m_IsTrigger
       value: 1
@@ -6369,7 +6385,7 @@ PrefabInstance:
     - target: {fileID: 473886117852937269, guid: be318bc28e6fd5647915934dc4e79311, type: 3}
       propertyPath: scoreScript
       value: 
-      objectReference: {fileID: 158556270}
+      objectReference: {fileID: 0}
     - target: {fileID: 4182396010561616805, guid: be318bc28e6fd5647915934dc4e79311, type: 3}
       propertyPath: m_IsTrigger
       value: 1
@@ -6514,7 +6530,7 @@ PrefabInstance:
     - target: {fileID: 8270876316619749477, guid: 12c0d221fd596a248beb2f93f4b98d16, type: 3}
       propertyPath: scoreScript
       value: 
-      objectReference: {fileID: 158556270}
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -6672,7 +6688,7 @@ PrefabInstance:
     - target: {fileID: 8270876316619749477, guid: 12c0d221fd596a248beb2f93f4b98d16, type: 3}
       propertyPath: scoreScript
       value: 
-      objectReference: {fileID: 158556270}
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -6758,7 +6774,7 @@ PrefabInstance:
     - target: {fileID: 8270876316619749477, guid: 12c0d221fd596a248beb2f93f4b98d16, type: 3}
       propertyPath: scoreScript
       value: 
-      objectReference: {fileID: 158556270}
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -6994,7 +7010,7 @@ PrefabInstance:
     - target: {fileID: 473886117852937269, guid: be318bc28e6fd5647915934dc4e79311, type: 3}
       propertyPath: scoreScript
       value: 
-      objectReference: {fileID: 158556270}
+      objectReference: {fileID: 0}
     - target: {fileID: 4182396010561616805, guid: be318bc28e6fd5647915934dc4e79311, type: 3}
       propertyPath: m_IsTrigger
       value: 1
@@ -7090,7 +7106,7 @@ PrefabInstance:
     - target: {fileID: -7933861824866341316, guid: 06d534eb8c7df88479dd87a451f1dc7b, type: 3}
       propertyPath: scoreScript
       value: 
-      objectReference: {fileID: 158556270}
+      objectReference: {fileID: 0}
     - target: {fileID: 6531146434354036624, guid: 06d534eb8c7df88479dd87a451f1dc7b, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.06
@@ -7291,7 +7307,7 @@ PrefabInstance:
     - target: {fileID: 1620697672929595344, guid: 98889a9f03d0ddd48aa90f3966c42ddd, type: 3}
       propertyPath: scoreScript
       value: 
-      objectReference: {fileID: 158556270}
+      objectReference: {fileID: 0}
     - target: {fileID: 5096921789190841372, guid: 98889a9f03d0ddd48aa90f3966c42ddd, type: 3}
       propertyPath: m_IsTrigger
       value: 1
@@ -7372,7 +7388,7 @@ PrefabInstance:
     - target: {fileID: 1620697672929595344, guid: 98889a9f03d0ddd48aa90f3966c42ddd, type: 3}
       propertyPath: scoreScript
       value: 
-      objectReference: {fileID: 158556270}
+      objectReference: {fileID: 0}
     - target: {fileID: 5096921789190841372, guid: 98889a9f03d0ddd48aa90f3966c42ddd, type: 3}
       propertyPath: m_IsTrigger
       value: 1
@@ -7535,7 +7551,7 @@ PrefabInstance:
     - target: {fileID: 1620697672929595344, guid: 98889a9f03d0ddd48aa90f3966c42ddd, type: 3}
       propertyPath: scoreScript
       value: 
-      objectReference: {fileID: 158556270}
+      objectReference: {fileID: 0}
     - target: {fileID: 5096921789190841372, guid: 98889a9f03d0ddd48aa90f3966c42ddd, type: 3}
       propertyPath: m_IsTrigger
       value: 1
@@ -7929,7 +7945,7 @@ PrefabInstance:
     - target: {fileID: -7933861824866341316, guid: 06d534eb8c7df88479dd87a451f1dc7b, type: 3}
       propertyPath: scoreScript
       value: 
-      objectReference: {fileID: 158556270}
+      objectReference: {fileID: 0}
     - target: {fileID: 6531146434354036624, guid: 06d534eb8c7df88479dd87a451f1dc7b, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.06
@@ -8323,7 +8339,7 @@ PrefabInstance:
     - target: {fileID: -7933861824866341316, guid: 06d534eb8c7df88479dd87a451f1dc7b, type: 3}
       propertyPath: scoreScript
       value: 
-      objectReference: {fileID: 158556270}
+      objectReference: {fileID: 0}
     - target: {fileID: 6531146434354036624, guid: 06d534eb8c7df88479dd87a451f1dc7b, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.06
@@ -8719,7 +8735,7 @@ PrefabInstance:
     - target: {fileID: 6856714858294561055, guid: 24d546580f1357e4e9fd3fac132a1b01, type: 3}
       propertyPath: scoreScript
       value: 
-      objectReference: {fileID: 158556270}
+      objectReference: {fileID: 0}
     - target: {fileID: 8806896591407861763, guid: 24d546580f1357e4e9fd3fac132a1b01, type: 3}
       propertyPath: m_Name
       value: pink star (13)
@@ -8826,7 +8842,7 @@ PrefabInstance:
     - target: {fileID: -7933861824866341316, guid: 06d534eb8c7df88479dd87a451f1dc7b, type: 3}
       propertyPath: scoreScript
       value: 
-      objectReference: {fileID: 158556270}
+      objectReference: {fileID: 0}
     - target: {fileID: 6531146434354036624, guid: 06d534eb8c7df88479dd87a451f1dc7b, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.06
@@ -8907,7 +8923,7 @@ PrefabInstance:
     - target: {fileID: 473886117852937269, guid: be318bc28e6fd5647915934dc4e79311, type: 3}
       propertyPath: scoreScript
       value: 
-      objectReference: {fileID: 158556270}
+      objectReference: {fileID: 0}
     - target: {fileID: 4182396010561616805, guid: be318bc28e6fd5647915934dc4e79311, type: 3}
       propertyPath: m_IsTrigger
       value: 1
@@ -8988,7 +9004,7 @@ PrefabInstance:
     - target: {fileID: 473886117852937269, guid: be318bc28e6fd5647915934dc4e79311, type: 3}
       propertyPath: scoreScript
       value: 
-      objectReference: {fileID: 158556270}
+      objectReference: {fileID: 0}
     - target: {fileID: 4182396010561616805, guid: be318bc28e6fd5647915934dc4e79311, type: 3}
       propertyPath: m_IsTrigger
       value: 1
@@ -9129,7 +9145,7 @@ PrefabInstance:
     - target: {fileID: 4829728033700578697, guid: 527211c42600448479e1837474747ac8, type: 3}
       propertyPath: scoreScript
       value: 
-      objectReference: {fileID: 158556270}
+      objectReference: {fileID: 0}
     - target: {fileID: 6015050361782452011, guid: 527211c42600448479e1837474747ac8, type: 3}
       propertyPath: m_IsTrigger
       value: 1
@@ -9319,7 +9335,7 @@ PrefabInstance:
     - target: {fileID: -7933861824866341316, guid: 06d534eb8c7df88479dd87a451f1dc7b, type: 3}
       propertyPath: scoreScript
       value: 
-      objectReference: {fileID: 158556270}
+      objectReference: {fileID: 0}
     - target: {fileID: 6531146434354036624, guid: 06d534eb8c7df88479dd87a451f1dc7b, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.06
@@ -9400,7 +9416,7 @@ PrefabInstance:
     - target: {fileID: -7933861824866341316, guid: 06d534eb8c7df88479dd87a451f1dc7b, type: 3}
       propertyPath: scoreScript
       value: 
-      objectReference: {fileID: 158556270}
+      objectReference: {fileID: 0}
     - target: {fileID: 6531146434354036624, guid: 06d534eb8c7df88479dd87a451f1dc7b, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.06
@@ -9481,7 +9497,7 @@ PrefabInstance:
     - target: {fileID: 1620697672929595344, guid: 98889a9f03d0ddd48aa90f3966c42ddd, type: 3}
       propertyPath: scoreScript
       value: 
-      objectReference: {fileID: 158556270}
+      objectReference: {fileID: 0}
     - target: {fileID: 5096921789190841372, guid: 98889a9f03d0ddd48aa90f3966c42ddd, type: 3}
       propertyPath: m_IsTrigger
       value: 1
@@ -9626,7 +9642,7 @@ PrefabInstance:
     - target: {fileID: 8270876316619749477, guid: 12c0d221fd596a248beb2f93f4b98d16, type: 3}
       propertyPath: scoreScript
       value: 
-      objectReference: {fileID: 158556270}
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -9812,7 +9828,7 @@ PrefabInstance:
     - target: {fileID: -7933861824866341316, guid: 06d534eb8c7df88479dd87a451f1dc7b, type: 3}
       propertyPath: scoreScript
       value: 
-      objectReference: {fileID: 158556270}
+      objectReference: {fileID: 0}
     - target: {fileID: 6531146434354036624, guid: 06d534eb8c7df88479dd87a451f1dc7b, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.06
@@ -10034,7 +10050,7 @@ PrefabInstance:
     - target: {fileID: 8270876316619749477, guid: 12c0d221fd596a248beb2f93f4b98d16, type: 3}
       propertyPath: scoreScript
       value: 
-      objectReference: {fileID: 158556270}
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -10051,7 +10067,7 @@ PrefabInstance:
     - target: {fileID: 473886117852937269, guid: be318bc28e6fd5647915934dc4e79311, type: 3}
       propertyPath: scoreScript
       value: 
-      objectReference: {fileID: 158556270}
+      objectReference: {fileID: 0}
     - target: {fileID: 4182396010561616805, guid: be318bc28e6fd5647915934dc4e79311, type: 3}
       propertyPath: m_IsTrigger
       value: 1
@@ -10188,7 +10204,7 @@ PrefabInstance:
     - target: {fileID: 6856714858294561055, guid: 24d546580f1357e4e9fd3fac132a1b01, type: 3}
       propertyPath: scoreScript
       value: 
-      objectReference: {fileID: 158556270}
+      objectReference: {fileID: 0}
     - target: {fileID: 8806896591407861763, guid: 24d546580f1357e4e9fd3fac132a1b01, type: 3}
       propertyPath: m_Name
       value: pink star (10)
@@ -10213,7 +10229,7 @@ PrefabInstance:
     - target: {fileID: 473886117852937269, guid: be318bc28e6fd5647915934dc4e79311, type: 3}
       propertyPath: scoreScript
       value: 
-      objectReference: {fileID: 158556270}
+      objectReference: {fileID: 0}
     - target: {fileID: 4182396010561616805, guid: be318bc28e6fd5647915934dc4e79311, type: 3}
       propertyPath: m_IsTrigger
       value: 1
@@ -10294,7 +10310,7 @@ PrefabInstance:
     - target: {fileID: 1620697672929595344, guid: 98889a9f03d0ddd48aa90f3966c42ddd, type: 3}
       propertyPath: scoreScript
       value: 
-      objectReference: {fileID: 158556270}
+      objectReference: {fileID: 0}
     - target: {fileID: 5096921789190841372, guid: 98889a9f03d0ddd48aa90f3966c42ddd, type: 3}
       propertyPath: m_IsTrigger
       value: 1
@@ -10440,7 +10456,7 @@ PrefabInstance:
     - target: {fileID: 4829728033700578697, guid: 527211c42600448479e1837474747ac8, type: 3}
       propertyPath: scoreScript
       value: 
-      objectReference: {fileID: 158556270}
+      objectReference: {fileID: 0}
     - target: {fileID: 6015050361782452011, guid: 527211c42600448479e1837474747ac8, type: 3}
       propertyPath: m_IsTrigger
       value: 1
@@ -10521,7 +10537,7 @@ PrefabInstance:
     - target: {fileID: 4829728033700578697, guid: 527211c42600448479e1837474747ac8, type: 3}
       propertyPath: scoreScript
       value: 
-      objectReference: {fileID: 158556270}
+      objectReference: {fileID: 0}
     - target: {fileID: 6015050361782452011, guid: 527211c42600448479e1837474747ac8, type: 3}
       propertyPath: m_IsTrigger
       value: 1
@@ -10616,7 +10632,7 @@ PrefabInstance:
     - target: {fileID: 8270876316619749477, guid: 12c0d221fd596a248beb2f93f4b98d16, type: 3}
       propertyPath: scoreScript
       value: 
-      objectReference: {fileID: 158556270}
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -10633,7 +10649,7 @@ PrefabInstance:
     - target: {fileID: -7933861824866341316, guid: 06d534eb8c7df88479dd87a451f1dc7b, type: 3}
       propertyPath: scoreScript
       value: 
-      objectReference: {fileID: 158556270}
+      objectReference: {fileID: 0}
     - target: {fileID: 6531146434354036624, guid: 06d534eb8c7df88479dd87a451f1dc7b, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.06
@@ -10739,7 +10755,7 @@ PrefabInstance:
     - target: {fileID: -7933861824866341316, guid: 06d534eb8c7df88479dd87a451f1dc7b, type: 3}
       propertyPath: scoreScript
       value: 
-      objectReference: {fileID: 158556270}
+      objectReference: {fileID: 0}
     - target: {fileID: 6531146434354036624, guid: 06d534eb8c7df88479dd87a451f1dc7b, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.06
@@ -10881,7 +10897,7 @@ PrefabInstance:
     - target: {fileID: 6856714858294561055, guid: 24d546580f1357e4e9fd3fac132a1b01, type: 3}
       propertyPath: scoreScript
       value: 
-      objectReference: {fileID: 158556270}
+      objectReference: {fileID: 0}
     - target: {fileID: 8806896591407861763, guid: 24d546580f1357e4e9fd3fac132a1b01, type: 3}
       propertyPath: m_Name
       value: pink star (3)
@@ -11193,7 +11209,7 @@ PrefabInstance:
     - target: {fileID: 6856714858294561055, guid: 24d546580f1357e4e9fd3fac132a1b01, type: 3}
       propertyPath: scoreScript
       value: 
-      objectReference: {fileID: 158556270}
+      objectReference: {fileID: 0}
     - target: {fileID: 8806896591407861763, guid: 24d546580f1357e4e9fd3fac132a1b01, type: 3}
       propertyPath: m_Name
       value: pink star (2)
@@ -11433,7 +11449,7 @@ PrefabInstance:
     - target: {fileID: 6856714858294561055, guid: 24d546580f1357e4e9fd3fac132a1b01, type: 3}
       propertyPath: scoreScript
       value: 
-      objectReference: {fileID: 158556270}
+      objectReference: {fileID: 0}
     - target: {fileID: 8806896591407861763, guid: 24d546580f1357e4e9fd3fac132a1b01, type: 3}
       propertyPath: m_Name
       value: pink star (4)
@@ -11514,7 +11530,7 @@ PrefabInstance:
     - target: {fileID: 6856714858294561055, guid: 24d546580f1357e4e9fd3fac132a1b01, type: 3}
       propertyPath: scoreScript
       value: 
-      objectReference: {fileID: 158556270}
+      objectReference: {fileID: 0}
     - target: {fileID: 8806896591407861763, guid: 24d546580f1357e4e9fd3fac132a1b01, type: 3}
       propertyPath: m_Name
       value: pink star (1)
@@ -11599,7 +11615,7 @@ PrefabInstance:
     - target: {fileID: 4829728033700578697, guid: 527211c42600448479e1837474747ac8, type: 3}
       propertyPath: scoreScript
       value: 
-      objectReference: {fileID: 158556270}
+      objectReference: {fileID: 0}
     - target: {fileID: 6015050361782452011, guid: 527211c42600448479e1837474747ac8, type: 3}
       propertyPath: m_IsTrigger
       value: 1
@@ -11757,7 +11773,7 @@ PrefabInstance:
     - target: {fileID: 4829728033700578697, guid: 527211c42600448479e1837474747ac8, type: 3}
       propertyPath: scoreScript
       value: 
-      objectReference: {fileID: 158556270}
+      objectReference: {fileID: 0}
     - target: {fileID: 6015050361782452011, guid: 527211c42600448479e1837474747ac8, type: 3}
       propertyPath: m_IsTrigger
       value: 1
@@ -11947,7 +11963,7 @@ PrefabInstance:
     - target: {fileID: -7933861824866341316, guid: 06d534eb8c7df88479dd87a451f1dc7b, type: 3}
       propertyPath: scoreScript
       value: 
-      objectReference: {fileID: 158556270}
+      objectReference: {fileID: 0}
     - target: {fileID: 6531146434354036624, guid: 06d534eb8c7df88479dd87a451f1dc7b, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.06
@@ -12205,7 +12221,7 @@ SceneRoots:
   - {fileID: 1210709941}
   - {fileID: 1673007054}
   - {fileID: 406253939}
-  - {fileID: 158556271}
+  - {fileID: 137793260}
   - {fileID: 1493709483}
   - {fileID: 238123299}
   - {fileID: 1570274018}
