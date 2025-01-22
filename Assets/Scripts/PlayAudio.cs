@@ -43,6 +43,11 @@ public class PlayAudio : MonoBehaviour
         AudioManager.Instance.ChangeSFXVolume(soundLevel);
     }
 
+    public void MuteAudio()
+    {
+        AudioManager.Instance.MuteAudio();
+    }
+
     // Update is called once per frame
     void Update()
     {

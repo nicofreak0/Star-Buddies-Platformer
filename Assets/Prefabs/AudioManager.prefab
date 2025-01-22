@@ -158,3 +158,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   oneShotSource: {fileID: 0}
+  masterMixer: {fileID: 24100000, guid: bea737309d305b1459aa94e340346097, type: 2}

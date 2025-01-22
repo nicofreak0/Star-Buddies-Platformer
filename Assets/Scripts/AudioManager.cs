@@ -7,6 +7,7 @@ public class AudioManager : MonoBehaviour
 
     public AudioSource oneShotSource; // AudioSource for one-shot sounds
     public AudioMixer masterMixer;
+    public bool isMuted = false;
 
     private void Awake()
     {
@@ -25,6 +26,26 @@ public class AudioManager : MonoBehaviour
     {
         masterMixer.SetFloat("MasterVolume", soundLevel);
         PreferencesManager.SetMasterVolume(soundLevel);
+    }
+
+    public void MuteAudio()
+    {
+       
+        if (isMuted)
+        {
+            masterMixer.SetFloat("MasterVolume", PreferencesManager.GetMasterVolume());
+            masterMixer.SetFloat("MusicVolume", PreferencesManager.GetMusicVolume());
+            masterMixer.SetFloat("SFXVolume", PreferencesManager.GetSFXVolume());
+
+            isMuted = false;
+        }
+        else
+        {
+            masterMixer.SetFloat("MasterVolume", -80);
+            masterMixer.SetFloat("MusicVolume", -80);
+            masterMixer.SetFloat("SFXVolume", -80);
+            isMuted = true;
+        }
     }
     public void ChangeMusicVolume(float soundLevel)
     {
