@@ -6,18 +6,23 @@ public class ScoreScript : MonoBehaviour
 {
     public TextMeshProUGUI scoreText;
     public static int score;
-    public Text highScore;
     
     void Start()
     {
         UpdateScoreText();
-
-        highScore.text = PlayerPrefs.GetInt("HighScore", 0).ToString();
     }
 
-    public void HighScore()
+    public void SetHighScore()
     {
-        PlayerPrefs.SetInt("HighScore", score);
+        if(score > PlayerPrefs.GetInt("HighScore"))
+        {
+            PlayerPrefs.SetInt("HighScore", score);
+        }      
+    }
+
+    private void OnApplicationQuit()
+    {
+        SetHighScore();
     }
 
     public void AddScore(int points)
