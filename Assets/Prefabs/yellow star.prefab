@@ -229,7 +229,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   points: 1
-  scoreScript: {fileID: 0}
 --- !u!114 &8720248678850834775
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -242,4 +241,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 22b576fcddd6888468e5d253e3b5e458, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  collectSound: {fileID: 8300000, guid: db62483cd9f0253449b4aa2178d95a3b, type: 3}
+  collectSound: {fileID: 8300000, guid: d3ba32503a6121544b8e58ab2e1a2382, type: 3}
