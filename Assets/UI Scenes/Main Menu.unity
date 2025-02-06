@@ -14441,6 +14441,26 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6744360358621089920, guid: 4b93dce1766c7834fa9e8fa0df4517e5, type: 3}
+      propertyPath: mainMenu
+      value: 
+      objectReference: {fileID: 8300000, guid: 288d66489f8fcdb438f0b1d1a7d8a88e, type: 3}
+    - target: {fileID: 6744360358621089920, guid: 4b93dce1766c7834fa9e8fa0df4517e5, type: 3}
+      propertyPath: sceneOne
+      value: 
+      objectReference: {fileID: 8300000, guid: 404c866d090337b43bfafca654c19f35, type: 3}
+    - target: {fileID: 6744360358621089920, guid: 4b93dce1766c7834fa9e8fa0df4517e5, type: 3}
+      propertyPath: sceneTwo
+      value: 
+      objectReference: {fileID: 8300000, guid: 3d85660b653978d409a40453f16edbd3, type: 3}
+    - target: {fileID: 6744360358621089920, guid: 4b93dce1766c7834fa9e8fa0df4517e5, type: 3}
+      propertyPath: sceneFour
+      value: 
+      objectReference: {fileID: 8300000, guid: f2fcea70a080b894b9935a408c30645b, type: 3}
+    - target: {fileID: 6744360358621089920, guid: 4b93dce1766c7834fa9e8fa0df4517e5, type: 3}
+      propertyPath: sceneThree
+      value: 
+      objectReference: {fileID: 8300000, guid: 5fddf2834910d5c44bed49361b26b581, type: 3}
+    - target: {fileID: 6744360358621089920, guid: 4b93dce1766c7834fa9e8fa0df4517e5, type: 3}
       propertyPath: masterMixer
       value: 
       objectReference: {fileID: 24100000, guid: bea737309d305b1459aa94e340346097, type: 2}
@@ -14448,6 +14468,10 @@ PrefabInstance:
       propertyPath: oneShotSource
       value: 
       objectReference: {fileID: 1006734287}
+    - target: {fileID: 6744360358621089920, guid: 4b93dce1766c7834fa9e8fa0df4517e5, type: 3}
+      propertyPath: backgroundMusic
+      value: 
+      objectReference: {fileID: 90919153}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects:

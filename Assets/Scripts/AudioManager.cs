@@ -7,6 +7,7 @@ public class AudioManager : MonoBehaviour
     public static AudioManager Instance; // Singleton instance
 
     public AudioSource oneShotSource; // AudioSource for one-shot sounds
+    public AudioSource backgroundMusic;
     public AudioMixer masterMixer;
     public bool isMuted = false;
     public AudioClip mainMenu;
@@ -38,30 +39,34 @@ public class AudioManager : MonoBehaviour
         Debug.Log("OnSceneLoaded: " + scene.name);
         Debug.Log(mode);
 
+        backgroundMusic.Stop();
+
         if(scene.name == "Main Menu")
         {
-            oneShotSource.clip = mainMenu;
+            backgroundMusic.clip = mainMenu;
         }
 
         if (scene.name == "Scene 1 Star Buddies")
         {
-            oneShotSource.clip = sceneOne;
+            backgroundMusic.clip = sceneOne;
         }
 
         if (scene.name == "Scene 2 Star Buddies")
         {
-            oneShotSource.clip = sceneTwo;
+            backgroundMusic.clip = sceneTwo;
         }
 
         if (scene.name == "Scene 3 Star Buddies")
         {
-            oneShotSource.clip = sceneThree;
+            backgroundMusic.clip = sceneThree;
         }
 
         if (scene.name == "Scene 4 Star Buddies")
         {
-            oneShotSource.clip = sceneFour;
+            backgroundMusic.clip = sceneFour;
         }
+
+        backgroundMusic.Play();
     }
 
     public void ChangeMasterVolume(float soundLevel)
