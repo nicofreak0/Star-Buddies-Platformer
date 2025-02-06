@@ -1,5 +1,6 @@
 using UnityEngine;
 using UnityEngine.Audio;
+using UnityEngine.SceneManagement;
 
 public class AudioManager : MonoBehaviour
 {
@@ -8,6 +9,12 @@ public class AudioManager : MonoBehaviour
     public AudioSource oneShotSource; // AudioSource for one-shot sounds
     public AudioMixer masterMixer;
     public bool isMuted = false;
+    public AudioClip mainMenu;
+    public AudioClip sceneOne;
+    public AudioClip sceneTwo;
+    public AudioClip sceneThree;
+    public AudioClip sceneFour;
+
 
     private void Awake()
     {
@@ -19,6 +26,21 @@ public class AudioManager : MonoBehaviour
         else
         {
             Destroy(gameObject); // Destroy duplicate instances
+        }
+    }
+
+    private void OnEnable()
+    {
+        SceneManager.sceneLoaded += OnSceneLoaded;
+    }
+    void OnSceneLoaded(Scene scene, LoadSceneMode mode)
+    {
+        Debug.Log("OnSceneLoaded: " + scene.name);
+        Debug.Log(mode);
+
+        if(scene.name == "Main Menu")
+        {
+
         }
     }
 
