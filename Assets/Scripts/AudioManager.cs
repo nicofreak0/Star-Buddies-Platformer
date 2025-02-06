@@ -40,7 +40,27 @@ public class AudioManager : MonoBehaviour
 
         if(scene.name == "Main Menu")
         {
+            oneShotSource.clip = mainMenu;
+        }
 
+        if (scene.name == "Scene 1 Star Buddies")
+        {
+            oneShotSource.clip = sceneOne;
+        }
+
+        if (scene.name == "Scene 2 Star Buddies")
+        {
+            oneShotSource.clip = sceneTwo;
+        }
+
+        if (scene.name == "Scene 3 Star Buddies")
+        {
+            oneShotSource.clip = sceneThree;
+        }
+
+        if (scene.name == "Scene 4 Star Buddies")
+        {
+            oneShotSource.clip = sceneFour;
         }
     }
 

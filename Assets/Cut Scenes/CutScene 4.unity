@@ -273,7 +273,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   changeTime: 17.2
-  sceneName: UI Scenes/Main Menu
+  sceneName: Cut Scenes/CreditsScene
 --- !u!1 &418847790
 GameObject:
   m_ObjectHideFlags: 0
