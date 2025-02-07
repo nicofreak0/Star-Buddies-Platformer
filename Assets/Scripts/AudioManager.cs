@@ -15,6 +15,7 @@ public class AudioManager : MonoBehaviour
     public AudioClip sceneTwo;
     public AudioClip sceneThree;
     public AudioClip sceneFour;
+    public AudioClip sceneFive;
 
 
     private void Awake()
@@ -64,6 +65,11 @@ public class AudioManager : MonoBehaviour
         if (scene.name == "Scene 4 Star Buddies")
         {
             backgroundMusic.clip = sceneFour;
+        }
+
+        if (scene.name == "CreditsScene")
+        {
+            backgroundMusic.clip = sceneFive;
         }
 
         backgroundMusic.Play();
