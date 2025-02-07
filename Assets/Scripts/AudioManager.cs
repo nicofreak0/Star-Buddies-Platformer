@@ -30,6 +30,11 @@ public class AudioManager : MonoBehaviour
             Destroy(gameObject); // Destroy duplicate instances
         }
     }
+    private void Start()
+    {
+        backgroundMusic.clip = mainMenu;
+        backgroundMusic.Play();
+    }
 
     private void OnEnable()
     {
@@ -40,7 +45,8 @@ public class AudioManager : MonoBehaviour
         Debug.Log("OnSceneLoaded: " + scene.name);
         Debug.Log(mode);
 
-        backgroundMusic.Stop();
+        if(backgroundMusic != null)
+            backgroundMusic.Stop();
 
         if(scene.name == "Main Menu")
         {
