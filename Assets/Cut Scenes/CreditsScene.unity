@@ -508,6 +508,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 842929613}
+  - component: {fileID: 842929614}
   m_Layer: 5
   m_Name: Text
   m_TagString: Untagged
@@ -536,6 +537,19 @@ RectTransform:
   m_AnchoredPosition: {x: -3.0839005, y: -701.5}
   m_SizeDelta: {x: 193.8323, y: 523.39795}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &842929614
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 842929612}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79a097331705e9341bda6d2605d9b49b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  moveSpeed: 150
 --- !u!1 &1220623584
 GameObject:
   m_ObjectHideFlags: 0
@@ -831,7 +845,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6056fa4ee1f110c46bacc5466dd2f6c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  changeTime: 8
+  changeTime: 28
   sceneName: UI Scenes/Main Menu
 --- !u!4 &2002887326
 Transform:
