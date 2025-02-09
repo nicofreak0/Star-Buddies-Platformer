@@ -25,9 +25,9 @@ public class AudioManager : MonoBehaviour
             Instance = this;
             DontDestroyOnLoad(gameObject); // Persist across scenes
         }
-        else
+       else
         {
-            Destroy(gameObject); // Destroy duplicate instances
+           Destroy(gameObject); // Destroy duplicate instances
         }
     }
     private void Start()
