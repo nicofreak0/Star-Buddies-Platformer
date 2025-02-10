@@ -14301,7 +14301,27 @@ PrefabInstance:
     - target: {fileID: 6744360358621089920, guid: 4b93dce1766c7834fa9e8fa0df4517e5, type: 3}
       propertyPath: mainMenu
       value: 
-      objectReference: {fileID: 8300000, guid: f0e2164f0b396db45a93f41b742bd3e2, type: 3}
+      objectReference: {fileID: 8300000, guid: b2f7156406b5e68449dfd343d9f83ef2, type: 3}
+    - target: {fileID: 6744360358621089920, guid: 4b93dce1766c7834fa9e8fa0df4517e5, type: 3}
+      propertyPath: sceneOne
+      value: 
+      objectReference: {fileID: 8300000, guid: f44fa6d9533ddc643928bc7775d0e1a6, type: 3}
+    - target: {fileID: 6744360358621089920, guid: 4b93dce1766c7834fa9e8fa0df4517e5, type: 3}
+      propertyPath: sceneTwo
+      value: 
+      objectReference: {fileID: 8300000, guid: be8b72b7613941f409df5c4d83ba389d, type: 3}
+    - target: {fileID: 6744360358621089920, guid: 4b93dce1766c7834fa9e8fa0df4517e5, type: 3}
+      propertyPath: sceneFive
+      value: 
+      objectReference: {fileID: 8300000, guid: b2f7156406b5e68449dfd343d9f83ef2, type: 3}
+    - target: {fileID: 6744360358621089920, guid: 4b93dce1766c7834fa9e8fa0df4517e5, type: 3}
+      propertyPath: sceneFour
+      value: 
+      objectReference: {fileID: 8300000, guid: 0cf097b274caf6345b946207574fffb9, type: 3}
+    - target: {fileID: 6744360358621089920, guid: 4b93dce1766c7834fa9e8fa0df4517e5, type: 3}
+      propertyPath: sceneThree
+      value: 
+      objectReference: {fileID: 8300000, guid: d531ce09aa83e24499f3020fb1733725, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
