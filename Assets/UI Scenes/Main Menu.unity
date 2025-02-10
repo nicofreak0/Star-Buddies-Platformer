@@ -14322,6 +14322,22 @@ PrefabInstance:
       propertyPath: sceneThree
       value: 
       objectReference: {fileID: 8300000, guid: d531ce09aa83e24499f3020fb1733725, type: 3}
+    - target: {fileID: 6744360358621089920, guid: 4b93dce1766c7834fa9e8fa0df4517e5, type: 3}
+      propertyPath: cutsceneOne
+      value: 
+      objectReference: {fileID: 8300000, guid: b22308781fce1d944a739e3378423e87, type: 3}
+    - target: {fileID: 6744360358621089920, guid: 4b93dce1766c7834fa9e8fa0df4517e5, type: 3}
+      propertyPath: cutsceneTwo
+      value: 
+      objectReference: {fileID: 8300000, guid: a517a3a23f5d48f4d8a75e390a1b192e, type: 3}
+    - target: {fileID: 6744360358621089920, guid: 4b93dce1766c7834fa9e8fa0df4517e5, type: 3}
+      propertyPath: cutsceneFour
+      value: 
+      objectReference: {fileID: 8300000, guid: 3d85660b653978d409a40453f16edbd3, type: 3}
+    - target: {fileID: 6744360358621089920, guid: 4b93dce1766c7834fa9e8fa0df4517e5, type: 3}
+      propertyPath: cutsceneThree
+      value: 
+      objectReference: {fileID: 8300000, guid: b0fde93ace0c42442a29ab9b9db8dfde, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []

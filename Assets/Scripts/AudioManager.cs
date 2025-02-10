@@ -16,6 +16,10 @@ public class AudioManager : MonoBehaviour
     public AudioClip sceneThree;
     public AudioClip sceneFour;
     public AudioClip sceneFive;
+    public AudioClip cutsceneOne;
+    public AudioClip cutsceneTwo;
+    public AudioClip cutsceneThree;
+    public AudioClip cutsceneFour;
 
 
     private void Awake()
@@ -58,9 +62,19 @@ public class AudioManager : MonoBehaviour
             backgroundMusic.clip = sceneOne;
         }
 
+        if (scene.name == "CutScene 1" && backgroundMusic != null)
+        {
+            backgroundMusic.clip = cutsceneOne;
+        }
+
         if (scene.name == "Scene 2 Star Buddies" && backgroundMusic != null)
         {
             backgroundMusic.clip = sceneTwo;
+        }
+
+        if (scene.name == "CutScene 2" && backgroundMusic != null)
+        {
+            backgroundMusic.clip = cutsceneTwo;
         }
 
         if (scene.name == "Scene 3 Star Buddies" && backgroundMusic != null)
@@ -68,9 +82,19 @@ public class AudioManager : MonoBehaviour
             backgroundMusic.clip = sceneThree;
         }
 
+        if (scene.name == "CutScene 3" && backgroundMusic != null)
+        {
+            backgroundMusic.clip = cutsceneThree;
+        }
+
         if (scene.name == "Scene 4 Star Buddies" && backgroundMusic != null)
         {
             backgroundMusic.clip = sceneFour;
+        }
+
+        if (scene.name == "CutScene 4" && backgroundMusic != null)
+        {
+            backgroundMusic.clip = cutsceneFour;
         }
 
         if (scene.name == "CreditsScene" && backgroundMusic != null)
@@ -78,7 +102,8 @@ public class AudioManager : MonoBehaviour
             backgroundMusic.clip = sceneFive;
         }
 
-        backgroundMusic.Play();
+        if (backgroundMusic != null)
+            backgroundMusic.Play();
     }
 
     public void ChangeMasterVolume(float soundLevel)
