@@ -48,32 +48,32 @@ public class AudioManager : MonoBehaviour
         if(backgroundMusic != null)
             backgroundMusic.Stop();
 
-        if(scene.name == "Main Menu")
+        if(scene.name == "Main Menu" && backgroundMusic != null)
         {
             backgroundMusic.clip = mainMenu;
         }
 
-        if (scene.name == "Scene 1 Star Buddies")
+        if (scene.name == "Scene 1 Star Buddies" && backgroundMusic != null)
         {
             backgroundMusic.clip = sceneOne;
         }
 
-        if (scene.name == "Scene 2 Star Buddies")
+        if (scene.name == "Scene 2 Star Buddies" && backgroundMusic != null)
         {
             backgroundMusic.clip = sceneTwo;
         }
 
-        if (scene.name == "Scene 3 Star Buddies")
+        if (scene.name == "Scene 3 Star Buddies" && backgroundMusic != null)
         {
             backgroundMusic.clip = sceneThree;
         }
 
-        if (scene.name == "Scene 4 Star Buddies")
+        if (scene.name == "Scene 4 Star Buddies" && backgroundMusic != null)
         {
             backgroundMusic.clip = sceneFour;
         }
 
-        if (scene.name == "CreditsScene")
+        if (scene.name == "CreditsScene" && backgroundMusic != null)
         {
             backgroundMusic.clip = sceneFive;
         }
