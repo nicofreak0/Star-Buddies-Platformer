@@ -15,8 +15,8 @@ public class RocketMovement : MonoBehaviour
     void Update()
     {
         // Get input from keyboard
-        movement.x = Input.GetKey(KeyCode.RightArrow) ? 1 : Input.GetKey(KeyCode.LeftArrow) ? -1 : 0; // Right and Left
-        movement.y = Input.GetKey(KeyCode.UpArrow) ? 1 : Input.GetKey(KeyCode.DownArrow) ? -1 : 0; // Up and Down
+        movement.x = Input.GetKey(KeyCode.RightArrow) || Input.GetKey(KeyCode.D) ? 1 : Input.GetKey(KeyCode.LeftArrow) || Input.GetKey(KeyCode.A) ? -1 : 0; // Right and Left
+        movement.y = Input.GetKey(KeyCode.UpArrow) || Input.GetKey(KeyCode.W) ? 1 : Input.GetKey(KeyCode.DownArrow) || Input.GetKey(KeyCode.S) ? -1 : 0; // Up and Down
 
         // If there's movement, rotate to face the opposite direction
         if (movement != Vector2.zero)
