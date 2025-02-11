@@ -29,6 +29,7 @@ public class ScoreScript : MonoBehaviour
     {
         score += points;
         UpdateScoreText();
+        SetHighScore() ;
     }
 
     public void DeductPoints(int points)
