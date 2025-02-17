@@ -3501,7 +3501,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   points: 1
-  scoreScript: {fileID: 0}
 --- !u!1001 &575493766
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3597,7 +3596,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   points: 1
-  scoreScript: {fileID: 0}
 --- !u!1 &601725730 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 8806896591407861763, guid: 24d546580f1357e4e9fd3fac132a1b01, type: 3}
@@ -4327,7 +4325,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   points: 1
-  scoreScript: {fileID: 0}
 --- !u!1 &737347365 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 8806896591407861763, guid: 24d546580f1357e4e9fd3fac132a1b01, type: 3}
@@ -4351,7 +4348,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   points: 1
-  scoreScript: {fileID: 0}
 --- !u!1 &748522965 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7727783706566223754, guid: 01df794710c6cdc4a902f533f04d38b1, type: 3}
@@ -4375,7 +4371,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   points: 1
-  scoreScript: {fileID: 0}
 --- !u!1001 &774130352
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4533,7 +4528,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   points: 1
-  scoreScript: {fileID: 0}
 --- !u!1 &787121053 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 8527159004337431239, guid: 98889a9f03d0ddd48aa90f3966c42ddd, type: 3}
@@ -4810,7 +4804,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   points: 1
-  scoreScript: {fileID: 0}
 --- !u!1 &835115083 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 194318147590907020, guid: 12c0d221fd596a248beb2f93f4b98d16, type: 3}
@@ -4834,7 +4827,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   points: 1
-  scoreScript: {fileID: 0}
 --- !u!4 &844822674 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3305235135733437666, guid: 527211c42600448479e1837474747ac8, type: 3}
@@ -4858,7 +4850,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   points: 1
-  scoreScript: {fileID: 0}
 --- !u!1 &858470142 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 2695014505955323757, guid: 527211c42600448479e1837474747ac8, type: 3}
@@ -4877,7 +4868,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   points: 1
-  scoreScript: {fileID: 0}
 --- !u!1001 &866903512
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5252,7 +5242,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   points: 1
-  scoreScript: {fileID: 0}
 --- !u!1001 &920591207
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5490,7 +5479,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   points: 1
-  scoreScript: {fileID: 0}
 --- !u!4 &949815222 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3305235135733437666, guid: 527211c42600448479e1837474747ac8, type: 3}
@@ -5509,7 +5497,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   points: 1
-  scoreScript: {fileID: 0}
 --- !u!1 &956081180
 GameObject:
   m_ObjectHideFlags: 0
@@ -6185,7 +6172,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   points: 1
-  scoreScript: {fileID: 0}
 --- !u!4 &1024086942 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 651538570110470777, guid: 24d546580f1357e4e9fd3fac132a1b01, type: 3}
@@ -6204,7 +6190,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   points: 1
-  scoreScript: {fileID: 0}
 --- !u!4 &1027196482 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4467521947098682302, guid: 2157da87aa6363447a9fb7623f71f5ae, type: 3}
@@ -6944,7 +6929,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   points: 1
-  scoreScript: {fileID: 0}
 --- !u!4 &1128165391 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 507904563008391593, guid: 01df794710c6cdc4a902f533f04d38b1, type: 3}
@@ -7188,7 +7172,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   points: 1
-  scoreScript: {fileID: 0}
 --- !u!4 &1153341671 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 8044328648588349293, guid: be318bc28e6fd5647915934dc4e79311, type: 3}
@@ -7700,7 +7683,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   points: 1
-  scoreScript: {fileID: 0}
 --- !u!1001 &1257586750
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -7786,7 +7768,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   points: 1
-  scoreScript: {fileID: 0}
 --- !u!1 &1265020153 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 2695014505955323757, guid: 527211c42600448479e1837474747ac8, type: 3}
@@ -7805,7 +7786,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   points: 1
-  scoreScript: {fileID: 0}
 --- !u!1001 &1272699285
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -7896,7 +7876,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   points: 1
-  scoreScript: {fileID: 0}
 --- !u!1001 &1280657789
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -8054,7 +8033,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   points: 1
-  scoreScript: {fileID: 0}
 --- !u!1001 &1313120006
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -8151,7 +8129,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   points: 1
-  scoreScript: {fileID: 0}
 --- !u!1001 &1316239723
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -8468,7 +8445,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   points: 1
-  scoreScript: {fileID: 0}
 --- !u!1001 &1356857353
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -8571,7 +8547,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   points: 1
-  scoreScript: {fileID: 0}
 --- !u!1 &1361814493 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 8806896591407861763, guid: 24d546580f1357e4e9fd3fac132a1b01, type: 3}
@@ -8673,7 +8648,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   points: 1
-  scoreScript: {fileID: 0}
 --- !u!1 &1377514409 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7722371695991490269, guid: 06d534eb8c7df88479dd87a451f1dc7b, type: 3}
@@ -8692,7 +8666,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   points: 1
-  scoreScript: {fileID: 0}
 --- !u!1001 &1377811016
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -8782,7 +8755,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   points: 1
-  scoreScript: {fileID: 0}
 --- !u!1001 &1388586074
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -8862,7 +8834,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   points: 1
-  scoreScript: {fileID: 0}
 --- !u!1001 &1406601035
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -9060,7 +9031,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   points: 1
-  scoreScript: {fileID: 0}
 --- !u!4 &1442896911 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 8044328648588349293, guid: be318bc28e6fd5647915934dc4e79311, type: 3}
@@ -9297,7 +9267,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   points: 1
-  scoreScript: {fileID: 0}
 --- !u!4 &1467482055 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 6803388901153894278, guid: 98889a9f03d0ddd48aa90f3966c42ddd, type: 3}
@@ -9316,7 +9285,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   points: 1
-  scoreScript: {fileID: 0}
 --- !u!4 &1471423705 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 6803388901153894278, guid: 98889a9f03d0ddd48aa90f3966c42ddd, type: 3}
@@ -9335,7 +9303,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   points: 1
-  scoreScript: {fileID: 0}
 --- !u!1 &1478130581 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 6149530519145174453, guid: be318bc28e6fd5647915934dc4e79311, type: 3}
@@ -9354,7 +9321,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   points: 1
-  scoreScript: {fileID: 0}
 --- !u!1 &1488266808 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 8527159004337431239, guid: 98889a9f03d0ddd48aa90f3966c42ddd, type: 3}
@@ -9373,7 +9339,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   points: 1
-  scoreScript: {fileID: 0}
 --- !u!1001 &1489219768
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -9459,7 +9424,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   points: 1
-  scoreScript: {fileID: 0}
 --- !u!1 &1493222201 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 6149530519145174453, guid: be318bc28e6fd5647915934dc4e79311, type: 3}
@@ -9478,7 +9442,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   points: 1
-  scoreScript: {fileID: 0}
 --- !u!1001 &1494819243
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -9706,7 +9669,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   points: 1
-  scoreScript: {fileID: 0}
 --- !u!1 &1525844656
 GameObject:
   m_ObjectHideFlags: 0
@@ -9979,7 +9941,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   points: 1
-  scoreScript: {fileID: 0}
 --- !u!1 &1572860322 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 8527159004337431239, guid: 98889a9f03d0ddd48aa90f3966c42ddd, type: 3}
@@ -9998,7 +9959,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   points: 1
-  scoreScript: {fileID: 0}
 --- !u!4 &1585400621 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 651538570110470777, guid: 24d546580f1357e4e9fd3fac132a1b01, type: 3}
@@ -10017,7 +9977,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   points: 1
-  scoreScript: {fileID: 0}
 --- !u!4 &1586586792 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 8044328648588349293, guid: be318bc28e6fd5647915934dc4e79311, type: 3}
@@ -10036,7 +9995,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   points: 1
-  scoreScript: {fileID: 0}
 --- !u!1001 &1613356896
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -10208,7 +10166,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   points: 1
-  scoreScript: {fileID: 0}
 --- !u!1001 &1663374163
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -10361,7 +10318,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   points: 1
-  scoreScript: {fileID: 0}
 --- !u!4 &1687377426 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 5976733604095989517, guid: 12c0d221fd596a248beb2f93f4b98d16, type: 3}
@@ -10380,7 +10336,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   points: 1
-  scoreScript: {fileID: 0}
 --- !u!1001 &1688131393
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -10466,7 +10421,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   points: 1
-  scoreScript: {fileID: 0}
 --- !u!1 &1695706515 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 6149530519145174453, guid: be318bc28e6fd5647915934dc4e79311, type: 3}
@@ -10485,7 +10439,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   points: 1
-  scoreScript: {fileID: 0}
 --- !u!4 &1708953231 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 6803388901153894278, guid: 98889a9f03d0ddd48aa90f3966c42ddd, type: 3}
@@ -10504,7 +10457,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   points: 1
-  scoreScript: {fileID: 0}
 --- !u!1 &1716780054
 GameObject:
   m_ObjectHideFlags: 0
@@ -10685,7 +10637,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   points: 1
-  scoreScript: {fileID: 0}
 --- !u!1 &1734118424 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 8806896591407861763, guid: 24d546580f1357e4e9fd3fac132a1b01, type: 3}
@@ -10704,7 +10655,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   points: 1
-  scoreScript: {fileID: 0}
 --- !u!1001 &1753606948
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -11006,7 +10956,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   points: 1
-  scoreScript: {fileID: 0}
 --- !u!1 &1775524093
 GameObject:
   m_ObjectHideFlags: 0
@@ -11195,7 +11144,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   points: 1
-  scoreScript: {fileID: 0}
 --- !u!1001 &1795505521
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -11365,7 +11313,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   points: 1
-  scoreScript: {fileID: 0}
 --- !u!1 &1813672191 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 8806896591407861763, guid: 24d546580f1357e4e9fd3fac132a1b01, type: 3}
@@ -11384,7 +11331,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   points: 1
-  scoreScript: {fileID: 0}
 --- !u!1 &1820234399
 GameObject:
   m_ObjectHideFlags: 3
@@ -11558,7 +11504,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   points: 1
-  scoreScript: {fileID: 0}
 --- !u!1001 &1825948682
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -11850,7 +11795,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   points: 1
-  scoreScript: {fileID: 0}
 --- !u!1 &1858512229 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 194318147590907020, guid: 12c0d221fd596a248beb2f93f4b98d16, type: 3}
@@ -11874,7 +11818,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   points: 1
-  scoreScript: {fileID: 0}
 --- !u!1 &1868170641
 GameObject:
   m_ObjectHideFlags: 0
@@ -11977,7 +11920,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   points: 1
-  scoreScript: {fileID: 0}
 --- !u!1001 &1876761030
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -12068,7 +12010,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   points: 1
-  scoreScript: {fileID: 0}
 --- !u!4 &1886966055 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 651538570110470777, guid: 24d546580f1357e4e9fd3fac132a1b01, type: 3}
@@ -12087,7 +12028,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   points: 1
-  scoreScript: {fileID: 0}
 --- !u!4 &1893538016 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 5976733604095989517, guid: 12c0d221fd596a248beb2f93f4b98d16, type: 3}
@@ -12106,7 +12046,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   points: 1
-  scoreScript: {fileID: 0}
 --- !u!1 &1894164167 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 8806896591407861763, guid: 24d546580f1357e4e9fd3fac132a1b01, type: 3}
@@ -12125,7 +12064,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   points: 1
-  scoreScript: {fileID: 0}
 --- !u!1001 &1910690360
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -12222,7 +12160,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   points: 1
-  scoreScript: {fileID: 0}
 --- !u!1001 &1915319050
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -12308,7 +12245,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   points: 1
-  scoreScript: {fileID: 0}
 --- !u!4 &1917416708 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 5038930917851095766, guid: dab131c2fbcbf5d47874c18a97d38689, type: 3}
@@ -12877,7 +12813,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   points: 1
-  scoreScript: {fileID: 0}
 --- !u!1 &1963786707 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7722371695991490269, guid: 06d534eb8c7df88479dd87a451f1dc7b, type: 3}
@@ -12896,7 +12831,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   points: 1
-  scoreScript: {fileID: 0}
 --- !u!1001 &1964876348
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -12982,7 +12916,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   points: 1
-  scoreScript: {fileID: 0}
 --- !u!1 &1980893769 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 8527159004337431239, guid: 98889a9f03d0ddd48aa90f3966c42ddd, type: 3}
@@ -13001,7 +12934,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   points: 1
-  scoreScript: {fileID: 0}
 --- !u!1001 &1983290683
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -13086,7 +13018,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   points: 1
-  scoreScript: {fileID: 0}
 --- !u!1 &2005698745 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7722371695991490269, guid: 06d534eb8c7df88479dd87a451f1dc7b, type: 3}
@@ -13105,7 +13036,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   points: 1
-  scoreScript: {fileID: 0}
 --- !u!4 &2039213397 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 651538570110470777, guid: 24d546580f1357e4e9fd3fac132a1b01, type: 3}
@@ -13215,7 +13145,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   points: 1
-  scoreScript: {fileID: 0}
 --- !u!1001 &2059111036
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -13305,7 +13234,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   points: 1
-  scoreScript: {fileID: 0}
 --- !u!1 &2072421663 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 8527159004337431239, guid: 98889a9f03d0ddd48aa90f3966c42ddd, type: 3}
@@ -13324,7 +13252,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   points: 1
-  scoreScript: {fileID: 0}
 --- !u!1001 &2076805121
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -13414,7 +13341,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   points: 1
-  scoreScript: {fileID: 0}
 --- !u!4 &2108009637 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 5976733604095989517, guid: 12c0d221fd596a248beb2f93f4b98d16, type: 3}
@@ -13433,7 +13359,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   points: 1
-  scoreScript: {fileID: 0}
 --- !u!4 &2109504981 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 8044328648588349293, guid: be318bc28e6fd5647915934dc4e79311, type: 3}
@@ -13452,7 +13377,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   points: 1
-  scoreScript: {fileID: 0}
 --- !u!1001 &2111050817
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -13574,7 +13498,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   points: 1
-  scoreScript: {fileID: 0}
 --- !u!1 &2124715043 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 8806896591407861763, guid: 24d546580f1357e4e9fd3fac132a1b01, type: 3}
@@ -13593,7 +13516,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   points: 1
-  scoreScript: {fileID: 0}
 --- !u!4 &2135418291 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4587574408865038629, guid: ceef6955d253f7247bb5a93949c4d978, type: 3}
