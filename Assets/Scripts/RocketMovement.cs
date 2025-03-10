@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.InputSystem;
 
 public class RocketMovement : MonoBehaviour
 {
@@ -15,8 +16,8 @@ public class RocketMovement : MonoBehaviour
     void Update()
     {
         // Get input from keyboard
-        movement.x = Input.GetKey(KeyCode.RightArrow) || Input.GetKey(KeyCode.D) ? 1 : Input.GetKey(KeyCode.LeftArrow) || Input.GetKey(KeyCode.A) ? -1 : 0; // Right and Left
-        movement.y = Input.GetKey(KeyCode.UpArrow) || Input.GetKey(KeyCode.W) ? 1 : Input.GetKey(KeyCode.DownArrow) || Input.GetKey(KeyCode.S) ? -1 : 0; // Up and Down
+        //movement.x = Input.GetKey(KeyCode.RightArrow) || Input.GetKey(KeyCode.D) ? 1 : Input.GetKey(KeyCode.LeftArrow) || Input.GetKey(KeyCode.A) ? -1 : 0; // Right and Left
+        //movement.y = Input.GetKey(KeyCode.UpArrow) || Input.GetKey(KeyCode.W) ? 1 : Input.GetKey(KeyCode.DownArrow) || Input.GetKey(KeyCode.S) ? -1 : 0; // Up and Down
 
         // If there's movement, rotate to face the opposite direction
         if (movement != Vector2.zero)
@@ -36,5 +37,10 @@ public class RocketMovement : MonoBehaviour
         // Calculate the angle based on movement direction (inverted)
         float angle = Mathf.Atan2(movement.y, movement.x) * Mathf.Rad2Deg + 0f; // Adjust for 2D sprite orientation
         rb.rotation = angle; // Set the rotation
+    }
+
+    public void OnMove(InputValue value)
+    {
+        movement = value.Get<Vector2>();
     }
 }

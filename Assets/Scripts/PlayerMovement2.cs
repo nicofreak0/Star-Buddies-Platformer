@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.InputSystem;
 
 public class PlayerMovement2 : MonoBehaviour
 {
@@ -6,9 +7,11 @@ public class PlayerMovement2 : MonoBehaviour
     public float speed;
     public float jump;
     float moveVelocity;
+    private float inputX;
 
     //Grounded Vars
     bool grounded = true;
+    bool jumping;
 
     //Jumping Vars
     public int maxJumps = 2;
@@ -25,23 +28,24 @@ public class PlayerMovement2 : MonoBehaviour
     void Update()
     {
         //Jumping
-        if (Input.GetKeyDown(KeyCode.Space) || Input.GetKeyDown(KeyCode.UpArrow) || Input.GetKeyDown(KeyCode.Z) || Input.GetKeyDown(KeyCode.W))
+        if (jumping)
         {
             if (grounded || jumpCount > 0)
             {
                 GetComponent<Rigidbody2D>().velocity = new Vector2(GetComponent<Rigidbody2D>().velocity.x, jump);
                 jumpCount--;
+                jumping = false;
             }
         }
 
         moveVelocity = 0;
 
         //Left Right Movement
-        if (Input.GetKey(KeyCode.LeftArrow) || Input.GetKey(KeyCode.A))
+        if (inputX < 0)
         {
             moveVelocity = -speed;
         }
-        if (Input.GetKey(KeyCode.RightArrow) || Input.GetKey(KeyCode.D))
+        if (inputX > 0)
         {
             moveVelocity = speed;
         }
@@ -63,5 +67,15 @@ public class PlayerMovement2 : MonoBehaviour
     void OnCollisionExit2D()
     {
         grounded = false;
+    }
+
+    public void OnMove(InputValue value)
+    {
+        inputX = value.Get<Vector2>().x;
+    }
+
+    public void OnJump(InputValue value)
+    {
+        jumping = value.isPressed;
     }
 }

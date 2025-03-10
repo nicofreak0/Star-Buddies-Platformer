@@ -1,10 +1,13 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.EventSystems;
 
 public class PauseMenu : MonoBehaviour
 {
-    public GameObject PausePanel;
+    public GameObject pausePanel;
+    public GameObject playButton;
+    public GameObject buttons;
 
     // Update is called once per frame
     void Update()
@@ -14,13 +17,16 @@ public class PauseMenu : MonoBehaviour
     
     public void Pause() 
     { 
-        PausePanel.SetActive(true);
+        pausePanel.SetActive(true);
         Time.timeScale = 0;
+        EventSystem.current.SetSelectedGameObject(playButton);
+        buttons.SetActive(false);
     }
 
     public void Continue()
     {
-        PausePanel.SetActive(false);
+        pausePanel.SetActive(false);
         Time.timeScale = 1;
+        buttons.SetActive(true);
     }
 }
