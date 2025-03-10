@@ -1903,6 +1903,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 46557087216571616, guid: fe8e34d3b41e9574fa30ec3d4b9ebd16, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1238092241}
+    - targetCorrespondingSourceObject: {fileID: 46557087216571616, guid: fe8e34d3b41e9574fa30ec3d4b9ebd16, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1238092242}
   m_SourcePrefab: {fileID: 100100000, guid: fe8e34d3b41e9574fa30ec3d4b9ebd16, type: 3}
 --- !u!4 &1238092235 stripped
 Transform:
@@ -1994,6 +1997,19 @@ MonoBehaviour:
   m_DefaultActionMap: Player
   m_SplitScreenIndex: -1
   m_Camera: {fileID: 0}
+--- !u!114 &1238092242
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 218803779}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c661aadd4969ec44eb5118dac0e3e946, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  pauseMenu: {fileID: 1959991481}
 --- !u!1001 &1319254804
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2635,6 +2651,14 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
       objectReference: {fileID: 1996612022}
+    - target: {fileID: 2258271774895307623, guid: d851dfffd77f4b3468d58ce8a2cfc88d, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[3].m_Target
+      value: 
+      objectReference: {fileID: 1744526006}
+    - target: {fileID: 2258271774895307623, guid: d851dfffd77f4b3468d58ce8a2cfc88d, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[3].m_MethodName
+      value: SetSelectedGameObject
+      objectReference: {fileID: 0}
     - target: {fileID: 2356195521402483431, guid: d851dfffd77f4b3468d58ce8a2cfc88d, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
@@ -2743,6 +2767,14 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
       objectReference: {fileID: 1996612022}
+    - target: {fileID: 6843355689271416545, guid: d851dfffd77f4b3468d58ce8a2cfc88d, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[3].m_Target
+      value: 
+      objectReference: {fileID: 1744526006}
+    - target: {fileID: 6843355689271416545, guid: d851dfffd77f4b3468d58ce8a2cfc88d, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[3].m_MethodName
+      value: SetSelectedGameObject
+      objectReference: {fileID: 0}
     - target: {fileID: 8030681544750951401, guid: d851dfffd77f4b3468d58ce8a2cfc88d, type: 3}
       propertyPath: m_Name
       value: Canvas UI
