@@ -74,6 +74,16 @@ public class PlayerMovement2 : MonoBehaviour
         inputX = value.Get<Vector2>().x;
     }
 
+    public void MoveInput (Vector2 value)
+    {
+        inputX = value.x;
+    }
+
+    public void JumpInput(bool value)
+    {
+        jumping = value;
+    }
+
     public void OnJump(InputValue value)
     {
         jumping = value.isPressed;
