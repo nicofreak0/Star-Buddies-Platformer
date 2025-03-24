@@ -1,5 +1,6 @@
 using UnityEngine;
 using UnityEngine.InputSystem;
+using UnityEngine.Windows;
 
 public class RocketMovement : MonoBehaviour
 {
@@ -42,5 +43,10 @@ public class RocketMovement : MonoBehaviour
     public void OnMove(InputValue value)
     {
         movement = value.Get<Vector2>();
+    }
+
+    public void MoveInput(Vector2 value)
+    {
+        movement = value;
     }
 }

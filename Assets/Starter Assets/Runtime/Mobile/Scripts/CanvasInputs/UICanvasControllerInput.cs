@@ -5,16 +5,28 @@ namespace StarterAssets
     public class UICanvasControllerInput : MonoBehaviour
     {
         [Header("Output")]
-        public PlayerMovement2 StarterAssetsInputs;
+        public PlayerMovement2 playerMovement;
+        public RocketMovement rocketMovement;
 
         public void VirtualMoveInput(Vector2 virtualMoveDirection)
         {
-            StarterAssetsInputs.MoveInput(virtualMoveDirection);
+            if(playerMovement != null)
+            {
+                playerMovement.MoveInput(virtualMoveDirection);
+            }
+            if(rocketMovement != null)
+            {
+                rocketMovement.MoveInput(virtualMoveDirection);
+            }
         }
 
         public void VirtualJumpInput(bool virtualJumpState)
         {
-            StarterAssetsInputs.JumpInput(virtualJumpState);
+            if(playerMovement != null)
+            {
+                playerMovement.JumpInput(virtualJumpState);
+            }
+            
         }
     }
 
