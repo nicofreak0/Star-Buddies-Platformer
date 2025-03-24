@@ -8,6 +8,8 @@ public class PlayerMovement2 : MonoBehaviour
     public float jump;
     float moveVelocity;
     private float inputX;
+    private bool left;
+    private bool right;
 
     //Grounded Vars
     bool grounded = true;
@@ -41,11 +43,11 @@ public class PlayerMovement2 : MonoBehaviour
         moveVelocity = 0;
 
         //Left Right Movement
-        if (inputX < 0)
+        if (left)
         {
             moveVelocity = -speed;
         }
-        if (inputX > 0)
+        if (right)
         {
             moveVelocity = speed;
         }
@@ -69,14 +71,24 @@ public class PlayerMovement2 : MonoBehaviour
         grounded = false;
     }
 
-    public void OnMove(InputValue value)
+    public void OnMoveLEFT(InputValue value)
     {
-        inputX = value.Get<Vector2>().x;
+        left = value.isPressed;
     }
 
-    public void MoveInput (Vector2 value)
+    public void OnMoveRIGHT(InputValue value)
     {
-        inputX = value.x;
+        right = value.isPressed;
+    }
+
+    public void MoveLeftInput(bool value)
+    {
+        left = value;
+    }
+
+    public void MoveRightInput(bool value)
+    {
+        right = value;
     }
 
     public void JumpInput(bool value)

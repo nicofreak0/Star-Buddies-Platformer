@@ -8,18 +8,44 @@ namespace StarterAssets
         public PlayerMovement2 playerMovement;
         public RocketMovement rocketMovement;
 
-        public void VirtualMoveInput(Vector2 virtualMoveDirection)
+        public void VirtualMoveUp(bool virtualMoveDirection)
         {
-            if(playerMovement != null)
-            {
-                playerMovement.MoveInput(virtualMoveDirection);
-            }
             if(rocketMovement != null)
             {
-                rocketMovement.MoveInput(virtualMoveDirection);
+                rocketMovement.MoveUpInput(virtualMoveDirection);
+            }
+        }
+        public void VirtualMoveDown(bool virtualMoveDirection)
+        {
+            if (rocketMovement != null)
+            {
+                rocketMovement.MoveDownInput(virtualMoveDirection);
             }
         }
 
+        public void VirtualMoveLeft(bool virtualMoveDirection)
+        {
+            if (playerMovement != null)
+            {
+                playerMovement.MoveLeftInput(virtualMoveDirection);
+            }
+            if (rocketMovement != null)
+            {
+                rocketMovement.MoveUpInput(virtualMoveDirection);
+            }
+        }
+
+        public void VirtualMoveRight(bool virtualMoveDirection)
+        {
+            if (playerMovement != null)
+            {
+                playerMovement.MoveRightInput(virtualMoveDirection);
+            }
+            if (rocketMovement != null)
+            {
+                rocketMovement.MoveDownInput(virtualMoveDirection);
+            }
+        }
         public void VirtualJumpInput(bool virtualJumpState)
         {
             if(playerMovement != null)

@@ -7,6 +7,10 @@ public class RocketMovement : MonoBehaviour
     public float moveSpeed = 5f; // Speed of the player
     private Rigidbody2D rb; // Reference to the Rigidbody2D component
     private Vector2 movement; // Movement direction
+    private bool left;
+    private bool right;
+    private bool up;
+    private bool down;
 
     void Start()
     {
@@ -48,5 +52,45 @@ public class RocketMovement : MonoBehaviour
     public void MoveInput(Vector2 value)
     {
         movement = value;
+    }
+
+    public void OnMoveLEFT(InputValue value)
+    {
+        left = value.isPressed;
+    }
+
+    public void OnMoveRIGHT(InputValue value)
+    {
+        right = value.isPressed;
+    }
+
+    public void OnMoveUP(InputValue value)
+    {
+        up = value.isPressed;
+    }
+
+    public void OnMoveDOWN(InputValue value)
+    {
+        down = value.isPressed;
+    }
+
+    public void MoveLeftInput(bool value)
+    {
+        left = value;
+    }
+
+    public void MoveRightInput(bool value)
+    {
+        right = value;
+    }
+
+    public void MoveUpInput(bool value)
+    {
+        up = value;
+    }
+
+    public void MoveDownInput(bool value)
+    {
+        down = value;
     }
 }
