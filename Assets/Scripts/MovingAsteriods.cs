@@ -20,9 +20,9 @@ public class VerticalOscillator : MonoBehaviour
         elapsedTime += Time.deltaTime * speed;
 
         // Calculate the new y position using a sine wave
-        float newY = startPosition.y + Mathf.Sin(elapsedTime) * distance;
+        float newY = transform.position.y + Mathf.Sin(elapsedTime) * distance;
 
         // Apply the new position to the object
-        transform.position = new Vector3(startPosition.x, newY, startPosition.z);
+        transform.position = new Vector3(transform.position.x, newY, transform.position.z);
     }
 }

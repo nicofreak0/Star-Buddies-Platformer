@@ -303,6 +303,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 442720984856964839, guid: d851dfffd77f4b3468d58ce8a2cfc88d, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 6.0793457
+      objectReference: {fileID: 0}
     - target: {fileID: 1101714929839462240, guid: d851dfffd77f4b3468d58ce8a2cfc88d, type: 3}
       propertyPath: m_OnValueChanged.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
@@ -6395,7 +6399,7 @@ Transform:
   m_GameObject: {fileID: 1040309453}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.016416669, y: 92.92, z: -10}
+  m_LocalPosition: {x: 0.36325657, y: 92.92, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -9830,7 +9834,7 @@ Camera:
   m_Enabled: 1
   serializedVersion: 2
   m_ClearFlags: 1
-  m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0}
+  m_BackGroundColor: {r: 0, g: 0, b: 0, a: 0}
   m_projectionMatrixMode: 1
   m_GateFitMode: 2
   m_FOVAxisMode: 0
@@ -9880,7 +9884,7 @@ Transform:
   m_GameObject: {fileID: 1525844656}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.016416669, y: 92.92, z: -10}
+  m_LocalPosition: {x: 0.36325657, y: 92.92, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -12908,11 +12912,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8569010036083701536, guid: 99f4c7a89826a384abb01120c9a232d0, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: -725.62756
+      value: 226
+      objectReference: {fileID: 0}
+    - target: {fileID: 8569010036083701536, guid: 99f4c7a89826a384abb01120c9a232d0, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -76
       objectReference: {fileID: 0}
     - target: {fileID: 8952578447920231866, guid: 99f4c7a89826a384abb01120c9a232d0, type: 3}
       propertyPath: m_margin.z
-      value: -1.1931915
+      value: 3.0224915
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
