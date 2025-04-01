@@ -8,6 +8,7 @@ public class PauseManager : MonoBehaviour
 {
 
     public PauseMenu pauseMenu;
+    public GameObject onScreenControls;
 
 
     // Start is called before the first frame update
@@ -15,9 +16,15 @@ public class PauseManager : MonoBehaviour
     {
     }
 
+    public void EnableDisableOnScreenControls(bool newValue)
+    {
+        onScreenControls.SetActive(newValue);
+    }
+
     public void OnPause(InputValue value)
     {
         pauseMenu.Pause();
+        EnableDisableOnScreenControls(false);
         Debug.Log("anything");
     }
     // Update is called once per frame
