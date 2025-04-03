@@ -26,6 +26,15 @@ public class VerticalOscillator : MonoBehaviour
             // Calculate the new y position using a sine wave
             float newY = transform.position.y + Mathf.Sin(elapsedTime) * distance;
 
+            if(newY >= 3)
+            {
+                newY = 3;
+            }
+
+            if(newY <= -3)
+            {
+                newY = -3;
+            }
             // Apply the new position to the object
             transform.position = new Vector3(transform.position.x, newY, transform.position.z);
         }
