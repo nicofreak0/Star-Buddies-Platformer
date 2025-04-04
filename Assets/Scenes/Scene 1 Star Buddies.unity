@@ -6390,6 +6390,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: On Screen Controls
       objectReference: {fileID: 0}
+    - target: {fileID: 7746371646428204267, guid: 47884f1903df1b44aa5af12f41b4e109, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
