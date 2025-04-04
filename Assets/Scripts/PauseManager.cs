@@ -17,7 +17,7 @@ public class PauseManager : MonoBehaviour
 
     public void EnableDisableOnScreenControls(bool newValue)
     {
-        onScreenControls.SetActive(newValue);
+        if (onScreenControls != null) onScreenControls.SetActive(newValue);
     }
 
     public void OnPause(InputValue value)
