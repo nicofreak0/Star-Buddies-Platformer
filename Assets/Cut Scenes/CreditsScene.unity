@@ -915,7 +915,7 @@ BoxCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: 13.805878, y: 91.86218}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -926,7 +926,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 1, y: 1}
+  m_Size: {x: 557.3177, y: 193.91525}
   m_EdgeRadius: 0
 --- !u!1 &1220623584
 GameObject:
@@ -1594,7 +1594,7 @@ GameObject:
   - component: {fileID: 1893870057}
   - component: {fileID: 1893870056}
   m_Layer: 5
-  m_Name: Star Pink (1)
+  m_Name: SceneChanger
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1616,8 +1616,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 1020, y: 5589}
-  m_SizeDelta: {x: 112.93103, y: 117.83099}
+  m_AnchoredPosition: {x: 1006.2252, y: 4646}
+  m_SizeDelta: {x: 157.3767, y: 117.831}
   m_Pivot: {x: 0.4999997, y: 0.5}
 --- !u!114 &1893870056
 MonoBehaviour:
