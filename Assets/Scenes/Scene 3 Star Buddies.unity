@@ -800,8 +800,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 64d2e66023783d747a1e164c1b41f6c7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 1.6
-  distance: 0.014
+  speed: 2.3
+  distance: 0.02
   pauseMenu: {fileID: 1959991481}
 --- !u!1001 &452313846
 PrefabInstance:
@@ -913,7 +913,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 2
-  distance: 0.02
+  distance: 0.025
   pauseMenu: {fileID: 1959991481}
 --- !u!1 &614450559
 GameObject:
@@ -1149,8 +1149,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 64d2e66023783d747a1e164c1b41f6c7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 1.8
-  distance: 0.016
+  speed: 2.6
+  distance: 0.03
   pauseMenu: {fileID: 1959991481}
 --- !u!1 &775512642
 GameObject:
@@ -2485,8 +2485,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 64d2e66023783d747a1e164c1b41f6c7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 1.8
-  distance: 0.012
+  speed: 2.2
+  distance: 0.02
   pauseMenu: {fileID: 1959991481}
 --- !u!1 &1744526004
 GameObject:
