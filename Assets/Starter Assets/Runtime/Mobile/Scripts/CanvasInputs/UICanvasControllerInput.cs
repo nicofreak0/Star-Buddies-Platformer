@@ -31,7 +31,7 @@ namespace StarterAssets
             }
             if (rocketMovement != null)
             {
-                rocketMovement.MoveUpInput(virtualMoveDirection);
+                rocketMovement.MoveLeftInput(virtualMoveDirection);
             }
         }
 
@@ -43,7 +43,7 @@ namespace StarterAssets
             }
             if (rocketMovement != null)
             {
-                rocketMovement.MoveDownInput(virtualMoveDirection);
+                rocketMovement.MoveRightInput(virtualMoveDirection);
             }
         }
         public void VirtualJumpInput(bool virtualJumpState)

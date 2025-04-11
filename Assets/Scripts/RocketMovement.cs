@@ -7,6 +7,7 @@ public class RocketMovement : MonoBehaviour
     public float moveSpeed = 5f; // Speed of the player
     private Rigidbody2D rb; // Reference to the Rigidbody2D component
     private Vector2 movement; // Movement direction
+    float moveVelocity;
     private bool left;
     private bool right;
     private bool up;
@@ -28,6 +29,34 @@ public class RocketMovement : MonoBehaviour
         if (movement != Vector2.zero)
         {
             RotatePlayer();
+        }
+
+        //Left Right Movement
+        if (left)
+        {
+            movement.x = -1;
+        }
+        if (right)
+        {
+            movement.x = 1;
+        }
+        if (!left && !right)
+        {
+            movement.x = 0;
+        }
+
+        if (down)
+        {
+            movement.y = -1;
+        }
+        if (up)
+        {
+            movement.y = 1;
+        }
+
+        if (!down && !up)  
+        {
+            movement.y = 0;
         }
     }
 
