@@ -73,10 +73,10 @@ public class RocketMovement : MonoBehaviour
         rb.rotation = angle; // Set the rotation
     }
 
-    public void OnMove(InputValue value)
+   /* public void OnMove(InputValue value)
     {
         movement = value.Get<Vector2>();
-    }
+    }*/
 
     public void MoveInput(Vector2 value)
     {

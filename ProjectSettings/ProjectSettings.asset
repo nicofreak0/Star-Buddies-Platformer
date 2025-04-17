@@ -737,16 +737,16 @@ PlayerSettings:
   m_MobileRenderingPath: 1
   metroPackageName: StarBuddiesPlatformer
   metroPackageVersion: 1.0.0.0
-  metroCertificatePath: 
+  metroCertificatePath: Assets/WSATestCertificate.pfx
   metroCertificatePassword: 
-  metroCertificateSubject: 
-  metroCertificateIssuer: 
-  metroCertificateNotAfter: 0000000000000000
+  metroCertificateSubject: GCTC
+  metroCertificateIssuer: GCTC
+  metroCertificateNotAfter: 80154e5ecfcedc01
   metroApplicationDescription: Star Buddies Platformer
   wsaImages:
     65636: Assets/My Art/StarBuddies App Cover 50x50.png
     65736: Assets/My Art/StarBuddies App Cover 100x100.png
-    131272: Assets/My Art/GCTC 1240x600.png
+    131272: Assets/My Art/GCTC 1240x600 white.png
     2031640: Assets/My Art/StarBuddies App Cover 24x24.png
     2031716: Assets/My Art/StarBuddies App Cover 44x44.png
     2031816: Assets/My Art/StarBuddies App Cover 88x88.png

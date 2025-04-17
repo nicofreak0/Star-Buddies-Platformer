@@ -205,7 +205,7 @@
                 {
                     "name": "",
                     "id": "5ada0880-ee90-4880-a206-ad9cda823f34",
-                    "path": "<Gamepad>/leftStick",
+                    "path": "<Gamepad>/leftStick/up",
                     "interactions": "",
                     "processors": "",
                     "groups": ";Gamepad",
